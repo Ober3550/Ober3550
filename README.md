@@ -31,7 +31,7 @@ Gravitational simulation focused on both speed and visualization.
 ## Icosphere/Opengl Testing (C++, OpenGL)   
 I'm always striving to learn more about the technologies we rely upon to present data.   
 <img src="assets/icosphere.gif" width="800"/>   
-<img src="assets/mars.gif" width="800"/>   
+<img src="assets/marslighting.gif" width="800"/>   
 
 ## Fluid Sim Project (C++, SFML, ImGui)  
 Fluid sim project inspired by Fluid Simulation for Dummies by Mike Ash  
