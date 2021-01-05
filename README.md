@@ -24,6 +24,11 @@ Gravitational simulation focused on both speed and visualization.
 <img src="assets/StableUniverse.gif" width="800"/>  
 <img src="assets/PlanetaryPaths.gif" width="800"/>  
 
+## Auto Budgeter (Excel)
+Automatically categorise transactions based on keywords.  
+[Check it out here](https://github.com/ober3550/AutoBudget)  
+<img src="assets/budget.png" width="800"/>
+
 ## Wave Equation (Matlab)  
 <img src="assets/show_case_animation.gif" width="800"/>  
 <img src="assets/WaveEquation3.gif" width="800"/>  
