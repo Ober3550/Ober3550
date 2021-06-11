@@ -7,6 +7,20 @@ I am always working on something, whether it be a small, medium, or large sized 
 
 ### "Want fast C++? Know your hardware!" - Timur Doumler cppcon 2016  
 
+## Interested Technologies
+These are just some technologies I know a bit about and want to learn more
+- Compiler Design
+- OpenGL
+- Vulkan
+- SIMD
+- Assembly
+- Fluid Dynamics
+- Voxel Rendering
+- Projectile Physics
+- Cryptography
+- Ethereum Smart Contracts
+- JAI
+
 ## C++ Project Template
 When I first started learning C++ it was just so difficult. Too many things to know, too many conflicting sources and lastly too many documents without a working demo. So that's why I've made my own template that people are free to use. It's lightweight, has great libraries installed and a small amount of code for the stuff that I know I struggled with so you don't have to.  
 https://github.com/ober3550/My-Template
