@@ -11,7 +11,7 @@ I'm Oliver Mainey, a recent graduate of Information Technology majoring in Compu
 ***Languages 👨‍💻***  
 Javascript, HTML, CSS, C, C++, C#, F#, Java, Python, Lua, MATLAB, SQL, R  
 ***Technologies/Libraries 🦾***  
-Node, Jenkins, Selenium, XSLT, P5.js, ImGui, SFML, SDL2, SIMD, Wordpress  
+Node, Jenkins, JMS, Swift, Selenium, XSLT, P5.js, ImGui, SFML, SDL2, SIMD, Wordpress  
 **Soft Skills ✍**  
 Word, Excel, PowerPoint, Git, Jira, Confluence, Linux, A good appreciation for visual design
 
