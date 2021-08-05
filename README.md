@@ -1,11 +1,19 @@
 # Oliver Mainey's Computer Science Portfolio 
-(Updated 23rd November 2020)  
+(Updated 8th August 2021)  
 
 ## Introduction  
-I'm Oliver Mainey, a recent Bachelor of Information Technology Graduate from the Queensland University of Technology. I majored in Computer Science and Simulation Science because I have a strong passion for high performance, mathematically based systems. My Inspirations are Jonathan Blow, Andrei Alexandrescu and Mike Acton (aswell as many of the great speakers at CPP Con). These people consistently challenge the fundamental ideas of what it means to focus on performance improving the software industry to atleast try and utilize some of the sheer computation that modern hardware provides (and isn't always used well).  
+I'm Oliver Mainey, a recent Bachelor of Information Technology Graduate from the Queensland University of Technology. I majored in Computer Science and Simulation Science because I have a strong passion for high performance and mathematically based systems. My Inspirations are Jonathan Blow, Andrei Alexandrescu and Mike Acton (aswell as many of the great speakers at CPP Con). These people consistently challenge the fundamental ideas of what it means to focus on performance improving the software industry to atleast try and utilize some of the sheer computation that modern hardware provides (and isn't always used well).  
 I am always working on something, whether it be a small, medium, or large sized project. I focus on learning new technologies to increase my expertise, improving my work ethic and flexing my brain with problem solving whenever I can. 
 
 ### "Want fast C++? Know your hardware!" - Timur Doumler cppcon 2016  
+
+## Experienced Technologies  
+### Languages  
+Javascript, HTML, CSS, C, C++, C#, F#, Java, Python, Lua, MATLAB, SQL, R  
+### Technologies/Libraries  
+Node, Jenkins, Selenium, XSLT, P5.js, ImGui, SFML, SDL2, SIMD, Wordpress  
+### Soft Skills  
+Word, Excel, PowerPoint, Git, Jira, Confluence, Linux  
 
 ## Interested Technologies
 These are just some technologies I know a bit about and want to learn more
