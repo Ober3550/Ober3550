@@ -8,12 +8,12 @@ I am always working on something, whether it be a small, medium, or large sized 
 ### "Want fast C++? Know your hardware!" - Timur Doumler cppcon 2016  
 
 ## Experienced Technologies  
-<span style="color:green">**Languages**</span>  
+<span color=green>**Languages**</span>  
 Javascript, HTML, CSS, C, C++, C#, F#, Java, Python, Lua, MATLAB, SQL, R  
-<span style="color:blue">**Technologies/Libraries**</span>  
+<span color=blue>**Technologies/Libraries**</span>  
 Node, Jenkins, Selenium, XSLT, P5.js, ImGui, SFML, SDL2, SIMD, Wordpress  
-<span style="color:yellow">**Soft Skills**</span>  
-Word, Excel, PowerPoint, Git, Jira, Confluence, Linux
+<span color=yellow>**Soft Skills**</span>  
+Word, Excel, PowerPoint, Git, Jira, Confluence, Linux, A good appreciation for visual design
 
 ## Interested Technologies
 These are just some technologies I know a bit about and want to learn more  
