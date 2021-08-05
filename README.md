@@ -17,7 +17,7 @@ Javascript, HTML, CSS, C, C++, C#, F#, Java, Python, Lua, MATLAB, SQL, R
 ```  
 Node, Jenkins, Selenium, XSLT, P5.js, ImGui, SFML, SDL2, SIMD, Wordpress  
 ```diff
-@@ **Soft Skills**
+@@ **Soft Skills** @@
 ```  
 Word, Excel, PowerPoint, Git, Jira, Confluence, Linux, A good appreciation for visual design
 
