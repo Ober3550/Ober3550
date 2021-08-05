@@ -19,6 +19,9 @@ Word, Excel, PowerPoint, Git, Jira, Confluence, Linux, A good appreciation for v
 These are just some technologies I know a bit about and want to learn more  
 Compiler Design, OpenGL, Vulkan, Fluid Dynamics, Voxel Rendering, Cryptography, Ethereum Smart Contracts, JAI
 
+## Contacts
+Email: Ober3550@gmail.com
+
 ## C++ Project Template
 When I first started learning C++ it was just so difficult. Too many things to know, too many conflicting sources and lastly too many documents without a working demo. So that's why I've made my own template that people are free to use. It's lightweight, has great libraries installed and a small amount of code for the stuff that I know I struggled with so you don't have to.  
 https://github.com/ober3550/My-Template
