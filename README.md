@@ -7,7 +7,7 @@ I'm Oliver Mainey, a recent graduate of Information Technology majoring in Compu
 ### "Want fast C++? Know your hardware!" - Timur Doumler cppcon 2016  
 
 ## Skills/Certifications
-### Backelors of Information Technology from Queensland University of Technology GPA: 5.8
+### Backelors of Information Technology from Queensland University of Technology GPA 5.8
 ***Languages 👨‍💻***  
 Javascript, HTML, CSS, C, C++, C#, F#, Java, Python, Lua, MATLAB, SQL, R  
 ***Technologies/Libraries 🦾***  
