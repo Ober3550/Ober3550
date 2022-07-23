@@ -1,23 +1,23 @@
 # Oliver's Computer Science Portfolio 
-(Updated 8th August 2021)  
+(Updated 24th July 2022)  
 
-## Introduction  
-I'm Oliver, a recent graduate of Information Technology majoring in Computer Science and Simulation Science. I have a strong passion for high performance and mathematically based systems. My Inspirations are Jonathan Blow, Andrei Alexandrescu and Mike Acton (aswell as many of the great speakers at CPP Con). These people consistently challenge the fundamental ideas of what it means to focus on performance improving the software industry to atleast try and utilize some of the sheer computation that modern hardware provides (and isn't always used well). I am always working on something, whether it be a small, medium, or large sized project. I focus on learning new technologies to increase my expertise, improving my work ethic and flexing my brain with problem solving whenever I can. 
+<!-- ## Introduction  
+I'm Oliver, a recent graduate of Information Technology majoring in Computer Science and Simulation Science. I have a strong passion for high performance and mathematically based systems. My Inspirations are Jonathan Blow, Andrei Alexandrescu and Mike Acton (aswell as many of the great speakers at CPP Con). These people consistently challenge the fundamental ideas of what it means to focus on performance improving the software industry to atleast try and utilize some of the sheer computation that modern hardware provides (and isn't always used well). I am always working on something, whether it be a small, medium, or large sized project. I focus on learning new technologies to increase my expertise, improving my work ethic and flexing my brain with problem solving whenever I can.  -->
 
 ### "Want fast C++? Know your hardware!" - Timur Doumler cppcon 2016  
 
 ## Skills/Certifications
 ### Backelors of Information Technology from Queensland University of Technology GPA 5.8
 ***Languages 👨‍💻***  
-Javascript, HTML, CSS, C, C++, C#, F#, Java, Python, Lua, MATLAB, SQL, R  
+HTML, CSS, Javascript, C, C++, C#, Selenium, Rust, Go, F#, Java, Python, Lua, MATLAB, SQL, R  
 ***Technologies/Libraries 🦾***  
-Node, Jenkins, JMS, Swift, Selenium, XSLT, P5.js, ImGui, SFML, SDL2, SIMD, Wordpress  
+Git, Git Pipeline, Docker, Terraform, Node, Jenkins, JMS, Swift, Selenium, XSLT, P5.js, ImGui, SFML, SDL2, SIMD, Wordpress  
 **Soft Skills ✍**  
-Word, Excel, PowerPoint, Git, Jira, Confluence, Linux, A good appreciation for visual design
-
+Word, Excel, PowerPoint, Jira, Confluence, Linux, Visual Design
+<!-- 
 ## Interested Technologies
 These are just some technologies I know a bit about and want to learn more  
-Compiler Design, OpenGL, Vulkan, Fluid Dynamics, Voxel Rendering, Cryptography, Ethereum Smart Contracts, JAI
+Compiler Design, OpenGL, Vulkan, Fluid Dynamics, Voxel Rendering, Cryptography, JAI
 
 ## Contacts
 Email: Ober3550@gmail.com
@@ -31,45 +31,43 @@ Creating many multi-faceted modules that interact with a potentially infinite nu
 https://mods.factorio.com/user/ober3550  
 
 ## Leetcode Algorithm Practice
-https://leetcode.com/ober3550  
+https://leetcode.com/ober3550   -->
 
-## Gravity (C++, SFML, ImGui, SIMD)  
+## [Gravity (C++, SFML, ImGui, SIMD)](https://github.com/ober3550/SolarSim)   
 Gravitational simulation focused on both speed and visualization.  
-[More Gifs on the Project Page!](https://github.com/ober3550/SolarSim)  
 <img src="assets/StableUniverse.gif" width="800"/>  
 <img src="assets/PlanetaryPaths.gif" width="800"/>  
-
+<!-- 
 ## Auto Budgeter (Excel)
 Automatically categorise transactions based on keywords.  
 [Check it out here](https://github.com/ober3550/AutoBudget)  
-<img src="assets/budget.png" width="800"/>
+<img src="assets/budget.png" width="800"/> -->
 
 ## Wave Equation (Matlab)  
 <img src="assets/show_case_animation.gif" width="800"/>  
 <img src="assets/WaveEquation3.gif" width="800"/>  
 
-## Icosphere/Opengl Testing (C++, OpenGL)   
-I'm always striving to learn more about the technologies we rely upon to present data.   
+## [Icosphere/Opengl Testing (C++, OpenGL)](https://github.com/Ober3550/My-Template)    
 <img src="assets/icosphere.gif" width="800"/>   
 <img src="assets/marslighting.gif" width="800"/>   
 
-## Fluid Sim Project (C++, SFML, ImGui)  
+## [Fluid Sim Project (C++, SFML, ImGui)](https://github.com/ober3550/FluidSim)   
 Fluid sim project inspired by Fluid Simulation for Dummies by Mike Ash  
-[Check out the Project Page](https://github.com/ober3550/FluidSim)  
 <img src="assets/FluidSim2.gif" width="800"/>  
-
+<!-- 
 ## RoboFactory Game (C++, SFML, ImGui)  
 Learning the importance of planning, long term project management and motivation toward a goal.  
 [Check Out The Project for More!](https://github.com/ober3550/RobotComplex)  
-<img src="assets/FurnaceAutomation.gif" width="800"/>  
+<img src="assets/FurnaceAutomation.gif" width="800"/>   -->
 
 ## One day Builds
-### Ninja Platformer (P5.js)  
-[Play Here!](https://ober3550.github.io)  
-https://github.com/Ober3550/NinjaGame  
+### [Ninja Platformer (P5.js)](https://ober3550.github.io)
 <img src="assets/Platformer.gif" width="800"/>  
 
-### Pathfinder (P5.js)
+### [Wave Function Collapse](https://github.com/ober3550/WaveFunctionCollapse)
+<img src="assets/circuit.png" width="800"/>
+
+<!-- ### Pathfinder (P5.js)
 https://github.com/Ober3550/Pathfinder  
 <img src="assets/mazeSolve.gif" width="800"/>  
 
@@ -81,5 +79,5 @@ https://github.com/Ober3550/BlockGame
 <img src="assets/block_game.gif" width="800"/>  
 
 ### 2048 Game (P5.js)
-<img src="assets/2048Game.gif" width="800"/>  
+<img src="assets/2048Game.gif" width="800"/>   -->
 
