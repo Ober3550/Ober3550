@@ -61,11 +61,11 @@ Learning the importance of planning, long term project management and motivation
 <img src="assets/FurnaceAutomation.gif" width="800"/>   -->
 
 ## One day Builds
-### [Ninja Platformer (P5.js)](https://ober3550.github.io)
+### [Ninja Platformer (P5.js)](https://ober3550.github.io/ninja.html)
 <img src="assets/Platformer.gif" width="800"/>  
 
-### [Wave Function Collapse](https://github.com/ober3550/WaveFunctionCollapse)
-<img src="assets/circuit.png" width="800"/>
+### [Wave Function Collapse](https://ober3550.github.io/wavefunctioncollapse.html)
+<img src="assets/circuits.png" width="800"/>
 
 <!-- ### Pathfinder (P5.js)
 https://github.com/Ober3550/Pathfinder  
