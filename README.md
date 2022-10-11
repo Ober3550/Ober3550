@@ -9,9 +9,9 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
 ## Skills/Certifications
 ### Backelors of Information Technology from Queensland University of Technology GPA 5.8
 ***Languages 👨‍💻***  
-C, C++, Golang, Rust, C#, Java, SQL, Python, Javascript, Typescript, HTML, CSS, Groovy, Lua, MATLAB, F#, R, Bash, XSLT
+C, C++, Golang, Rust, C#, Java, SQL, Python, Javascript, Typescript, HTML, CSS, Groovy, Lua, MATLAB, F#, R, Bash, XSLT  
 ***Technologies/Libraries 🦾***  
-Linux, Git, Git Pipeline, Docker, Kubernetes, Terraform, Selenium, Cucumber, Jenkins, P5.js, SFML, Wordpress, SDL2, ImGui, SIMD, Node, GCP, AWS, Angular, ActiveMQ, Restful API, Docmosis, LibreOffice, JMS, Google Web Toolkit 
+Linux, Git, Git Pipeline, Docker, Kubernetes, Terraform, Selenium, Cucumber, Jenkins, P5.js, SFML, Wordpress, SDL2, ImGui, SIMD, Node, GCP, AWS, Angular, ActiveMQ, Restful API, Docmosis, LibreOffice, JMS, Google Web Toolkit  
 **Soft Skills ✍**  
 Word, Excel, PowerPoint, Git, Agile, 
 Jira, Confluence, Bitbucket
