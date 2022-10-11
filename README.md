@@ -65,7 +65,10 @@ Fluid sim project inspired by Fluid Simulation for Dummies by Mike Ash
 <img src="assets/Platformer.gif" width="800"/>  
 
 ## [Wave Function Collapse](https://ober3550.github.io/wavefunctioncollapse.html)
-<img src="assets/circuits.png" width="800"/>  
+<img src="assets/WaveFunctionCollapse.gif" width="800"/>  
+
+## [Wave Function Collapse](https://ober3550.github.io/travelingsalesman.html)
+<img src="assets/TravelingSalesman.gif" width="800"/>  
 
 ## [Pathfinder (P5.js)](https://github.com/Ober3550/Pathfinder)
 <img src="assets/mazeSolve.gif" width="800"/>  
