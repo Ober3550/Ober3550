@@ -38,6 +38,11 @@ https://leetcode.com/ober3550   -->
 Gravitational simulation focused on both speed and visualization.  
 <img src="assets/StableUniverse.gif" width="800"/>  
 <img src="assets/PlanetaryPaths.gif" width="800"/>  
+
+## [Rust Demo Project](https://github.com/Ober3550/RustyRoboFactory)  
+Dipping a toe into the ecosystem of rust  
+<img src="assets/RustyRobofactory.gif" width="800"/>  
+
 <!-- 
 ## Auto Budgeter (Excel)
 Automatically categorise transactions based on keywords.  
