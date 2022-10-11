@@ -60,30 +60,38 @@ Automatically categorise transactions based on keywords.
 ## [Fluid Sim Project (C++, SFML, ImGui)](https://github.com/ober3550/FluidSim)   
 Fluid sim project inspired by Fluid Simulation for Dummies by Mike Ash  
 <img src="assets/FluidSim2.gif" width="800"/>  
-<!-- 
+
+## [Ninja Platformer (P5.js)](https://ober3550.github.io/ninja.html)
+<img src="assets/Platformer.gif" width="800"/>  
+
+## [Wave Function Collapse](https://ober3550.github.io/wavefunctioncollapse.html)
+<img src="assets/circuits.png" width="800"/>  
+
+## [Pathfinder (P5.js)](https://github.com/Ober3550/Pathfinder)
+<img src="assets/mazeSolve.gif" width="800"/>  
+
+## Off axis bouncing (P5.js)
+<img src="assets/bounce.gif" width="800"/>  
+
+## [Tetris (P5.js)](https://github.com/Ober3550/BlockGame)
+<img src="assets/block_game.gif" width="800"/>    
+
+## 2048 Game (P5.js)
+<img src="assets/2048Game.gif" width="800"/>  
+
+## Beetle Render (Matlab)
+<img src="assets/Beetle.gif" width="800"/>  
+
+## Pentagon Invader (C++)
+<img src="assets/PolygonDrawer.gif" width="800"/>  
+
+## Brain Scan (Matlab)
+<img src="assets/BrainScan.gif" width="800"/>  
+
 ## RoboFactory Game (C++, SFML, ImGui)  
 Learning the importance of planning, long term project management and motivation toward a goal.  
 [Check Out The Project for More!](https://github.com/ober3550/RobotComplex)  
-<img src="assets/FurnaceAutomation.gif" width="800"/>   -->
-
-## One day Builds
-### [Ninja Platformer (P5.js)](https://ober3550.github.io/ninja.html)
-<img src="assets/Platformer.gif" width="800"/>  
-
-### [Wave Function Collapse](https://ober3550.github.io/wavefunctioncollapse.html)
-<img src="assets/circuits.png" width="800"/>
-
-<!-- ### Pathfinder (P5.js)
-https://github.com/Ober3550/Pathfinder  
-<img src="assets/mazeSolve.gif" width="800"/>  
-
-### Off axis bouncing (P5.js)
-<img src="assets/bounce.gif" width="800"/>  
-
-### Tetris (P5.js)
-https://github.com/Ober3550/BlockGame  
-<img src="assets/block_game.gif" width="800"/>  
-
-### 2048 Game (P5.js)
-<img src="assets/2048Game.gif" width="800"/>   -->
+<img src="assets/FurnaceAutomation.gif" width="800"/>
+<img src="assets/CircuitsDemo.gif" width="800"/>
+<img src="assets/CircuitUpdateSim.gif" width="800"/>
 
