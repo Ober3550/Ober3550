@@ -41,7 +41,7 @@ Gravitational simulation focused on both speed and visualization.
 
 ## [Rust Demo Project](https://github.com/Ober3550/RustyRoboFactory)  
 Dipping a toe into the ecosystem of rust  
-<img src="assets/RustyRobofactory.gif" width="800"/>  
+<img src="assets/RustProject.gif" width="800"/>  
 
 <!-- 
 ## Auto Budgeter (Excel)
