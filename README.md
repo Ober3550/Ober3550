@@ -7,7 +7,7 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
 ### "Want fast C++? Know your hardware!" - Timur Doumler cppcon 2016  
 
 ## Skills/Certifications
-### Backelors of Information Technology from Queensland University of Technology GPA 5.8
+### Bachelors of Information Technology from Queensland University of Technology GPA 5.8
 ***Languages 👨‍💻***  
 C, C++, Golang, Rust, C#, Java, SQL, Python, Javascript, Typescript, HTML, CSS, Groovy, Lua, MATLAB, F#, R, Bash, XSLT  
 ***Technologies/Libraries 🦾***  
