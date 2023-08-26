@@ -7,14 +7,16 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
 ### "Want fast C++? Know your hardware!" - Timur Doumler cppcon 2016  
 
 ## Skills/Certifications
-### Bachelors of Information Technology from Queensland University of Technology GPA 5.8
-***Languages 👨‍💻***  
-C, C++, Golang, Rust, C#, Java, SQL, Python, Javascript, Typescript, HTML, CSS, Groovy, Lua, MATLAB, F#, R, Bash, XSLT  
-***Technologies/Libraries 🦾***  
-Linux, Git, Git Pipeline, Docker, Kubernetes, Terraform, Selenium, Cucumber, Jenkins, P5.js, SFML, Wordpress, SDL2, ImGui, SIMD, Node, GCP, AWS, Angular, ActiveMQ, Restful API, Docmosis, LibreOffice, JMS, Google Web Toolkit  
-**Soft Skills ✍**  
-Word, Excel, PowerPoint, Git, Agile, 
-Jira, Confluence, Bitbucket
+### Languages	
+C, C++ (+SIMD), Golang, Rust, C#, Java, SQL, Python, Javascript, Typescript, HTML, CSS, Groovy, Lua, MATLAB, F#, R, Bash, XSLT
+### Platforms	
+Google Cloud Platform, Azure Devops, Amazon Web Services, Linux, WSL, Docker, Kubernetes, Git Pipeline, Nginx, Restful API, gRPC, Jenkins, Mountebank, Junit, Selenium, Cucumber
+### Technologies	
+Git, SDL2, Dear ImGui, P5.js, SFML, Wordpress, Node, Angular, ActiveMQ, Docmosis, LibreOffice, JMS, Google Web Toolkit
+### RDBMS 	
+PostgreSQL, MySQL, SQLite, Oracle
+### General	
+Word, Excel, PowerPoint, Agile, Jira, Confluence, Bitbucket
 <!-- 
 ## Interested Technologies
 These are just some technologies I know a bit about and want to learn more  
@@ -35,12 +37,12 @@ https://mods.factorio.com/user/ober3550
 https://leetcode.com/ober3550   -->
 
 ## [Gravity (C++, SFML, ImGui, SIMD)](https://github.com/ober3550/SolarSim)   
-Gravitational simulation focused on both speed and visualization.  
+Gravitational simulation focused on both speed and visualization. 20,000+ Bodies at O(n^2)
 <img src="assets/StableUniverse.gif" width="800"/>  
 <img src="assets/PlanetaryPaths.gif" width="800"/>  
 
 ## [Rust Demo Project](https://github.com/Ober3550/RustyRoboFactory)  
-Dipping a toe into the ecosystem of rust  
+Dipping a toe into the rust ecosystem  
 <img src="assets/RustProject.gif" width="800"/>  
 
 <!-- 
@@ -70,7 +72,7 @@ Fluid sim project inspired by Fluid Simulation for Dummies by Mike Ash
 ## [Traveling Salesman](https://ober3550.github.io/TravelingSalesman.html)
 <img src="assets/TravelingSalesman.gif" width="800"/>  
 
-## [Pathfinder (P5.js)](https://github.com/Ober3550/Pathfinder)
+<!-- ## [Pathfinder (P5.js)](https://github.com/Ober3550/Pathfinder)
 <img src="assets/mazeSolve.gif" width="800"/>  
 
 ## Off axis bouncing (P5.js)
@@ -96,5 +98,5 @@ Learning the importance of planning, long term project management and motivation
 [Check Out The Project for More!](https://github.com/ober3550/RobotComplex)  
 <img src="assets/FurnaceAutomation.gif" width="800"/>
 <img src="assets/CircuitsDemo.gif" width="800"/>
-<img src="assets/CircuitUpdateSim.gif" width="800"/>
+<img src="assets/CircuitUpdateSim.gif" width="800"/> -->
 
