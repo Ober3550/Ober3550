@@ -100,3 +100,28 @@ Learning the importance of planning, long term project management and motivation
 <img src="assets/CircuitsDemo.gif" width="800"/>
 <img src="assets/CircuitUpdateSim.gif" width="800"/> -->
 
+<details>
+  <summary>High Performance Computing</summary>
+  [Photonic Computing](https://youtu.be/t1R7ElXEyag)
+</details>
+<details>
+  <summary>Cybersecurity</summary>
+  [CTF Script injection](https://youtu.be/hYVYMzEwrBE)
+</details>
+<details>
+  <summary>Artifical Intelligence</summary>
+  [Comma AI - The past, future and present](https://www.youtube.com/watch?v=u16msbVHNWk)
+</details>
+<details>
+  <summary>Simulation Science</summary>
+  [Simulating fluid oscillators at up to 44khz](https://youtu.be/rGNUHigqUBM)
+</details>
+<details>
+  <summary>Fun computing Projects</summary>
+  [Running isometric minecraft on a calculator](https://youtu.be/Bj9CiMO66xk)
+  [Running minecraft on the 6502](https://youtu.be/E4ydGuxSIF8)
+</details>
+<details>
+  <summary>Misc Videos</summary>
+  [Economy of scale for shipping versus trucking](https://youtu.be/3WEcOPHpj4E)
+</details>
