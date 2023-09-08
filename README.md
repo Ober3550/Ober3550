@@ -11,12 +11,21 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
   <summary>Corporate Secrets</summary>
 
   [Cloudflare - How an unoptimized regex crashed the internet](https://youtu.be/DDe-S3uef2w)  
+  [Google - Probabilistic counting](https://youtu.be/lJYufx0bfpw)  
+  [Github - Cross Datacentre failure](https://youtu.be/dsHyUgGMht0)  
+  [Reddit - Worst outage ever](https://youtu.be/mL4t2Jf8DUk)  
+  [Discord - Migrating from Cassandra to Scylla](https://youtu.be/xynXjChKkJc)  
+  [Goto - Migrations, the hardest problem in computer science](https://youtu.be/yJOrMDMqeoI)  
 </details>
 <details>
   <summary>High Performance Computing</summary>
-  
+
+  [TechTechPotato - The new Era of High Performance Compute](https://youtu.be/w3xNLj6nRgs)  
   [Lightmatter - Photonic Computing](https://youtu.be/t1R7ElXEyag)  
-  [Computerphile - Just In Time Compilation](https://www.youtube.com/watch?v=d7KHAVaX_Rs)  
+  [Lingon Studios - Assembly vs C++ vs C# Unity Particle Sim](https://youtu.be/AQERQd4RreA)  
+  [Strager - Big O lies about performance for small n](https://youtu.be/7VHG6Y2QmtM?t=770)  
+  [Primeagen - Zig versus Rust](https://youtu.be/CbQVR4v5PZw)  
+  [Greg Johnston - Performance differences between web frameworks](https://youtu.be/4KtotxNAwME)  
 </details>
 <details>
   <summary>Cybersecurity</summary>
@@ -24,23 +33,52 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
   [Chris Domas - Turing complete mov](https://www.youtube.com/watch?v=HlUe0TUHOIc)  
   [Chris Domas - Finding backdoors in hardware instruction sets](https://www.youtube.com/watch?v=lR0nh-TdpVg)  
   [Chris Domas - Instruction Set Agnostic Program Analysis Tool](https://youtu.be/4bM3Gut1hIk)  
+  [Liveoverflow - Google Cloud Platform 2022 Bugbounty Winners Review](https://youtu.be/uOvizKc1WZY)  
+  [Not What You Think - Using bees to smell bombs](https://youtu.be/lG-ZqO734tM)  
 </details>
 <details>
   <summary>Artifical Intelligence</summary>
-  
-  [Comma AI - The past, future and present](https://www.youtube.com/watch?v=u16msbVHNWk)  
+
+  [George Hotz - The past, future and present](https://www.youtube.com/watch?v=u16msbVHNWk)  
+  [George Hotz - Lex Fridman](https://youtu.be/dNrTrx42DGQ)  
+  [George Hotz - Tiny corp Petaflops to the People](https://youtu.be/K5iDUZPx60E)  
+  [2 Minute Papers - Nvidia raytacing improvements with AI](https://youtu.be/AjkiBRNVeV8)  
+  [Sebastian Bubeck - Sparks of AGI: early experiments with GPT-4](https://youtu.be/qbIk7-JPB2c)  
+  [Ai Explained - Using reflection to improve GPT-4 Results](https://youtu.be/5SgJKZLBrmg)  
+  [Ai Explained - Reading the Sparks of AGI paper](https://youtu.be/Mqg3aTGNxZ0)  
+  [Sam Altman - Lex Fridman the future of AI](https://youtu.be/L_Guz73e6fw)  
+  [Tesla - FSD v11](https://youtu.be/ZlApnysONmQ)  
+</details>
+<details>
+  <summary>Computer Science</summary>
+
+  [Computerphile - Just In Time Compilation](https://www.youtube.com/watch?v=d7KHAVaX_Rs)  
+  [Mutual Information - The Boundary of Computability](https://www.youtube.com/watch?v=kmAc1nDizu0)  
+  [Leddoo - How Python Works](https://youtu.be/kESmRMDHZZk)  
+  [Leddoo - Are stack based vms really slower?](https://youtu.be/cMMAGIefZuM)  
+  [Evolution News - Using dna to store information](https://evolutionnews.org/2017/01/the_worlds_idea/)  
 </details>
 <details>
   <summary>Simulation Science</summary>
-  
+
+  [Jonas Tyroller - DeltaTime for dummies](https://youtu.be/yGhfUcPjXuE)  
   [AngeTheGreat - Simulating fluid oscillators at up to 44khz](https://youtu.be/rGNUHigqUBM)  
+  [AngeTheGreat - Simulating a two stroke bike](https://youtu.be/4U41OxHiqI8)  
+  [AngeTheGreat - Simulating trusses, masses and springs](https://youtu.be/oulfRfqTxJA)  
   [blackedout - Simulating a softbody tire](https://youtu.be/T75SucBcfMo)  
+  [Worlds in Motion - Simulating different speeds of light](https://youtu.be/ge_j31Yx_yk)  
+  [Minecraft - Generating terrain](https://youtu.be/ob3VwY4JyzE)  
 </details>
 <details>
   <summary>Fun computing Projects</summary>
-  
+
+  [From Scratch - Simulating RISCV in Terraria](https://youtu.be/zXPiqk0-zDY)  
   [The Science Elf - Running isometric minecraft on a calculator](https://youtu.be/Bj9CiMO66xk)  
   [Inkbox - Running minecraft on the 6502](https://youtu.be/E4ydGuxSIF8)  
+  [S0lly - Raytracing in excel](https://youtu.be/m28jJ7CMp8A)  
+  [Earthcomputer - Using minecraft to compute the result of the next call to java math.rng](https://youtu.be/FPmQ0rnJjNc)  
+  [Suckerpinch - Using floating point imprecision to make something useful](https://youtu.be/Ae9EKCyI1xU)  
+  [Nerdtronic - Coding a very precise pen bot](https://youtu.be/09LlZhlcJTU)  
 </details>
 
 ## Skills/Certifications
