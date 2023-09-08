@@ -101,27 +101,37 @@ Learning the importance of planning, long term project management and motivation
 <img src="assets/CircuitUpdateSim.gif" width="800"/> -->
 
 <details>
+  <summary>Corporate Secrets</summary>
+
+  [Cloudflare - How an unoptimized regex crashed the internet](https://youtu.be/DDe-S3uef2w)
+</details>
+<details>
   <summary>High Performance Computing</summary>
-  [Photonic Computing](https://youtu.be/t1R7ElXEyag)
+  
+  [Lightmatter - Photonic Computing](https://youtu.be/t1R7ElXEyag)
+  [Computerphile - Just In Time Compilation](https://www.youtube.com/watch?v=d7KHAVaX_Rs)
 </details>
 <details>
   <summary>Cybersecurity</summary>
-  [CTF Script injection](https://youtu.be/hYVYMzEwrBE)
+  
+  [Chris Domas - Turing complete mov](https://www.youtube.com/watch?v=HlUe0TUHOIc)
+  [Chris Domas - Finding backdoors in hardware instruction sets](https://www.youtube.com/watch?v=lR0nh-TdpVg)
+  [Chris Domas - Instruction Set Agnostic Program Analysis Tool](https://youtu.be/4bM3Gut1hIk)
 </details>
 <details>
   <summary>Artifical Intelligence</summary>
+  
   [Comma AI - The past, future and present](https://www.youtube.com/watch?v=u16msbVHNWk)
 </details>
 <details>
   <summary>Simulation Science</summary>
-  [Simulating fluid oscillators at up to 44khz](https://youtu.be/rGNUHigqUBM)
+  
+  [AngeTheGreat - Simulating fluid oscillators at up to 44khz](https://youtu.be/rGNUHigqUBM)
+  [blackedout - Simulating a softbody tire](https://youtu.be/T75SucBcfMo)
 </details>
 <details>
   <summary>Fun computing Projects</summary>
-  [Running isometric minecraft on a calculator](https://youtu.be/Bj9CiMO66xk)
-  [Running minecraft on the 6502](https://youtu.be/E4ydGuxSIF8)
-</details>
-<details>
-  <summary>Misc Videos</summary>
-  [Economy of scale for shipping versus trucking](https://youtu.be/3WEcOPHpj4E)
+  
+  [The Science Elf - Running isometric minecraft on a calculator](https://youtu.be/Bj9CiMO66xk)
+  [Inkbox - Running minecraft on the 6502](https://youtu.be/E4ydGuxSIF8)
 </details>
