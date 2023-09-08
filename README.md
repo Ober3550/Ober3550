@@ -103,35 +103,35 @@ Learning the importance of planning, long term project management and motivation
 <details>
   <summary>Corporate Secrets</summary>
 
-  [Cloudflare - How an unoptimized regex crashed the internet](https://youtu.be/DDe-S3uef2w)
+  [Cloudflare - How an unoptimized regex crashed the internet](https://youtu.be/DDe-S3uef2w)  
 </details>
 <details>
   <summary>High Performance Computing</summary>
   
-  [Lightmatter - Photonic Computing](https://youtu.be/t1R7ElXEyag)
-  [Computerphile - Just In Time Compilation](https://www.youtube.com/watch?v=d7KHAVaX_Rs)
+  [Lightmatter - Photonic Computing](https://youtu.be/t1R7ElXEyag)  
+  [Computerphile - Just In Time Compilation](https://www.youtube.com/watch?v=d7KHAVaX_Rs)  
 </details>
 <details>
   <summary>Cybersecurity</summary>
   
-  [Chris Domas - Turing complete mov](https://www.youtube.com/watch?v=HlUe0TUHOIc)
-  [Chris Domas - Finding backdoors in hardware instruction sets](https://www.youtube.com/watch?v=lR0nh-TdpVg)
-  [Chris Domas - Instruction Set Agnostic Program Analysis Tool](https://youtu.be/4bM3Gut1hIk)
+  [Chris Domas - Turing complete mov](https://www.youtube.com/watch?v=HlUe0TUHOIc)  
+  [Chris Domas - Finding backdoors in hardware instruction sets](https://www.youtube.com/watch?v=lR0nh-TdpVg)  
+  [Chris Domas - Instruction Set Agnostic Program Analysis Tool](https://youtu.be/4bM3Gut1hIk)  
 </details>
 <details>
   <summary>Artifical Intelligence</summary>
   
-  [Comma AI - The past, future and present](https://www.youtube.com/watch?v=u16msbVHNWk)
+  [Comma AI - The past, future and present](https://www.youtube.com/watch?v=u16msbVHNWk)  
 </details>
 <details>
   <summary>Simulation Science</summary>
   
-  [AngeTheGreat - Simulating fluid oscillators at up to 44khz](https://youtu.be/rGNUHigqUBM)
-  [blackedout - Simulating a softbody tire](https://youtu.be/T75SucBcfMo)
+  [AngeTheGreat - Simulating fluid oscillators at up to 44khz](https://youtu.be/rGNUHigqUBM)  
+  [blackedout - Simulating a softbody tire](https://youtu.be/T75SucBcfMo)  
 </details>
 <details>
   <summary>Fun computing Projects</summary>
   
-  [The Science Elf - Running isometric minecraft on a calculator](https://youtu.be/Bj9CiMO66xk)
-  [Inkbox - Running minecraft on the 6502](https://youtu.be/E4ydGuxSIF8)
+  [The Science Elf - Running isometric minecraft on a calculator](https://youtu.be/Bj9CiMO66xk)  
+  [Inkbox - Running minecraft on the 6502](https://youtu.be/E4ydGuxSIF8)  
 </details>
