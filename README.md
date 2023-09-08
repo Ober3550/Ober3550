@@ -8,33 +8,17 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
 
 ## Amazing Lectures about Technology  
 <details>
-  <summary>Corporate Secrets</summary>
-
-  [Cloudflare - How an unoptimized regex crashed the internet](https://youtu.be/DDe-S3uef2w)  
-  [Google - Probabilistic counting](https://youtu.be/lJYufx0bfpw)  
-  [Github - Cross Datacentre failure](https://youtu.be/dsHyUgGMht0)  
-  [Reddit - Worst outage ever](https://youtu.be/mL4t2Jf8DUk)  
-  [Discord - Migrating from Cassandra to Scylla](https://youtu.be/xynXjChKkJc)  
-  [Goto - Migrations, the hardest problem in computer science](https://youtu.be/yJOrMDMqeoI)  
-</details>
-<details>
   <summary>High Performance Computing</summary>
 
   [TechTechPotato - The new Era of High Performance Compute](https://youtu.be/w3xNLj6nRgs)  
   [Lightmatter - Photonic Computing](https://youtu.be/t1R7ElXEyag)  
   [Lingon Studios - Assembly vs C++ vs C# Unity Particle Sim](https://youtu.be/AQERQd4RreA)  
-  [Strager - Big O lies about performance for small n](https://youtu.be/7VHG6Y2QmtM?t=770)  
   [Primeagen - Zig versus Rust](https://youtu.be/CbQVR4v5PZw)  
   [Greg Johnston - Performance differences between web frameworks](https://youtu.be/4KtotxNAwME)  
-</details>
-<details>
-  <summary>Cybersecurity</summary>
-  
-  [Chris Domas - Turing complete mov](https://www.youtube.com/watch?v=HlUe0TUHOIc)  
-  [Chris Domas - Finding backdoors in hardware instruction sets](https://www.youtube.com/watch?v=lR0nh-TdpVg)  
-  [Chris Domas - Instruction Set Agnostic Program Analysis Tool](https://youtu.be/4bM3Gut1hIk)  
-  [Liveoverflow - Google Cloud Platform 2022 Bugbounty Winners Review](https://youtu.be/uOvizKc1WZY)  
-  [Not What You Think - Using bees to smell bombs](https://youtu.be/lG-ZqO734tM)  
+  [Jim Keller - Making computers faster by 1,000-10,000x](https://youtu.be/gzgyksS5pX8)  
+  [Strager - Big O lies about performance for small n](https://youtu.be/7VHG6Y2QmtM?t=770)  
+  [Strager - All possible optimization options](https://youtu.be/DMQ_HcNSOAI)  
+  [Mollyrocket - Clean code horrible performance](https://youtu.be/tD5NrevFtbU)  
 </details>
 <details>
   <summary>Artifical Intelligence</summary>
@@ -48,15 +32,22 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
   [Ai Explained - Reading the Sparks of AGI paper](https://youtu.be/Mqg3aTGNxZ0)  
   [Sam Altman - Lex Fridman the future of AI](https://youtu.be/L_Guz73e6fw)  
   [Tesla - FSD v11](https://youtu.be/ZlApnysONmQ)  
+  [Google - Visalising higher dimensional space](https://youtu.be/wvsE8jm1GzE)  
 </details>
 <details>
   <summary>Computer Science</summary>
 
+  [Dan Abramov - Composability in software design](https://youtu.be/17KCHwOwgms)  
   [Computerphile - Just In Time Compilation](https://www.youtube.com/watch?v=d7KHAVaX_Rs)  
   [Mutual Information - The Boundary of Computability](https://www.youtube.com/watch?v=kmAc1nDizu0)  
   [Leddoo - How Python Works](https://youtu.be/kESmRMDHZZk)  
   [Leddoo - Are stack based vms really slower?](https://youtu.be/cMMAGIefZuM)  
   [Evolution News - Using dna to store information](https://evolutionnews.org/2017/01/the_worlds_idea/)  
+  [Breaking Taps - How Silicon Lithography is used to make accelerometers](https://youtu.be/9X4frIQo7x0)  
+  [Code to the moon - V programming language](https://youtu.be/jr1EBaLkjfc)  
+  [The Last Theory - The reducability of the world to computation](https://youtu.be/EIyjaCwbYXQ)  
+  [Physics for the birds - James Webb Space Telescope Travelling salesman problem](https://youtu.be/Ov0EetgMws4)  
+  [Kathy Loves Physics and History - Who invented 3 phase electricity](https://youtu.be/NEkegQanD2I)  
 </details>
 <details>
   <summary>Simulation Science</summary>
@@ -68,6 +59,28 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
   [blackedout - Simulating a softbody tire](https://youtu.be/T75SucBcfMo)  
   [Worlds in Motion - Simulating different speeds of light](https://youtu.be/ge_j31Yx_yk)  
   [Minecraft - Generating terrain](https://youtu.be/ob3VwY4JyzE)  
+  [Pezzza's Work - Many particle system](https://youtu.be/9IULfQH7E90)  
+  [monster860 - Non-square square waves](https://youtu.be/Ffka-hPzug0)  
+</details>
+<details>
+  <summary>Corporate Secrets</summary>
+
+  [Cloudflare - How an unoptimized regex crashed the internet](https://youtu.be/DDe-S3uef2w)  
+  [Google - Probabilistic counting](https://youtu.be/lJYufx0bfpw)  
+  [Github - Cross Datacentre failure](https://youtu.be/dsHyUgGMht0)  
+  [Reddit - Worst outage ever](https://youtu.be/mL4t2Jf8DUk)  
+  [Discord - Migrating from Cassandra to Scylla](https://youtu.be/xynXjChKkJc)  
+  [Goto - Migrations, the hardest problem in computer science](https://youtu.be/yJOrMDMqeoI)  
+  [Tesla - Stated expansion plans 2023](https://youtu.be/KJ_otmElnbM)  
+</details>
+<details>
+  <summary>Cybersecurity</summary>
+  
+  [Chris Domas - Turing complete mov](https://www.youtube.com/watch?v=HlUe0TUHOIc)  
+  [Chris Domas - Finding backdoors in hardware instruction sets](https://www.youtube.com/watch?v=lR0nh-TdpVg)  
+  [Chris Domas - Instruction Set Agnostic Program Analysis Tool](https://youtu.be/4bM3Gut1hIk)  
+  [Liveoverflow - Google Cloud Platform 2022 Bugbounty Winners Review](https://youtu.be/uOvizKc1WZY)  
+  [Not What You Think - Using bees to smell bombs](https://youtu.be/lG-ZqO734tM)  
 </details>
 <details>
   <summary>Fun computing Projects</summary>
