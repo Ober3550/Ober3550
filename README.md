@@ -6,21 +6,23 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
 
 ### "Want fast C++? Know your hardware!" - Timur Doumler cppcon 2016  
 <details>
-    <summary><h3>High Performance Computing</h3></summary>
-    <h4><a href="https://youtu.be/w3xNLj6nRgs">TechTechPotato - The new Era of High Performance Compute</a></h4>
-    <h4><a href="https://youtu.be/t1R7ElXEyag">Lightmatter - Photonic Computing</a></h4>
-    <h4><a href="https://youtu.be/AQERQd4RreA">Lingon Studios - Assembly vs C++ vs C# Unity Particle Sim</a></h4>
-    <h4><a href="https://youtu.be/CbQVR4v5PZw">Primeagen - Zig versus Rust</a></h4>
-    <h4><a href="https://youtu.be/4KtotxNAwME">Greg Johnston - Performance differences between web frameworks</a></h4>
-    <h4><a href="https://youtu.be/gzgyksS5pX8">Jim Keller - Making computers faster by 1,000-10,000x</a></h4>
-    <h4><a href="https://youtu.be/7VHG6Y2QmtM?t=770">Strager - Big O lies about performance for small n</a></h4>
-    <h4><a href="https://youtu.be/DMQ_HcNSOAI">Strager - All possible optimization options</a></h4>
-    <h4><a href="https://youtu.be/tD5NrevFtbU">Mollyrocket - Clean code horrible performance</a></h4>
-    <h4><a href="https://youtu.be/8uAW5FQtcvE">David Gross - Trading at light speed</a></h4>
-    <h4><a href="https://youtu.be/sZxjuT1kUd0">Dr Trefor Bazett - Fastest matrix multiply</a></h4>
-    <h4><a href="https://youtu.be/ssDBqQ5f5_0">Low Level Learning - The performance of division</a></h4>
-    <h4><a href="https://youtu.be/i2gWDOgg50k">UnitOfTime - Golang vs Rust physics sim performance</a></h4>
-    <h4><a href="https://www.tomshardware.com/news/tsmcs-morris-chang-dollar50-billion-us-chip-investment-is-just-a-good-start">TSMC - $50 Billion investment in US silicon is a good start but nowhere near whats needed to become independent from Taiwan</a></h4>
+    <summary><h2>Amazing Lectures about Technology</h2></summary>
+    <details>
+        <summary><h3>High Performance Computing</h3></summary>
+        <h4><a href="https://youtu.be/w3xNLj6nRgs">TechTechPotato - The new Era of High Performance Compute</a></h4>
+        <h4><a href="https://youtu.be/t1R7ElXEyag">Lightmatter - Photonic Computing</a></h4>
+        <h4><a href="https://youtu.be/AQERQd4RreA">Lingon Studios - Assembly vs C++ vs C# Unity Particle Sim</a></h4>
+        <h4><a href="https://youtu.be/CbQVR4v5PZw">Primeagen - Zig versus Rust</a></h4>
+        <h4><a href="https://youtu.be/4KtotxNAwME">Greg Johnston - Performance differences between web frameworks</a></h4>
+        <h4><a href="https://youtu.be/gzgyksS5pX8">Jim Keller - Making computers faster by 1,000-10,000x</a></h4>
+        <h4><a href="https://youtu.be/7VHG6Y2QmtM?t=770">Strager - Big O lies about performance for small n</a></h4>
+        <h4><a href="https://youtu.be/DMQ_HcNSOAI">Strager - All possible optimization options</a></h4>
+        <h4><a href="https://youtu.be/tD5NrevFtbU">Mollyrocket - Clean code horrible performance</a></h4>
+        <h4><a href="https://youtu.be/8uAW5FQtcvE">David Gross - Trading at light speed</a></h4>
+        <h4><a href="https://youtu.be/sZxjuT1kUd0">Dr Trefor Bazett - Fastest matrix multiply</a></h4>
+        <h4><a href="https://youtu.be/ssDBqQ5f5_0">Low Level Learning - The performance of division</a></h4>
+        <h4><a href="https://youtu.be/i2gWDOgg50k">UnitOfTime - Golang vs Rust physics sim performance</a></h4>
+        <h4><a href="https://www.tomshardware.com/news/tsmcs-morris-chang-dollar50-billion-us-chip-investment-is-just-a-good-start">TSMC - $50 Billion investment in US silicon is a good start but nowhere near whats needed to become independent from Taiwan</a></h4>
   </details>
   <details>
     <summary><h3>Artifical Intelligence</h3></summary>
