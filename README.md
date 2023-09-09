@@ -148,6 +148,7 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
   ### General	
   Word, Excel, PowerPoint, Agile, Jira, Confluence, Bitbucket
 </details>
+
 <!-- 
 ## Interested Technologies
 These are just some technologies I know a bit about and want to learn more  
