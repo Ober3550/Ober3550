@@ -9,9 +9,8 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
   <summary><h2>Amazing Lectures about Technology</h2></summary>
   
   <details>
-    <summary>High Performance Computing</summary>
-
-    <a href="https://youtu.be/w3xNLj6nRgs"><h4>TechTechPotato - The new Era of High Performance Compute</h4></a>  
+    <summary><h3>High Performance Computing</h3></summary>
+    <a href="https://youtu.be/w3xNLj6nRgs"><h4>TechTechPotato - The new Era of High Performance Compute</h4></a>
     <a href="https://youtu.be/t1R7ElXEyag"><h4>Lightmatter - Photonic Computing</h4></a>  
     <a href="https://youtu.be/AQERQd4RreA"><h4>Lingon Studios - Assembly vs C++ vs C# Unity Particle Sim</h4></a>  
     <a href="https://youtu.be/CbQVR4v5PZw"><h4>Primeagen - Zig versus Rust</h4></a>  
@@ -28,7 +27,6 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
   </details>
   <details>
     <summary>Artifical Intelligence</summary>
-  
     <a href="https://youtu.be/fCLI6kxFFTE"><h4>Lex Fridman - Playing guitar in a self driving car</h4></a>  
     <a href="https://www.youtube.com/watch?v=u16msbVHNWk"><h4>George Hotz - The past, future and present</h4></a>  
     <a href="https://youtu.be/dNrTrx42DGQ"><h4>George Hotz - Lex Fridman</h4></a>  
@@ -47,7 +45,6 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
   </details>
   <details>
     <summary>Computer Science</summary>
-  
     <a href="https://youtu.be/17KCHwOwgms"><h4>Dan Abramov - Composability in software design</h4></a>  
     <a href="https://www.youtube.com/watch?v=d7KHAVaX_Rs"><h4>Computerphile - Just In Time Compilation</h4></a>  
     <a href="https://www.youtube.com/watch?v=kmAc1nDizu0"><h4>Mutual Information - The Boundary of Computability</h4></a>  
@@ -65,7 +62,6 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
   </details>
   <details>
     <summary>Simulation Science</summary>
-  
     <a href="https://youtu.be/yGhfUcPjXuE"><h4>Jonas Tyroller - DeltaTime for dummies</h4></a>  
     <a href="https://youtu.be/rGNUHigqUBM"><h4>AngeTheGreat - Simulating fluid oscillators at up to 44khz</h4></a>  
     <a href="https://youtu.be/4U41OxHiqI8"><h4>AngeTheGreat - Simulating a two stroke bike</h4></a>  
@@ -79,7 +75,6 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
   </details>
   <details>
     <summary>Computing Hardware</summary>
-  
     <a href="https://youtu.be/_hrvR_iTz_I"><h4>Asianometry - EUV's Most Difficult Challenge: Zero defects</h4></a>  
     <a href="https://youtu.be/8bw80LiCl7g"><h4>Phil's lab - How to design a M.2 Accelerator</h4></a>  
     <a href="https://youtu.be/6wBrOV2FJM8"><h4>Ancient - Fitting a raspberry pi into a lego brick</h4></a>  
@@ -88,7 +83,6 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
   </details>
   <details>
     <summary>Corporate Secrets</summary>
-  
     <a href="https://youtu.be/-wMU8vmfaYo"><h4>Facebook - Down for 5 hours because of a misconfigured DNS</h4></a>  
     <a href="https://youtu.be/DDe-S3uef2w"><h4>Cloudflare - How an unoptimized regex crashed the internet</h4></a>  
     <a href="https://youtu.be/lJYufx0bfpw"><h4>Google - Probabilistic counting</h4></a>  
@@ -104,7 +98,6 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
   </details>
   <details>
     <summary>Cybersecurity</summary>
-    
     <a href="https://www.youtube.com/watch?v=HlUe0TUHOIc"><h4>Chris Domas - Turing complete mov</h4></a>  
     <a href="https://www.youtube.com/watch?v=lR0nh-TdpVg"><h4>Chris Domas - Finding backdoors in hardware instruction sets</h4></a>  
     <a href="https://youtu.be/4bM3Gut1hIk"><h4>Chris Domas - Instruction Set Agnostic Program Analysis Tool</h4></a>  
@@ -115,7 +108,6 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
   </details>
   <details>
     <summary>Fun computing Projects</summary>
-  
     <a href="https://youtu.be/zXPiqk0-zDY"><h4>From Scratch - Simulating RISCV in Terraria</h4></a>  
     <a href="https://youtu.be/Bj9CiMO66xk"><h4>The Science Elf - Running isometric minecraft on a calculator</h4></a>  
     <a href="https://youtu.be/E4ydGuxSIF8"><h4>Inkbox - Running minecraft on the 6502</h4></a>  
@@ -128,7 +120,6 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
   </details>
   <details>
     <summary>Space</summary>
-  
     <a href="https://youtu.be/8tRZY98EGYk"><h4>Entropian - Realistic interstellar journery</h4></a>  
     <a href="https://youtu.be/uZN5xjoS6TU"><h4>David Kipping - Alien Civilisations and Habitable Worlds</h4></a>  
   </details>
