@@ -8,6 +8,17 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
 <details>
     <summary><h2>Amazing Lectures about Technology</h2></summary>
 
+## Contents
+- [High Perforance Computing](#high-performance-computing)
+- [Artifical Intelligence](#artifical-intelligence)
+- [Computer Science](#computer-science)
+- [Simulation Science](#simulation-science)
+- [Computing Hardware](#computing-hardware)
+- [Corporate Secrets](#corporate-secrets)
+- [Cybersecurity](#cybersecurity)
+- [Fun Projects](#fun-projects)
+- [Space](#space)
+
 | | | |
 | - | - | - |
 | <h2>High Performance Computing</h2> | | |
