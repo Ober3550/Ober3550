@@ -27,7 +27,7 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
   <details>
     <summary><h3>Artifical Intelligence</h3></summary>
     <h4><a href="https://youtu.be/fCLI6kxFFTE">Lex Fridman - Playing guitar in a self driving car</a></h4>
-    <h4><a href="https://www.youtube.com/watch?v=u16msbVHNWk">George Hotz - The past, future and present</a></h4>
+    <h4><a href="https://youtu.be/u16msbVHNWk">George Hotz - The past, future and present</a></h4>
     <h4><a href="https://youtu.be/dNrTrx42DGQ">George Hotz - Lex Fridman</a></h4>
     <h4><a href="https://youtu.be/K5iDUZPx60E">George Hotz - Tiny corp Petaflops to the People</a></h4>
     <h4><a href="https://youtu.be/AjkiBRNVeV8">2 Minute Papers - Nvidia raytacing improvements with AI</a></h4>
@@ -45,8 +45,8 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
   <details>
     <summary><h3>Computer Science</h3></summary>
     <h4><a href="https://youtu.be/17KCHwOwgms">Dan Abramov - Composability in software design</a></h4>
-    <h4><a href="https://www.youtube.com/watch?v=d7KHAVaX_Rs">Computerphile - Just In Time Compilation</a></h4>
-    <h4><a href="https://www.youtube.com/watch?v=kmAc1nDizu0">Mutual Information - The Boundary of Computability</a></h4>
+    <h4><a href="https://youtu.be/d7KHAVaX_Rs">Computerphile - Just In Time Compilation</a></h4>
+    <h4><a href="https://youtu.be/kmAc1nDizu0">Mutual Information - The Boundary of Computability</a></h4>
     <h4><a href="https://youtu.be/14CPI1qBd7o">Leddoo - Why my scripting language is already faster than python</a></h4>
     <h4><a href="https://youtu.be/kESmRMDHZZk">Leddoo - How Python Works</a></h4>
     <h4><a href="https://youtu.be/cMMAGIefZuM">Leddoo - Are stack based vms really slower?</a></h4>
@@ -97,8 +97,8 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
   </details>
   <details>
     <summary><h3>Cybersecurity</h3></summary>
-    <h4><a href="https://www.youtube.com/watch?v=HlUe0TUHOIc">Chris Domas - Turing complete mov</a></h4>
-    <h4><a href="https://www.youtube.com/watch?v=lR0nh-TdpVg">Chris Domas - Finding backdoors in hardware instruction sets</a></h4>
+    <h4><a href="https://youtu.be/HlUe0TUHOIc">Chris Domas - Turing complete mov</a></h4>
+    <h4><a href="https://youtu.be/lR0nh-TdpVg">Chris Domas - Finding backdoors in hardware instruction sets</a></h4>
     <h4><a href="https://youtu.be/4bM3Gut1hIk">Chris Domas - Instruction Set Agnostic Program Analysis Tool</a></h4>
     <h4><a href="https://youtu.be/uOvizKc1WZY">Liveoverflow - Google Cloud Platform 2022 Bugbounty Winners Review</a></h4>
     <h4><a href="https://youtu.be/lG-ZqO734tM">Not What You Think - Using bees to smell bombs</a></h4>
