@@ -7,174 +7,1471 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
 ### "Want fast C++? Know your hardware!" - Timur Doumler cppcon 2016  
 <details>
     <summary><h2>Amazing Lectures about Technology</h2></summary>
+   <details>
+      <summary>
+        <h3>High Performance Computing</h3>
+      </summary>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/0_Byw9UMn9g" style="text-decoration: none">
+          <h4 style="color: black">
+            Unity - Data Oriented Design for Maximum Performance
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/0_Byw9UMn9g/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/t1R7ElXEyag" style="text-decoration: none">
+          <h4 style="color: black">Lightmatter - Photonic Computing</h4>
+          <img
+            src="https://img.youtube.com/vi/t1R7ElXEyag/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/AQERQd4RreA" style="text-decoration: none">
+          <h4 style="color: black">
+            Lingon Studios - Assembly vs C++ vs C# Unity Particle Sim
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/AQERQd4RreA/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/4KtotxNAwME" style="text-decoration: none">
+          <h4 style="color: black">
+            Greg Johnston - Performance differences between web frameworks
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/4KtotxNAwME/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/gzgyksS5pX8" style="text-decoration: none">
+          <h4 style="color: black">
+            Jim Keller - Making computers faster by 1,000-10,000x
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/gzgyksS5pX8/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a
+          href="https://youtu.be/7VHG6Y2QmtM?t=770"
+          style="text-decoration: none"
+        >
+          <h4 style="color: black">
+            Strager - Big O lies about performance for small n
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/7VHG6Y2QmtM/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/DMQ_HcNSOAI" style="text-decoration: none">
+          <h4 style="color: black">
+            Strager - All possible optimization options
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/DMQ_HcNSOAI/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/tD5NrevFtbU" style="text-decoration: none">
+          <h4 style="color: black">
+            Mollyrocket - Clean code horrible performance
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/tD5NrevFtbU/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/8uAW5FQtcvE" style="text-decoration: none">
+          <h4 style="color: black">David Gross - Trading at light speed</h4>
+          <img
+            src="https://img.youtube.com/vi/8uAW5FQtcvE/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/sZxjuT1kUd0" style="text-decoration: none">
+          <h4 style="color: black">
+            Dr Trefor Bazett - Fastest matrix multiply
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/sZxjuT1kUd0/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/ssDBqQ5f5_0" style="text-decoration: none">
+          <h4 style="color: black">
+            Low Level Learning - The performance of division
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/ssDBqQ5f5_0/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/i2gWDOgg50k" style="text-decoration: none">
+          <h4 style="color: black">
+            UnitOfTime - Golang vs Rust physics sim performance
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/i2gWDOgg50k/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/CbQVR4v5PZw" style="text-decoration: none">
+          <h4 style="color: black">Primeagen - Zig versus Rust</h4>
+          <img
+            src="https://img.youtube.com/vi/CbQVR4v5PZw/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/ip51Y5v3WLk" style="text-decoration: none">
+          <h4 style="color: black">
+            ThePrimeagen - How to write optimized javascript
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/ip51Y5v3WLk/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/r-TLSBdHe1A" style="text-decoration: none">
+          <h4 style="color: black">
+            Emery Berger - How to evaluate performance across microarchitectures
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/r-TLSBdHe1A/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/FqR5vESuKe0" style="text-decoration: none">
+          <h4 style="color: black">
+            ByteByteGo - Hardware Latency Numbers Programmers should know
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/FqR5vESuKe0/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/Y37WiO55bxs" style="text-decoration: none">
+          <h4 style="color: black">
+            Matt Parker - Turning a computational problem from 30 days to under
+            100ms
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/Y37WiO55bxs/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/pQPqhZRUz3U" style="text-decoration: none">
+          <h4 style="color: black">
+            SimonDev - Optimizing javascript to be 8x faster
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/pQPqhZRUz3U/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/p9nH2vZ2mNo" style="text-decoration: none">
+          <h4 style="color: black">CPPCon - Thin Link Time Optimization</h4>
+          <img
+            src="https://img.youtube.com/vi/p9nH2vZ2mNo/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/NH1Tta7purM" style="text-decoration: none">
+          <h4 style="color: black">
+            CPPCon - High performance trading systems in C++
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/NH1Tta7purM/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/mOSirVeP5lo" style="text-decoration: none">
+          <h4 style="color: black">
+            The Cherno - Optimizing a C++ Game Engine with NVIDIA pipelines
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/mOSirVeP5lo/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/eviSykqSUUw" style="text-decoration: none">
+          <h4 style="color: black">
+            Unity - A Deep Dive into Nanite Virtualized Geometry
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/eviSykqSUUw/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/P8ltWIqDPzo" style="text-decoration: none">
+          <h4 style="color: black">
+            Lars Bak & Kasper Lund - How to be a better programmer and how
+            JavaScript V8 is Fast
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/P8ltWIqDPzo/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/hxM8QmyZXtg" style="text-decoration: none">
+          <h4 style="color: black">
+            MollyRocket - How fast should an unoptimized terminal run?
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/hxM8QmyZXtg/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+    </details>
     <details>
-        <summary><h3>High Performance Computing</h3></summary>
-        <h4><a href="https://youtu.be/0_Byw9UMn9g">Unity - Data Oriented Design for Maximum Performance</a></h4>
-        <h4><a href="https://youtu.be/t1R7ElXEyag">Lightmatter - Photonic Computing</a></h4>
-        <h4><a href="https://youtu.be/AQERQd4RreA">Lingon Studios - Assembly vs C++ vs C# Unity Particle Sim</a></h4>
-        <h4><a href="https://youtu.be/4KtotxNAwME">Greg Johnston - Performance differences between web frameworks</a></h4>
-        <h4><a href="https://youtu.be/gzgyksS5pX8">Jim Keller - Making computers faster by 1,000-10,000x</a></h4>
-        <h4><a href="https://youtu.be/7VHG6Y2QmtM?t=770">Strager - Big O lies about performance for small n</a></h4>
-        <h4><a href="https://youtu.be/DMQ_HcNSOAI">Strager - All possible optimization options</a></h4>
-        <h4><a href="https://youtu.be/tD5NrevFtbU">Mollyrocket - Clean code horrible performance</a></h4>
-        <h4><a href="https://youtu.be/8uAW5FQtcvE">David Gross - Trading at light speed</a></h4>
-        <h4><a href="https://youtu.be/sZxjuT1kUd0">Dr Trefor Bazett - Fastest matrix multiply</a></h4>
-        <h4><a href="https://youtu.be/ssDBqQ5f5_0">Low Level Learning - The performance of division</a></h4>
-        <h4><a href="https://youtu.be/i2gWDOgg50k">UnitOfTime - Golang vs Rust physics sim performance</a></h4>
-        <h4><a href="https://youtu.be/CbQVR4v5PZw">Primeagen - Zig versus Rust</a></h4>
-        <h4><a href="https://youtu.be/ip51Y5v3WLk">ThePrimeagen - How to write optimized javascript</a></h4>
-        <h4><a href="https://youtu.be/r-TLSBdHe1A">Emery Berger - How to evaluate performance across microarchitectures</a></h4>
-        <h4><a href="https://youtu.be/FqR5vESuKe0">ByteByteGo - Hardware Latency Numbers Programmers should know</a></h4>
-        <h4><a href="https://youtu.be/Y37WiO55bxs">Matt Parker - Turning a computational problem from 30 days to under 100ms</a></h4>
-        <h4><a href="https://youtu.be/pQPqhZRUz3U">SimonDev - Optimizing javascript to be 8x faster</a></h4>
-        <h4><a href="https://www.youtube.com/watch?v=p9nH2vZ2mNo">CPPCon - Thin Link Time Optimization</a></h4>
-        <h4><a href="https://youtu.be/NH1Tta7purM">CPPCon - High performance trading systems in C++</a></h4>
-        <h4><a href="https://www.hpcwire.com/2021/12/27/lessons-from-llvm-an-sc21-fireside-chat-with-chris-lattner/">HPCwire - Lessons from LLVM with CHris Lattner</a></h4>
-        <h4><a href="https://www.tomshardware.com/news/tsmcs-morris-chang-dollar50-billion-us-chip-investment-is-just-a-good-start">TSMC - $50 Billion investment in US silicon is a good start but nowhere near whats needed to become independent from Taiwan</a></h4>
-        <h4><a href="https://www.youtube.com/watch?v=mOSirVeP5lo">The Cherno - Optimizing a C++ Game Engine with NVIDIA pipelines</a></h4>
-        <h4><a href="https://youtu.be/eviSykqSUUw">Unity - A Deep Dive into Nanite Virtualized Geometry</a></h4>
-        <h4><a href="https://youtu.be/P8ltWIqDPzo">Lars Bak & Kasper Lund - How to be a better programmer and how JavaScript V8 is Fast</a></h4>
-        <h4><a href="https://jnmaloney.github.io/WebGui/imgui.html">JNMaloney - Imgui in the Web</a></h4>
-        <h4><a href="https://www.youtube.com/watch?v=hxM8QmyZXtg">MollyRocket - How fast should an unoptimized terminal run?</a></h4>
-        <h4><a href="https://baptiste-wicht.com/posts/2017/09/cpp11-performance-tip-when-to-use-std-pow.html">The performance of C++ std:pow</a></h4>
-  </details>
-  <details>
-    <summary><h3>Artifical Intelligence</h3></summary>
-    <h4><a href="https://youtu.be/w8yWXqWQYmU">Samson Zhang - Neural Network Fundamentals</a></h4>
-    <h4><a href="https://youtu.be/fCLI6kxFFTE">Lex Fridman - Playing guitar in a self driving car</a></h4>
-    <h4><a href="https://youtu.be/u16msbVHNWk">George Hotz - The past, future and present</a></h4>
-    <h4><a href="https://youtu.be/dNrTrx42DGQ">George Hotz - Lex Fridman</a></h4>
-    <h4><a href="https://youtu.be/K5iDUZPx60E">George Hotz - Tiny corp Petaflops to the People</a></h4>
-    <h4><a href="https://youtu.be/AjkiBRNVeV8">2 Minute Papers - Nvidia raytacing improvements with AI</a></h4>
-    <h4><a href="https://youtu.be/qbIk7-JPB2c">Sebastian Bubeck - Sparks of AGI: early experiments with GPT-4</a></h4>
-    <h4><a href="https://youtu.be/5SgJKZLBrmg">Ai Explained - Using reflection to improve GPT-4 Results</a></h4>
-    <h4><a href="https://youtu.be/Mqg3aTGNxZ0">Ai Explained - Reading the Sparks of AGI paper</a></h4>
-    <h4><a href="https://youtu.be/L_Guz73e6fw">Sam Altman - Lex Fridman the future of AI</a></h4>
-    <h4><a href="https://youtu.be/ZlApnysONmQ">Tesla - FSD v11</a></h4>
-    <h4><a href="https://youtu.be/ol5hwjr48Q4">Tesla - Scaling compute for the next generation of AI</a></h4>
-    <h4><a href="https://youtu.be/wvsE8jm1GzE">Google - Visalising higher dimensional space</a></h4>
-    <h4><a href="https://youtu.be/1CIpzeNxIhU">Computerphile - How Stable Diffusion Works</a></h4>
-    <h4><a href="https://youtu.be/zkbPdEHEyEI">Robert Miles - Inner alignment</a></h4>
-    <h4><a href="https://youtu.be/YreDYmXTYi4?t=2160">Neuralink - Using Artificial intelligence to analyse biological intelligence</a></h4>
-  </details>
-  <details>
-    <summary><h3>Computer Science</h3></summary>
-    <h4><a href="https://youtu.be/17KCHwOwgms">Dan Abramov - Composability in software design</a></h4>
-    <h4><a href="https://youtu.be/d7KHAVaX_Rs">Computerphile - Just In Time Compilation</a></h4>
-    <h4><a href="https://youtu.be/kmAc1nDizu0">Mutual Information - The Boundary of Computability</a></h4>
-    <h4><a href="https://youtu.be/14CPI1qBd7o">Leddoo - Why my scripting language is already faster than python</a></h4>
-    <h4><a href="https://youtu.be/kESmRMDHZZk">Leddoo - How Python Works</a></h4>
-    <h4><a href="https://youtu.be/cMMAGIefZuM">Leddoo - Are stack based vms really slower?</a></h4>
-    <h4><a href="https://evolutionnews.org/2017/01/the_worlds_idea/">Evolution News - Using dna to store information</a></h4>
-    <h4><a href="https://youtu.be/GgPdRKqcRTE">Steve Mould - Playing tic tac toe against dna</a></h4>
-    <h4><a href="https://youtu.be/9X4frIQo7x0">Breaking Taps - How Silicon Lithography is used to make accelerometers</a></h4>
-    <h4><a href="https://youtu.be/jr1EBaLkjfc">Code to the moon - V programming language</a></h4>
-    <h4><a href="https://youtu.be/EIyjaCwbYXQ">The Last Theory - The reducability of the world to computation</a></h4>
-    <h4><a href="https://youtu.be/Ov0EetgMws4">Physics for the birds - James Webb Space Telescope Travelling salesman problem</a></h4>
-    <h4><a href="https://youtu.be/NEkegQanD2I">Kathy Loves Physics and History - Who invented 3 phase electricity</a></h4>
-    <h4><a href="https://youtu.be/CFRhGnuXG-4">Code Aesthetic - Why you shouldn't nest your code</a></h4>
-    <h4><a href="https://youtu.be/aJt2POa9oCM">JDH - The usefulness of C++ compile time reflection</a></h4>
-    <h4><a href="https://youtu.be/GiDsjIBOVoA">Reduciple - Christofides Travelling Salesman Solution</a></h4>
-    <h4><a href="https://youtu.be/jLqTXkFtEH0">Google Chrome Developers - Which key was  pressed?</a></h4>
-    <h4><a href="https://youtu.be/EFUYNoFRHQI">Reducible - How PNG Works: Compromising Speed for Quality</a></h4>
-  </details>
-  <details>
-    <summary><h3>Simulation Science</h3></summary>
-    <h4><a href="https://youtu.be/yGhfUcPjXuE">Jonas Tyroller - DeltaTime for dummies</a></h4>
-    <h4><a href="https://youtu.be/WPCMNnM6D0k">AngeTheGreat - Engine Simulator Rotary Engine</a></h4>
-    <h4><a href="https://youtu.be/4U41OxHiqI8">AngeTheGreat - Simulating a two stroke bike</a></h4>
-    <h4><a href="https://youtu.be/dzfjwXtATJA">AngeTheGreat - Simulating a steam engine</a></h4>
-    <h4><a href="https://youtu.be/rGNUHigqUBM">AngeTheGreat - Simulating fluid oscillators at up to 44khz</a></h4>
-    <h4><a href="https://youtu.be/oulfRfqTxJA">AngeTheGreat - Simulating trusses, masses and springs</a></h4>
-    <h4><a href="https://youtu.be/T75SucBcfMo">blackedout - Simulating a softbody tire</a></h4>
-    <h4><a href="https://youtu.be/ge_j31Yx_yk">Worlds in Motion - Simulating different speeds of light</a></h4>
-    <h4><a href="https://youtu.be/ob3VwY4JyzE">Minecraft - Generating terrain</a></h4>
-    <h4><a href="https://youtu.be/9IULfQH7E90">Pezzza's Work - Many particle system</a></h4>
-    <h4><a href="https://youtu.be/Ffka-hPzug0">monster860 - Non-square square waves</a></h4>
-    <h4><a href="https://youtu.be/BNZtUB7yhX4">SimonDev - Raymarching</a></h4>
-    <h4><a href="https://youtu.be/bcdUJXKZims">Game Engine Series - Mathematics of View and Projection Matrices</a></h4>
-    <h4><a href="https://youtu.be/KPoeNZZ6H4s">T3ssel8r - The Mathematics of Simulating Animation Movements</a></h4>
-    <h4><a href="https://youtu.be/BFld4EBO2RE">Inigo Quilez - Painting a Landscape with Maths</a></h4>
-    <h4><a href="https://www.youtube.com/watch?v=UXD97l7ZT0w">Sebastian Lague - Using real world data to simulate the whole world</a></h4>
-  </details>
-  <details>
-    <summary><h3>Computing Hardware</h3></summary>
-    <h4><a href="https://www.youtube.com/watch?v=RSPPTaAT2Xg">Samsung - Programmable Photonics</a></h4>
-    <h4><a href="https://youtu.be/_hrvR_iTz_I">Asianometry - EUV's Most Difficult Challenge: Zero defects</a></h4>
-    <h4><a href="https://youtu.be/8bw80LiCl7g">Phil's lab - How to design a M.2 Accelerator</a></h4>
-    <h4><a href="https://youtu.be/6wBrOV2FJM8">Ancient - Fitting a raspberry pi into a lego brick</a></h4>
-    <h4><a href="https://youtu.be/pfjYecJHMRU">Lytro - 40k Resolution Camera</a></h4>
-    <h4><a href="https://youtu.be/oHahy_NtMDI">Just Have a Think - Offloading network communication to dedicated chips</a></h4>
-    <h4><a href="https://youtu.be/-y3RGeaxksY?t=294">Adam Neely - Resonant Frequencies Can Break Harddrives</a></h4>
-    <h4><a href="https://youtu.be/Gej9UZZAnQ4">Asianometry - Solar-Grade Silicon></a></h4>
-    <h4><a href="https://www.youtube.com/watch?v=TvEk6QsNuRA">Asianometry - The economics of TSMC's Gigafabs</a></h4>
-    <h4><a href="https://www.youtube.com/watch?v=Xo7V4PPHijs">The Hated One - Datacentres are running out of water for cooling</a></h4>
-    <h4><a href="https://www.igorslab.de/en/intel-deactivated-avx-512-on-alder-lake-but-fully-questionable-interpretation-of-efficiency-news-editorial/">Igor'sLab - Intel disables AVX-512 Instructions on Alder Lake Architecture</a></h4>
-    <h4><a href="https://www.cnx-software.com/2021/12/30/sipeed-lichee-rv-risc-v-module-gets-5-carrier-board-with-hdmi-and-usb-ports-optional-wifi/">CNX Software - Sipeed Lichee Release RISC-V computer</a></h4>
-    <h4><a href="https://youtu.be/Wz_xJPN7lAY?t=700">Creel - Top 10 Craziest x86 Instructions</a></h4>
-    <h4><a href="https://youtu.be/FNd94_XaVlY">TechTechPotato - Cerebras Waferscale Engine</a></h4>
-    <h4><a href="https://youtu.be/tvVobTtgss0">TechTechPotato - The cost of TSMC 7nm</a></h4>
-    <h4><a href="https://youtu.be/w3xNLj6nRgs">TechTechPotato - The new Era of High Performance Compute</a></h4>
-  </details>
-  <details>
-    <summary><h3>Corporate Secrets</h3></summary>
-    <h4><a href="https://youtu.be/-wMU8vmfaYo">Facebook - Down for 5 hours because of a misconfigured DNS</a></h4>
-    <h4><a href="https://youtu.be/DDe-S3uef2w">Cloudflare - How an unoptimized regex crashed the internet</a></h4>
-    <h4><a href="https://youtu.be/lJYufx0bfpw">Google - Probabilistic counting</a></h4>
-    <h4><a href="https://youtu.be/dsHyUgGMht0">Github - Cross Datacentre failure</a></h4>
-    <h4><a href="https://youtu.be/mL4t2Jf8DUk">Reddit - Worst outage ever</a></h4>
-    <h4><a href="https://youtu.be/xynXjChKkJc">Discord - Migrating from Cassandra to Scylla</a></h4>
-    <h4><a href="https://youtu.be/yJOrMDMqeoI">Goto - Migrations, the hardest problem in computer science</a></h4>
-    <h4><a href="https://youtu.be/KJ_otmElnbM">Tesla - Stated expansion plans 2023</a></h4>
-    <h4><a href="https://youtu.be/z7vhMcKvHo8">Tony Seba - The great transformation 1</a></h4>
-    <h4><a href="https://youtu.be/Vqs0_3M-18c">Tony Seba - The great transformation 2</a></h4>
-    <h4><a href="https://youtu.be/fsnkPLkf1ao">Tony Seba - The great transformation 2</a></h4>
-    <h4><a href="https://youtu.be/g6gZHbfK8Vo">Tony Seba - The great transformation 4</a></h4>
-  </details>
-  <details>
-    <summary><h3>Cybersecurity</h3></summary>
-    <h4><a href="https://youtu.be/R7EEoWg6Ekk">Chris Domas - Turing complete x86 MOV</a></h4>
-    <h4><a href="https://youtu.be/HlUe0TUHOIc">Chris Domas - Psychological Warfare in Decompilation</a></h4>
-    <h4><a href="https://youtu.be/lR0nh-TdpVg">Chris Domas - Finding backdoors in hardware instruction sets</a></h4>
-    <h4><a href="https://youtu.be/4bM3Gut1hIk">Chris Domas - Instruction Set Agnostic Program Analysis Tool</a></h4>
-    <h4><a href="https://youtu.be/uOvizKc1WZY">Liveoverflow - Google Cloud Platform 2022 Bugbounty Winners Review</a></h4>
-    <h4><a href="https://youtu.be/lG-ZqO734tM">Not What You Think - Using bees to smell bombs</a></h4>
-    <h4><a href="https://youtu.be/WRNZhP4CVgE">Joseph Ravichandran - Exploiting branch prediction to bypass Apple M1 signed function pointers</a></h4>
-    <h4><a href="https://youtu.be/GlQr4wifQuE">Seytonic - Exploiting github to mine crypto</a></h4>
-    <h4><a href="https://youtu.be/yrCXamnX9No">LiveOverflow - Finding a 0day in Apache</a></h4>
-    <h4><a href="https://youtu.be/qA8KB6KndrE">LiveOverflow - Exploiting Java Tomcat with JSP Web Shell</a></h4>
-    <h4><a href="https://youtu.be/fj-VlvoB8tw">Deviant Ollam - Elevator Penetration Testing</a></h4>
-  </details>
-  <details>
-    <summary><h3>Fun computing Projects</h3></summary>
-    <h4><a href="https://youtu.be/zXPiqk0-zDY">From Scratch - Simulating RISCV in Terraria</a></h4>
-    <h4><a href="https://youtu.be/Bj9CiMO66xk">The Science Elf - Running isometric minecraft on a calculator</a></h4>
-    <h4><a href="https://youtu.be/E4ydGuxSIF8">Inkbox - Running minecraft on the 6502</a></h4>
-    <h4><a href="https://youtu.be/m28jJ7CMp8A">S0lly - Raytracing in excel</a></h4>
-    <h4><a href="https://youtu.be/FPmQ0rnJjNc">Earthcomputer - Using minecraft to compute the result of the next call to java math.rng</a></h4>
-    <h4><a href="https://youtu.be/Ae9EKCyI1xU">Suckerpinch - Using floating point imprecision to make something useful</a></h4>
-    <h4><a href="https://youtu.be/JcJSW7Rprio">Suckerpinch - Harder Drive, Storing Data in Dumb Ways</a></h4>
-    <h4><a href="https://youtu.be/09LlZhlcJTU">Nerdtronic - Coding a very precise pen bot</a></h4>
-    <h4><a href="https://youtu.be/WTUafAwrunE">aarthificial - Animation software for videos</a></h4>
-    <h4><a href="https://youtu.be/nrsDklFXrpc">shounic - TF2 Huntsman bug counts any hit as headshot</a></h4>
-    <h4><a href="https://youtu.be/hFRlnNci3Rs">mattbatwings - Creating a 3d line renderer in minecraft</a></h4>
-    <h4><a href="https://youtu.be/bD1wWY1YD-M">Nostalgia Nerd - How to write an fps in 96kb</a></h4>
-    <h4><a href="https://youtu.be/lJVGd7cBGuQ">MattKC - Decompiling a Sonic Game</a></h4>
-    <h4><a href="https://youtu.be/Oq_6S-X6A-I">Some Kitten - Using Moire Patterns to make GIFS in Minecraft</a></h4>
-    <h4><a href="https://youtu.be/sRWE5tnaxlI">Low Level Javascript - Obfuscating JavaScript to 8 characters</a></h4>
-    <h4><a href="https://youtu.be/bIj3xBmALxE">James Sharman - High perforamnce 8 bit system</a></h4>
-    <h4><a href="https://youtu.be/t_rzYnXEQlE">Kaze Emanuar - Optimizing Mario 64</a></h4>
-    <h4><a href="https://youtu.be/tocXaInkarE">Doctor Volt - Z80 Computer from scratch</a></h4>
-    <h4><a href="https://www.youtube.com/watch?v=uQzk2BQxH_U">Junferno - Using Fourier to become a Vocaloid</a></h4>
-    <h4><a href="https://youtu.be/Pt7z51TpctE">JohnDoesStuff - Neural Networks in Desmos</a></h4>
-  </details>
-  <details>
-    <summary><h3>Space</h3></summary>
-    <h4><a href="https://youtu.be/VA_8HPsua0c?si=eX6QiyT2ND1MPCzh">RocketLab - Lift Off!</a></h4>
-    <h4><a href="https://www.youtube.com/live/-1wcilQ58hI?si=fz3uN3hwkPrCejUT">SpaceX - Starship Flight Test</a></h4>
-    <h4><a href="https://youtu.be/8tRZY98EGYk">Entropian - Realistic interstellar journery</a></h4>
-    <h4><a href="https://youtu.be/uZN5xjoS6TU">David Kipping - Alien Civilisations and Habitable Worlds</a></h4>
-  </details>
+      <summary>
+        <h3>Artifical Intelligence</h3>
+      </summary>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/w8yWXqWQYmU" style="text-decoration: none">
+          <h4 style="color: black">
+            Samson Zhang - Neural Network Fundamentals
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/w8yWXqWQYmU/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/fCLI6kxFFTE" style="text-decoration: none">
+          <h4 style="color: black">
+            Lex Fridman - Playing guitar in a self driving car
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/fCLI6kxFFTE/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/u16msbVHNWk" style="text-decoration: none">
+          <h4 style="color: black">
+            George Hotz - The past, future and present
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/u16msbVHNWk/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/dNrTrx42DGQ" style="text-decoration: none">
+          <h4 style="color: black">George Hotz - Lex Fridman</h4>
+          <img
+            src="https://img.youtube.com/vi/dNrTrx42DGQ/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/K5iDUZPx60E" style="text-decoration: none">
+          <h4 style="color: black">
+            George Hotz - Tiny corp Petaflops to the People
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/K5iDUZPx60E/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/AjkiBRNVeV8" style="text-decoration: none">
+          <h4 style="color: black">
+            2 Minute Papers - Nvidia raytacing improvements with AI
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/AjkiBRNVeV8/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/qbIk7-JPB2c" style="text-decoration: none">
+          <h4 style="color: black">
+            Sebastian Bubeck - Sparks of AGI: early experiments with GPT-4
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/qbIk7-JPB2c/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/5SgJKZLBrmg" style="text-decoration: none">
+          <h4 style="color: black">
+            Ai Explained - Using reflection to improve GPT-4 Results
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/5SgJKZLBrmg/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/Mqg3aTGNxZ0" style="text-decoration: none">
+          <h4 style="color: black">
+            Ai Explained - Reading the Sparks of AGI paper
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/Mqg3aTGNxZ0/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/L_Guz73e6fw" style="text-decoration: none">
+          <h4 style="color: black">
+            Sam Altman - Lex Fridman the future of AI
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/L_Guz73e6fw/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/ZlApnysONmQ" style="text-decoration: none">
+          <h4 style="color: black">Tesla - FSD v11</h4>
+          <img
+            src="https://img.youtube.com/vi/ZlApnysONmQ/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/ol5hwjr48Q4" style="text-decoration: none">
+          <h4 style="color: black">
+            Tesla - Scaling compute for the next generation of AI
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/ol5hwjr48Q4/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/wvsE8jm1GzE" style="text-decoration: none">
+          <h4 style="color: black">
+            Google - Visalising higher dimensional space
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/wvsE8jm1GzE/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/1CIpzeNxIhU" style="text-decoration: none">
+          <h4 style="color: black">
+            Computerphile - How Stable Diffusion Works
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/1CIpzeNxIhU/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/zkbPdEHEyEI" style="text-decoration: none">
+          <h4 style="color: black">Robert Miles - Inner alignment</h4>
+          <img
+            src="https://img.youtube.com/vi/zkbPdEHEyEI/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a
+          href="https://youtu.be/YreDYmXTYi4?t=2160"
+          style="text-decoration: none"
+        >
+          <h4 style="color: black">
+            Neuralink - Using Artificial intelligence to analyse biological
+            intelligence
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/YreDYmXTYi4/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+    </details>
+    <details>
+      <summary>
+        <h3>Computer Science</h3>
+      </summary>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/17KCHwOwgms" style="text-decoration: none">
+          <h4 style="color: black">
+            Dan Abramov - Composability in software design
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/17KCHwOwgms/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/d7KHAVaX_Rs" style="text-decoration: none">
+          <h4 style="color: black">Computerphile - Just In Time Compilation</h4>
+          <img
+            src="https://img.youtube.com/vi/d7KHAVaX_Rs/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/kmAc1nDizu0" style="text-decoration: none">
+          <h4 style="color: black">
+            Mutual Information - The Boundary of Computability
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/kmAc1nDizu0/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/14CPI1qBd7o" style="text-decoration: none">
+          <h4 style="color: black">
+            Leddoo - Why my scripting language is already faster than python
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/14CPI1qBd7o/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/kESmRMDHZZk" style="text-decoration: none">
+          <h4 style="color: black">Leddoo - How Python Works</h4>
+          <img
+            src="https://img.youtube.com/vi/kESmRMDHZZk/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/cMMAGIefZuM" style="text-decoration: none">
+          <h4 style="color: black">
+            Leddoo - Are stack based vms really slower?
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/cMMAGIefZuM/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/GgPdRKqcRTE" style="text-decoration: none">
+          <h4 style="color: black">
+            Steve Mould - Playing tic tac toe against dna
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/GgPdRKqcRTE/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/9X4frIQo7x0" style="text-decoration: none">
+          <h4 style="color: black">
+            Breaking Taps - How Silicon Lithography is used to make
+            accelerometers
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/9X4frIQo7x0/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/jr1EBaLkjfc" style="text-decoration: none">
+          <h4 style="color: black">
+            Code to the moon - V programming language
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/jr1EBaLkjfc/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/EIyjaCwbYXQ" style="text-decoration: none">
+          <h4 style="color: black">
+            The Last Theory - The reducability of the world to computation
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/EIyjaCwbYXQ/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/Ov0EetgMws4" style="text-decoration: none">
+          <h4 style="color: black">
+            Physics for the birds - James Webb Space Telescope Travelling
+            salesman problem
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/Ov0EetgMws4/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/NEkegQanD2I" style="text-decoration: none">
+          <h4 style="color: black">
+            Kathy Loves Physics and History - Who invented 3 phase electricity
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/NEkegQanD2I/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/CFRhGnuXG-4" style="text-decoration: none">
+          <h4 style="color: black">
+            Code Aesthetic - Why you shouldn't nest your code
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/CFRhGnuXG-4/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/aJt2POa9oCM" style="text-decoration: none">
+          <h4 style="color: black">
+            JDH - The usefulness of C++ compile time reflection
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/aJt2POa9oCM/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/GiDsjIBOVoA" style="text-decoration: none">
+          <h4 style="color: black">
+            Reduciple - Christofides Travelling Salesman Solution
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/GiDsjIBOVoA/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/jLqTXkFtEH0" style="text-decoration: none">
+          <h4 style="color: black">
+            Google Chrome Developers - Which key was pressed?
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/jLqTXkFtEH0/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/EFUYNoFRHQI" style="text-decoration: none">
+          <h4 style="color: black">
+            Reducible - How PNG Works: Compromising Speed for Quality
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/EFUYNoFRHQI/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+    </details>
+    <details>
+      <summary>
+        <h3>Simulation Science</h3>
+      </summary>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/yGhfUcPjXuE" style="text-decoration: none">
+          <h4 style="color: black">Jonas Tyroller - DeltaTime for dummies</h4>
+          <img
+            src="https://img.youtube.com/vi/yGhfUcPjXuE/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/WPCMNnM6D0k" style="text-decoration: none">
+          <h4 style="color: black">
+            AngeTheGreat - Engine Simulator Rotary Engine
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/WPCMNnM6D0k/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/4U41OxHiqI8" style="text-decoration: none">
+          <h4 style="color: black">
+            AngeTheGreat - Simulating a two stroke bike
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/4U41OxHiqI8/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/dzfjwXtATJA" style="text-decoration: none">
+          <h4 style="color: black">AngeTheGreat - Simulating a steam engine</h4>
+          <img
+            src="https://img.youtube.com/vi/dzfjwXtATJA/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/rGNUHigqUBM" style="text-decoration: none">
+          <h4 style="color: black">
+            AngeTheGreat - Simulating fluid oscillators at up to 44khz
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/rGNUHigqUBM/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/oulfRfqTxJA" style="text-decoration: none">
+          <h4 style="color: black">
+            AngeTheGreat - Simulating trusses, masses and springs
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/oulfRfqTxJA/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/T75SucBcfMo" style="text-decoration: none">
+          <h4 style="color: black">blackedout - Simulating a softbody tire</h4>
+          <img
+            src="https://img.youtube.com/vi/T75SucBcfMo/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/ge_j31Yx_yk" style="text-decoration: none">
+          <h4 style="color: black">
+            Worlds in Motion - Simulating different speeds of light
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/ge_j31Yx_yk/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/ob3VwY4JyzE" style="text-decoration: none">
+          <h4 style="color: black">Minecraft - Generating terrain</h4>
+          <img
+            src="https://img.youtube.com/vi/ob3VwY4JyzE/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/9IULfQH7E90" style="text-decoration: none">
+          <h4 style="color: black">Pezzza's Work - Many particle system</h4>
+          <img
+            src="https://img.youtube.com/vi/9IULfQH7E90/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/Ffka-hPzug0" style="text-decoration: none">
+          <h4 style="color: black">monster860 - Non-square square waves</h4>
+          <img
+            src="https://img.youtube.com/vi/Ffka-hPzug0/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/BNZtUB7yhX4" style="text-decoration: none">
+          <h4 style="color: black">SimonDev - Raymarching</h4>
+          <img
+            src="https://img.youtube.com/vi/BNZtUB7yhX4/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/bcdUJXKZims" style="text-decoration: none">
+          <h4 style="color: black">
+            Game Engine Series - Mathematics of View and Projection Matrices
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/bcdUJXKZims/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/KPoeNZZ6H4s" style="text-decoration: none">
+          <h4 style="color: black">
+            T3ssel8r - The Mathematics of Simulating Animation Movements
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/KPoeNZZ6H4s/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/BFld4EBO2RE" style="text-decoration: none">
+          <h4 style="color: black">
+            Inigo Quilez - Painting a Landscape with Maths
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/BFld4EBO2RE/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/UXD97l7ZT0w" style="text-decoration: none">
+          <h4 style="color: black">
+            Sebastian Lague - Using real world data to simulate the whole world
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/UXD97l7ZT0w/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+    </details>
+    <details>
+      <summary>
+        <h3>Computing Hardware</h3>
+      </summary>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/RSPPTaAT2Xg" style="text-decoration: none">
+          <h4 style="color: black">Samsung - Programmable Photonics</h4>
+          <img
+            src="https://img.youtube.com/vi/RSPPTaAT2Xg/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/_hrvR_iTz_I" style="text-decoration: none">
+          <h4 style="color: black">
+            Asianometry - EUV's Most Difficult Challenge: Zero defects
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/_hrvR_iTz_I/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/8bw80LiCl7g" style="text-decoration: none">
+          <h4 style="color: black">
+            Phil's lab - How to design a M.2 Accelerator
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/8bw80LiCl7g/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/6wBrOV2FJM8" style="text-decoration: none">
+          <h4 style="color: black">
+            Ancient - Fitting a raspberry pi into a lego brick
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/6wBrOV2FJM8/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/pfjYecJHMRU" style="text-decoration: none">
+          <h4 style="color: black">Lytro - 40k Resolution Camera</h4>
+          <img
+            src="https://img.youtube.com/vi/pfjYecJHMRU/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/oHahy_NtMDI" style="text-decoration: none">
+          <h4 style="color: black">
+            Just Have a Think - Offloading network communication to dedicated
+            chips
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/oHahy_NtMDI/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a
+          href="https://youtu.be/-y3RGeaxksY?t=294"
+          style="text-decoration: none"
+        >
+          <h4 style="color: black">
+            Adam Neely - Resonant Frequencies Can Break Harddrives
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/-y3RGeaxksY/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/Gej9UZZAnQ4" style="text-decoration: none">
+          <h4 style="color: black">Asianometry - Solar-Grade Silicon></h4>
+          <img
+            src="https://img.youtube.com/vi/Gej9UZZAnQ4/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/TvEk6QsNuRA" style="text-decoration: none">
+          <h4 style="color: black">
+            Asianometry - The economics of TSMC's Gigafabs
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/TvEk6QsNuRA/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/Xo7V4PPHijs" style="text-decoration: none">
+          <h4 style="color: black">
+            The Hated One - Datacentres are running out of water for cooling
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/Xo7V4PPHijs/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a
+          href="https://youtu.be/Wz_xJPN7lAY?t=700"
+          style="text-decoration: none"
+        >
+          <h4 style="color: black">Creel - Top 10 Craziest x86 Instructions</h4>
+          <img
+            src="https://img.youtube.com/vi/Wz_xJPN7lAY/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/FNd94_XaVlY" style="text-decoration: none">
+          <h4 style="color: black">
+            TechTechPotato - Cerebras Waferscale Engine
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/FNd94_XaVlY/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/tvVobTtgss0" style="text-decoration: none">
+          <h4 style="color: black">TechTechPotato - The cost of TSMC 7nm</h4>
+          <img
+            src="https://img.youtube.com/vi/tvVobTtgss0/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/w3xNLj6nRgs" style="text-decoration: none">
+          <h4 style="color: black">
+            TechTechPotato - The new Era of High Performance Compute
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/w3xNLj6nRgs/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+    </details>
+    <details>
+      <summary>
+        <h3>Corporate Secrets</h3>
+      </summary>
+      >
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/-wMU8vmfaYo" style="text-decoration: none">
+          <h4 style="color: black">
+            Facebook - Down for 5 hours because of a misconfigured DNS
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/-wMU8vmfaYo/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/DDe-S3uef2w" style="text-decoration: none">
+          <h4 style="color: black">
+            Cloudflare - How an unoptimized regex crashed the internet
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/DDe-S3uef2w/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/lJYufx0bfpw" style="text-decoration: none">
+          <h4 style="color: black">Google - Probabilistic counting</h4>
+          <img
+            src="https://img.youtube.com/vi/lJYufx0bfpw/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/dsHyUgGMht0" style="text-decoration: none">
+          <h4 style="color: black">Github - Cross Datacentre failure</h4>
+          <img
+            src="https://img.youtube.com/vi/dsHyUgGMht0/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/mL4t2Jf8DUk" style="text-decoration: none">
+          <h4 style="color: black">Reddit - Worst outage ever</h4>
+          <img
+            src="https://img.youtube.com/vi/mL4t2Jf8DUk/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/xynXjChKkJc" style="text-decoration: none">
+          <h4 style="color: black">
+            Discord - Migrating from Cassandra to Scylla
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/xynXjChKkJc/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/yJOrMDMqeoI" style="text-decoration: none">
+          <h4 style="color: black">
+            Goto - Migrations, the hardest problem in computer science
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/yJOrMDMqeoI/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/KJ_otmElnbM" style="text-decoration: none">
+          <h4 style="color: black">Tesla - Stated expansion plans 2023</h4>
+          <img
+            src="https://img.youtube.com/vi/KJ_otmElnbM/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/z7vhMcKvHo8" style="text-decoration: none">
+          <h4 style="color: black">Tony Seba - The great transformation 1</h4>
+          <img
+            src="https://img.youtube.com/vi/z7vhMcKvHo8/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/Vqs0_3M-18c" style="text-decoration: none">
+          <h4 style="color: black">Tony Seba - The great transformation 2</h4>
+          <img
+            src="https://img.youtube.com/vi/Vqs0_3M-18c/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/fsnkPLkf1ao" style="text-decoration: none">
+          <h4 style="color: black">Tony Seba - The great transformation 2</h4>
+          <img
+            src="https://img.youtube.com/vi/fsnkPLkf1ao/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/g6gZHbfK8Vo" style="text-decoration: none">
+          <h4 style="color: black">Tony Seba - The great transformation 4</h4>
+          <img
+            src="https://img.youtube.com/vi/g6gZHbfK8Vo/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+    </details>
+    <details>
+      <summary>
+        <h3>Cybersecurity</h3>
+      </summary>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/R7EEoWg6Ekk" style="text-decoration: none">
+          <h4 style="color: black">Chris Domas - Turing complete x86 MOV</h4>
+          <img
+            src="https://img.youtube.com/vi/R7EEoWg6Ekk/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/HlUe0TUHOIc" style="text-decoration: none">
+          <h4 style="color: black">
+            Chris Domas - Psychological Warfare in Decompilation
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/HlUe0TUHOIc/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/lR0nh-TdpVg" style="text-decoration: none">
+          <h4 style="color: black">
+            Chris Domas - Finding backdoors in hardware instruction sets
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/lR0nh-TdpVg/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/4bM3Gut1hIk" style="text-decoration: none">
+          <h4 style="color: black">
+            Chris Domas - Instruction Set Agnostic Program Analysis Tool
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/4bM3Gut1hIk/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/uOvizKc1WZY" style="text-decoration: none">
+          <h4 style="color: black">
+            Liveoverflow - Google Cloud Platform 2022 Bugbounty Winners Review
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/uOvizKc1WZY/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/lG-ZqO734tM" style="text-decoration: none">
+          <h4 style="color: black">
+            Not What You Think - Using bees to smell bombs
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/lG-ZqO734tM/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/WRNZhP4CVgE" style="text-decoration: none">
+          <h4 style="color: black">
+            Joseph Ravichandran - Exploiting branch prediction to bypass Apple
+            M1 signed function pointers
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/WRNZhP4CVgE/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/GlQr4wifQuE" style="text-decoration: none">
+          <h4 style="color: black">
+            Seytonic - Exploiting github to mine crypto
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/GlQr4wifQuE/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/yrCXamnX9No" style="text-decoration: none">
+          <h4 style="color: black">LiveOverflow - Finding a 0day in Apache</h4>
+          <img
+            src="https://img.youtube.com/vi/yrCXamnX9No/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/qA8KB6KndrE" style="text-decoration: none">
+          <h4 style="color: black">
+            LiveOverflow - Exploiting Java Tomcat with JSP Web Shell
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/qA8KB6KndrE/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/fj-VlvoB8tw" style="text-decoration: none">
+          <h4 style="color: black">
+            Deviant Ollam - Elevator Penetration Testing
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/fj-VlvoB8tw/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+    </details>
+    <details>
+      <summary>
+        <h3>Fun computing Projects</h3>
+      </summary>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/zXPiqk0-zDY" style="text-decoration: none">
+          <h4 style="color: black">
+            From Scratch - Simulating RISCV in Terraria
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/zXPiqk0-zDY/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/Bj9CiMO66xk" style="text-decoration: none">
+          <h4 style="color: black">
+            The Science Elf - Running isometric minecraft on a calculator
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/Bj9CiMO66xk/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/E4ydGuxSIF8" style="text-decoration: none">
+          <h4 style="color: black">Inkbox - Running minecraft on the 6502</h4>
+          <img
+            src="https://img.youtube.com/vi/E4ydGuxSIF8/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/m28jJ7CMp8A" style="text-decoration: none">
+          <h4 style="color: black">S0lly - Raytracing in excel</h4>
+          <img
+            src="https://img.youtube.com/vi/m28jJ7CMp8A/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/FPmQ0rnJjNc" style="text-decoration: none">
+          <h4 style="color: black">
+            Earthcomputer - Using minecraft to compute the result of the next
+            call to java math.rng
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/FPmQ0rnJjNc/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/Ae9EKCyI1xU" style="text-decoration: none">
+          <h4 style="color: black">
+            Suckerpinch - Using floating point imprecision to make something
+            useful
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/Ae9EKCyI1xU/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/JcJSW7Rprio" style="text-decoration: none">
+          <h4 style="color: black">
+            Suckerpinch - Harder Drive, Storing Data in Dumb Ways
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/JcJSW7Rprio/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/09LlZhlcJTU" style="text-decoration: none">
+          <h4 style="color: black">
+            Nerdtronic - Coding a very precise pen bot
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/09LlZhlcJTU/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/WTUafAwrunE" style="text-decoration: none">
+          <h4 style="color: black">
+            aarthificial - Animation software for videos
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/WTUafAwrunE/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/nrsDklFXrpc" style="text-decoration: none">
+          <h4 style="color: black">
+            shounic - TF2 Huntsman bug counts any hit as headshot
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/nrsDklFXrpc/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/hFRlnNci3Rs" style="text-decoration: none">
+          <h4 style="color: black">
+            mattbatwings - Creating a 3d line renderer in minecraft
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/hFRlnNci3Rs/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/bD1wWY1YD-M" style="text-decoration: none">
+          <h4 style="color: black">
+            Nostalgia Nerd - How to write an fps in 96kb
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/bD1wWY1YD-M/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/lJVGd7cBGuQ" style="text-decoration: none">
+          <h4 style="color: black">MattKC - Decompiling a Sonic Game</h4>
+          <img
+            src="https://img.youtube.com/vi/lJVGd7cBGuQ/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/Oq_6S-X6A-I" style="text-decoration: none">
+          <h4 style="color: black">
+            Some Kitten - Using Moire Patterns to make GIFS in Minecraft
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/Oq_6S-X6A-I/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/sRWE5tnaxlI" style="text-decoration: none">
+          <h4 style="color: black">
+            Low Level Javascript - Obfuscating JavaScript to 8 characters
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/sRWE5tnaxlI/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/bIj3xBmALxE" style="text-decoration: none">
+          <h4 style="color: black">
+            James Sharman - High perforamnce 8 bit system
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/bIj3xBmALxE/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/t_rzYnXEQlE" style="text-decoration: none">
+          <h4 style="color: black">Kaze Emanuar - Optimizing Mario 64</h4>
+          <img
+            src="https://img.youtube.com/vi/t_rzYnXEQlE/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/tocXaInkarE" style="text-decoration: none">
+          <h4 style="color: black">Doctor Volt - Z80 Computer from scratch</h4>
+          <img
+            src="https://img.youtube.com/vi/tocXaInkarE/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/uQzk2BQxH_U" style="text-decoration: none">
+          <h4 style="color: black">
+            Junferno - Using Fourier to become a Vocaloid
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/uQzk2BQxH_U/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/Pt7z51TpctE" style="text-decoration: none">
+          <h4 style="color: black">
+            JohnDoesStuff - Neural Networks in Desmos
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/Pt7z51TpctE/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+    </details>
+    <details>
+      <summary>
+        <h3>Space</h3>
+      </summary>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/VA_8HPsua0c" style="text-decoration: none">
+          <h4 style="color: black">RocketLab - Lift Off!</h4>
+          <img
+            src="https://img.youtube.com/vi/VA_8HPsua0c/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/-1wcilQ58hI" style="text-decoration: none">
+          <h4 style="color: black">SpaceX - Starship Flight Test</h4>
+          <img
+            src="https://img.youtube.com/vi/-1wcilQ58hI/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/8tRZY98EGYk" style="text-decoration: none">
+          <h4 style="color: black">
+            Entropian - Realistic interstellar journery
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/8tRZY98EGYk/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+      <div style="display: inline-block; width: 300px">
+        <a href="https://youtu.be/uZN5xjoS6TU" style="text-decoration: none">
+          <h4 style="color: black">
+            David Kipping - Alien Civilisations and Habitable Worlds
+          </h4>
+          <img
+            src="https://img.youtube.com/vi/uZN5xjoS6TU/0.jpg"
+            style="width: 100%"
+          />
+        </a>
+      </div>
+    </details>
 </details>
 
 <details>
