@@ -10,7 +10,6 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
     <details>
         <summary><h3>High Performance Computing</h3></summary>
         <h4><a href="https://youtu.be/0_Byw9UMn9g">Unity - Data Oriented Design for Maximum Performance</a></h4>
-        <h4><a href="https://youtu.be/w3xNLj6nRgs">TechTechPotato - The new Era of High Performance Compute</a></h4>
         <h4><a href="https://youtu.be/t1R7ElXEyag">Lightmatter - Photonic Computing</a></h4>
         <h4><a href="https://youtu.be/AQERQd4RreA">Lingon Studios - Assembly vs C++ vs C# Unity Particle Sim</a></h4>
         <h4><a href="https://youtu.be/4KtotxNAwME">Greg Johnston - Performance differences between web frameworks</a></h4>
@@ -27,7 +26,17 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
         <h4><a href="https://youtu.be/r-TLSBdHe1A">Emery Berger - How to evaluate performance across microarchitectures</a></h4>
         <h4><a href="https://youtu.be/FqR5vESuKe0">ByteByteGo - Hardware Latency Numbers Programmers should know</a></h4>
         <h4><a href="https://youtu.be/Y37WiO55bxs">Matt Parker - Turning a computational problem from 30 days to under 100ms</a></h4>
+        <h4><a href="https://youtu.be/pQPqhZRUz3U">SimonDev - Optimizing javascript to be 8x faster</a></h4>
+        <h4><a href="https://www.youtube.com/watch?v=p9nH2vZ2mNo">CPPCon - Thin Link Time Optimization</a></h4>
+        <h4><a href="https://youtu.be/NH1Tta7purM">CPPCon - High performance trading systems in C++</a></h4>
+        <h4><a href="https://www.hpcwire.com/2021/12/27/lessons-from-llvm-an-sc21-fireside-chat-with-chris-lattner/">HPCwire - Lessons from LLVM with CHris Lattner</a></h4>
         <h4><a href="https://www.tomshardware.com/news/tsmcs-morris-chang-dollar50-billion-us-chip-investment-is-just-a-good-start">TSMC - $50 Billion investment in US silicon is a good start but nowhere near whats needed to become independent from Taiwan</a></h4>
+        <h4><a href="https://www.youtube.com/watch?v=mOSirVeP5lo">The Cherno - Optimizing a C++ Game Engine with NVIDIA pipelines</a></h4>
+        <h4><a href="https://youtu.be/eviSykqSUUw">Unity - A Deep Dive into Nanite Virtualized Geometry</a></h4>
+        <h4><a href="https://youtu.be/P8ltWIqDPzo">Lars Bak & Kasper Lund - How to be a better programmer and how JavaScript V8 is Fast</a></h4>
+        <h4><a href="https://jnmaloney.github.io/WebGui/imgui.html">JNMaloney - Imgui in the Web</a></h4>
+        <h4><a href="https://www.youtube.com/watch?v=hxM8QmyZXtg">MollyRocket - How fast should an unoptimized terminal run?</a></h4>
+        <h4><a href="https://baptiste-wicht.com/posts/2017/09/cpp11-performance-tip-when-to-use-std-pow.html">The performance of C++ std:pow</a></h4>
   </details>
   <details>
     <summary><h3>Artifical Intelligence</h3></summary>
@@ -66,6 +75,8 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
     <h4><a href="https://youtu.be/CFRhGnuXG-4">Code Aesthetic - Why you shouldn't nest your code</a></h4>
     <h4><a href="https://youtu.be/aJt2POa9oCM">JDH - The usefulness of C++ compile time reflection</a></h4>
     <h4><a href="https://youtu.be/GiDsjIBOVoA">Reduciple - Christofides Travelling Salesman Solution</a></h4>
+    <h4><a href="https://youtu.be/jLqTXkFtEH0">Google Chrome Developers - Which key was  pressed?</a></h4>
+    <h4><a href="https://youtu.be/EFUYNoFRHQI">Reducible - How PNG Works: Compromising Speed for Quality</a></h4>
   </details>
   <details>
     <summary><h3>Simulation Science</h3></summary>
@@ -84,16 +95,26 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
     <h4><a href="https://youtu.be/bcdUJXKZims">Game Engine Series - Mathematics of View and Projection Matrices</a></h4>
     <h4><a href="https://youtu.be/KPoeNZZ6H4s">T3ssel8r - The Mathematics of Simulating Animation Movements</a></h4>
     <h4><a href="https://youtu.be/BFld4EBO2RE">Inigo Quilez - Painting a Landscape with Maths</a></h4>
+    <h4><a href="https://www.youtube.com/watch?v=UXD97l7ZT0w">Sebastian Lague - Using real world data to simulate the whole world</a></h4>
   </details>
   <details>
     <summary><h3>Computing Hardware</h3></summary>
+    <h4><a href="https://www.youtube.com/watch?v=RSPPTaAT2Xg">Samsung - Programmable Photonics</a></h4>
     <h4><a href="https://youtu.be/_hrvR_iTz_I">Asianometry - EUV's Most Difficult Challenge: Zero defects</a></h4>
     <h4><a href="https://youtu.be/8bw80LiCl7g">Phil's lab - How to design a M.2 Accelerator</a></h4>
     <h4><a href="https://youtu.be/6wBrOV2FJM8">Ancient - Fitting a raspberry pi into a lego brick</a></h4>
     <h4><a href="https://youtu.be/pfjYecJHMRU">Lytro - 40k Resolution Camera</a></h4>
     <h4><a href="https://youtu.be/oHahy_NtMDI">Just Have a Think - Offloading network communication to dedicated chips</a></h4>
-    <h4><a href="https://youtu.be/Gej9UZZAnQ4">Asianometry - Solar-Grade Silicon></a></h4>
     <h4><a href="https://youtu.be/-y3RGeaxksY?t=294">Adam Neely - Resonant Frequencies Can Break Harddrives</a></h4>
+    <h4><a href="https://youtu.be/Gej9UZZAnQ4">Asianometry - Solar-Grade Silicon></a></h4>
+    <h4><a href="https://www.youtube.com/watch?v=TvEk6QsNuRA">Asianometry - The economics of TSMC's Gigafabs</a></h4>
+    <h4><a href="https://www.youtube.com/watch?v=Xo7V4PPHijs">The Hated One - Datacentres are running out of water for cooling</a></h4>
+    <h4><a href="https://www.igorslab.de/en/intel-deactivated-avx-512-on-alder-lake-but-fully-questionable-interpretation-of-efficiency-news-editorial/">Igor'sLab - Intel disables AVX-512 Instructions on Alder Lake Architecture</a></h4>
+    <h4><a href="https://www.cnx-software.com/2021/12/30/sipeed-lichee-rv-risc-v-module-gets-5-carrier-board-with-hdmi-and-usb-ports-optional-wifi/">CNX Software - Sipeed Lichee Release RISC-V computer</a></h4>
+    <h4><a href="https://youtu.be/Wz_xJPN7lAY?t=700">Creel - Top 10 Craziest x86 Instructions</a></h4>
+    <h4><a href="https://youtu.be/FNd94_XaVlY">TechTechPotato - Cerebras Waferscale Engine</a></h4>
+    <h4><a href="https://youtu.be/tvVobTtgss0">TechTechPotato - The cost of TSMC 7nm</a></h4>
+    <h4><a href="https://youtu.be/w3xNLj6nRgs">TechTechPotato - The new Era of High Performance Compute</a></h4>
   </details>
   <details>
     <summary><h3>Corporate Secrets</h3></summary>
@@ -120,6 +141,9 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
     <h4><a href="https://youtu.be/lG-ZqO734tM">Not What You Think - Using bees to smell bombs</a></h4>
     <h4><a href="https://youtu.be/WRNZhP4CVgE">Joseph Ravichandran - Exploiting branch prediction to bypass Apple M1 signed function pointers</a></h4>
     <h4><a href="https://youtu.be/GlQr4wifQuE">Seytonic - Exploiting github to mine crypto</a></h4>
+    <h4><a href="https://youtu.be/yrCXamnX9No">LiveOverflow - Finding a 0day in Apache</a></h4>
+    <h4><a href="https://youtu.be/qA8KB6KndrE">LiveOverflow - Exploiting Java Tomcat with JSP Web Shell</a></h4>
+    <h4><a href="https://youtu.be/fj-VlvoB8tw">Deviant Ollam - Elevator Penetration Testing</a></h4>
   </details>
   <details>
     <summary><h3>Fun computing Projects</h3></summary>
@@ -129,6 +153,7 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
     <h4><a href="https://youtu.be/m28jJ7CMp8A">S0lly - Raytracing in excel</a></h4>
     <h4><a href="https://youtu.be/FPmQ0rnJjNc">Earthcomputer - Using minecraft to compute the result of the next call to java math.rng</a></h4>
     <h4><a href="https://youtu.be/Ae9EKCyI1xU">Suckerpinch - Using floating point imprecision to make something useful</a></h4>
+    <h4><a href="https://youtu.be/JcJSW7Rprio">Suckerpinch - Harder Drive, Storing Data in Dumb Ways</a></h4>
     <h4><a href="https://youtu.be/09LlZhlcJTU">Nerdtronic - Coding a very precise pen bot</a></h4>
     <h4><a href="https://youtu.be/WTUafAwrunE">aarthificial - Animation software for videos</a></h4>
     <h4><a href="https://youtu.be/nrsDklFXrpc">shounic - TF2 Huntsman bug counts any hit as headshot</a></h4>
@@ -138,9 +163,15 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
     <h4><a href="https://youtu.be/Oq_6S-X6A-I">Some Kitten - Using Moire Patterns to make GIFS in Minecraft</a></h4>
     <h4><a href="https://youtu.be/sRWE5tnaxlI">Low Level Javascript - Obfuscating JavaScript to 8 characters</a></h4>
     <h4><a href="https://youtu.be/bIj3xBmALxE">James Sharman - High perforamnce 8 bit system</a></h4>
+    <h4><a href="https://youtu.be/t_rzYnXEQlE">Kaze Emanuar - Optimizing Mario 64</a></h4>
+    <h4><a href="https://youtu.be/tocXaInkarE">Doctor Volt - Z80 Computer from scratch</a></h4>
+    <h4><a href="https://www.youtube.com/watch?v=uQzk2BQxH_U">Junferno - Using Fourier to become a Vocaloid</a></h4>
+    <h4><a href="https://youtu.be/Pt7z51TpctE">JohnDoesStuff - Neural Networks in Desmos</a></h4>
   </details>
   <details>
     <summary><h3>Space</h3></summary>
+    <h4><a href="https://youtu.be/VA_8HPsua0c?si=eX6QiyT2ND1MPCzh">RocketLab - Lift Off!</a></h4>
+    <h4><a href="https://www.youtube.com/live/-1wcilQ58hI?si=fz3uN3hwkPrCejUT">SpaceX - Starship Flight Test</a></h4>
     <h4><a href="https://youtu.be/8tRZY98EGYk">Entropian - Realistic interstellar journery</a></h4>
     <h4><a href="https://youtu.be/uZN5xjoS6TU">David Kipping - Alien Civilisations and Habitable Worlds</a></h4>
   </details>
