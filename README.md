@@ -9,10 +9,10 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
     <summary><h2>Amazing Lectures about Technology</h2></summary>
     <details>
         <summary><h3>High Performance Computing</h3></summary>
+        <h4><a href="https://youtu.be/0_Byw9UMn9g">Unity - Data Oriented Design for Maximum Performance</a></h4>
         <h4><a href="https://youtu.be/w3xNLj6nRgs">TechTechPotato - The new Era of High Performance Compute</a></h4>
         <h4><a href="https://youtu.be/t1R7ElXEyag">Lightmatter - Photonic Computing</a></h4>
         <h4><a href="https://youtu.be/AQERQd4RreA">Lingon Studios - Assembly vs C++ vs C# Unity Particle Sim</a></h4>
-        <h4><a href="https://youtu.be/CbQVR4v5PZw">Primeagen - Zig versus Rust</a></h4>
         <h4><a href="https://youtu.be/4KtotxNAwME">Greg Johnston - Performance differences between web frameworks</a></h4>
         <h4><a href="https://youtu.be/gzgyksS5pX8">Jim Keller - Making computers faster by 1,000-10,000x</a></h4>
         <h4><a href="https://youtu.be/7VHG6Y2QmtM?t=770">Strager - Big O lies about performance for small n</a></h4>
@@ -22,10 +22,16 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
         <h4><a href="https://youtu.be/sZxjuT1kUd0">Dr Trefor Bazett - Fastest matrix multiply</a></h4>
         <h4><a href="https://youtu.be/ssDBqQ5f5_0">Low Level Learning - The performance of division</a></h4>
         <h4><a href="https://youtu.be/i2gWDOgg50k">UnitOfTime - Golang vs Rust physics sim performance</a></h4>
+        <h4><a href="https://youtu.be/CbQVR4v5PZw">Primeagen - Zig versus Rust</a></h4>
+        <h4><a href="https://youtu.be/ip51Y5v3WLk">ThePrimeagen - How to write optimized javascript</a></h4>
+        <h4><a href="https://youtu.be/r-TLSBdHe1A">Emery Berger - How to evaluate performance across microarchitectures</a></h4>
+        <h4><a href="https://youtu.be/FqR5vESuKe0">ByteByteGo - Hardware Latency Numbers Programmers should know</a></h4>
+        <h4><a href="https://youtu.be/Y37WiO55bxs">Matt Parker - Turning a computational problem from 30 days to under 100ms</a></h4>
         <h4><a href="https://www.tomshardware.com/news/tsmcs-morris-chang-dollar50-billion-us-chip-investment-is-just-a-good-start">TSMC - $50 Billion investment in US silicon is a good start but nowhere near whats needed to become independent from Taiwan</a></h4>
   </details>
   <details>
     <summary><h3>Artifical Intelligence</h3></summary>
+    <h4><a href="https://youtu.be/w8yWXqWQYmU">Samson Zhang - Neural Network Fundamentals</a></h4>
     <h4><a href="https://youtu.be/fCLI6kxFFTE">Lex Fridman - Playing guitar in a self driving car</a></h4>
     <h4><a href="https://youtu.be/u16msbVHNWk">George Hotz - The past, future and present</a></h4>
     <h4><a href="https://youtu.be/dNrTrx42DGQ">George Hotz - Lex Fridman</a></h4>
@@ -58,19 +64,26 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
     <h4><a href="https://youtu.be/Ov0EetgMws4">Physics for the birds - James Webb Space Telescope Travelling salesman problem</a></h4>
     <h4><a href="https://youtu.be/NEkegQanD2I">Kathy Loves Physics and History - Who invented 3 phase electricity</a></h4>
     <h4><a href="https://youtu.be/CFRhGnuXG-4">Code Aesthetic - Why you shouldn't nest your code</a></h4>
+    <h4><a href="https://youtu.be/aJt2POa9oCM">JDH - The usefulness of C++ compile time reflection</a></h4>
+    <h4><a href="https://youtu.be/GiDsjIBOVoA">Reduciple - Christofides Travelling Salesman Solution</a></h4>
   </details>
   <details>
     <summary><h3>Simulation Science</h3></summary>
     <h4><a href="https://youtu.be/yGhfUcPjXuE">Jonas Tyroller - DeltaTime for dummies</a></h4>
-    <h4><a href="https://youtu.be/rGNUHigqUBM">AngeTheGreat - Simulating fluid oscillators at up to 44khz</a></h4>
+    <h4><a href="https://youtu.be/WPCMNnM6D0k">AngeTheGreat - Engine Simulator Rotary Engine</a></h4>
     <h4><a href="https://youtu.be/4U41OxHiqI8">AngeTheGreat - Simulating a two stroke bike</a></h4>
-    <h4><a href="https://youtu.be/oulfRfqTxJA">AngeTheGreat - Simulating trusses, masses and springs</a></h4>
     <h4><a href="https://youtu.be/dzfjwXtATJA">AngeTheGreat - Simulating a steam engine</a></h4>
+    <h4><a href="https://youtu.be/rGNUHigqUBM">AngeTheGreat - Simulating fluid oscillators at up to 44khz</a></h4>
+    <h4><a href="https://youtu.be/oulfRfqTxJA">AngeTheGreat - Simulating trusses, masses and springs</a></h4>
     <h4><a href="https://youtu.be/T75SucBcfMo">blackedout - Simulating a softbody tire</a></h4>
     <h4><a href="https://youtu.be/ge_j31Yx_yk">Worlds in Motion - Simulating different speeds of light</a></h4>
     <h4><a href="https://youtu.be/ob3VwY4JyzE">Minecraft - Generating terrain</a></h4>
     <h4><a href="https://youtu.be/9IULfQH7E90">Pezzza's Work - Many particle system</a></h4>
     <h4><a href="https://youtu.be/Ffka-hPzug0">monster860 - Non-square square waves</a></h4>
+    <h4><a href="https://youtu.be/BNZtUB7yhX4">SimonDev - Raymarching</a></h4>
+    <h4><a href="https://youtu.be/bcdUJXKZims">Game Engine Series - Mathematics of View and Projection Matrices</a></h4>
+    <h4><a href="https://youtu.be/KPoeNZZ6H4s">T3ssel8r - The Mathematics of Simulating Animation Movements</a></h4>
+    <h4><a href="https://youtu.be/BFld4EBO2RE">Inigo Quilez - Painting a Landscape with Maths</a></h4>
   </details>
   <details>
     <summary><h3>Computing Hardware</h3></summary>
@@ -79,6 +92,8 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
     <h4><a href="https://youtu.be/6wBrOV2FJM8">Ancient - Fitting a raspberry pi into a lego brick</a></h4>
     <h4><a href="https://youtu.be/pfjYecJHMRU">Lytro - 40k Resolution Camera</a></h4>
     <h4><a href="https://youtu.be/oHahy_NtMDI">Just Have a Think - Offloading network communication to dedicated chips</a></h4>
+    <h4><a href="https://youtu.be/Gej9UZZAnQ4">Asianometry - Solar-Grade Silicon></a></h4>
+    <h4><a href="https://youtu.be/-y3RGeaxksY?t=294">Adam Neely - Resonant Frequencies Can Break Harddrives</a></h4>
   </details>
   <details>
     <summary><h3>Corporate Secrets</h3></summary>
@@ -97,7 +112,8 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
   </details>
   <details>
     <summary><h3>Cybersecurity</h3></summary>
-    <h4><a href="https://youtu.be/HlUe0TUHOIc">Chris Domas - Turing complete mov</a></h4>
+    <h4><a href="https://youtu.be/R7EEoWg6Ekk">Chris Domas - Turing complete x86 MOV</a></h4>
+    <h4><a href="https://youtu.be/HlUe0TUHOIc">Chris Domas - Psychological Warfare in Decompilation</a></h4>
     <h4><a href="https://youtu.be/lR0nh-TdpVg">Chris Domas - Finding backdoors in hardware instruction sets</a></h4>
     <h4><a href="https://youtu.be/4bM3Gut1hIk">Chris Domas - Instruction Set Agnostic Program Analysis Tool</a></h4>
     <h4><a href="https://youtu.be/uOvizKc1WZY">Liveoverflow - Google Cloud Platform 2022 Bugbounty Winners Review</a></h4>
@@ -116,6 +132,12 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
     <h4><a href="https://youtu.be/09LlZhlcJTU">Nerdtronic - Coding a very precise pen bot</a></h4>
     <h4><a href="https://youtu.be/WTUafAwrunE">aarthificial - Animation software for videos</a></h4>
     <h4><a href="https://youtu.be/nrsDklFXrpc">shounic - TF2 Huntsman bug counts any hit as headshot</a></h4>
+    <h4><a href="https://youtu.be/hFRlnNci3Rs">mattbatwings - Creating a 3d line renderer in minecraft</a></h4>
+    <h4><a href="https://youtu.be/bD1wWY1YD-M">Nostalgia Nerd - How to write an fps in 96kb</a></h4>
+    <h4><a href="https://youtu.be/lJVGd7cBGuQ">MattKC - Decompiling a Sonic Game</a></h4>
+    <h4><a href="https://youtu.be/Oq_6S-X6A-I">Some Kitten - Using Moire Patterns to make GIFS in Minecraft</a></h4>
+    <h4><a href="https://youtu.be/sRWE5tnaxlI">Low Level Javascript - Obfuscating JavaScript to 8 characters</a></h4>
+    <h4><a href="https://youtu.be/bIj3xBmALxE">James Sharman - High perforamnce 8 bit system</a></h4>
   </details>
   <details>
     <summary><h3>Space</h3></summary>
