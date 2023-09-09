@@ -6,131 +6,131 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
 
 ### "Want fast C++? Know your hardware!" - Timur Doumler cppcon 2016  
 <details>
-  <summary><h2>Amazing Lectures about Technology </h2></summary>
+  <summary><h2>Amazing Lectures about Technology</h2></summary>
   
   <details>
     <summary>High Performance Computing</summary>
-  
-    [TechTechPotato - The new Era of High Performance Compute](https://youtu.be/w3xNLj6nRgs)  
-    [Lightmatter - Photonic Computing](https://youtu.be/t1R7ElXEyag)  
-    [Lingon Studios - Assembly vs C++ vs C# Unity Particle Sim](https://youtu.be/AQERQd4RreA)  
-    [Primeagen - Zig versus Rust](https://youtu.be/CbQVR4v5PZw)  
-    [Greg Johnston - Performance differences between web frameworks](https://youtu.be/4KtotxNAwME)  
-    [Jim Keller - Making computers faster by 1,000-10,000x](https://youtu.be/gzgyksS5pX8)  
-    [Strager - Big O lies about performance for small n](https://youtu.be/7VHG6Y2QmtM?t=770)  
-    [Strager - All possible optimization options](https://youtu.be/DMQ_HcNSOAI)  
-    [Mollyrocket - Clean code horrible performance](https://youtu.be/tD5NrevFtbU)  
-    [David Gross - Trading at light speed](https://youtu.be/8uAW5FQtcvE)  
-    [Dr Trefor Bazett - Fastest matrix multiply](https://youtu.be/sZxjuT1kUd0)  
-    [Low Level Learning - The performance of division](https://youtu.be/ssDBqQ5f5_0)  
-    [UnitOfTime - Golang vs Rust physics sim performance](https://youtu.be/i2gWDOgg50k)  
-    [TSMC - $50 Billion investment in US silicon is a good start but nowhere near whats needed to become independent from Taiwan](https://www.tomshardware.com/news/tsmcs-morris-chang-dollar50-billion-us-chip-investment-is-just-a-good-start)  
+
+    <a href="https://youtu.be/w3xNLj6nRgs"><h4>TechTechPotato - The new Era of High Performance Compute</h4></a>  
+    <a href="https://youtu.be/t1R7ElXEyag"><h4>Lightmatter - Photonic Computing</h4></a>  
+    <a href="https://youtu.be/AQERQd4RreA"><h4>Lingon Studios - Assembly vs C++ vs C# Unity Particle Sim</h4></a>  
+    <a href="https://youtu.be/CbQVR4v5PZw"><h4>Primeagen - Zig versus Rust</h4></a>  
+    <a href="https://youtu.be/4KtotxNAwME"><h4>Greg Johnston - Performance differences between web frameworks</h4></a>  
+    <a href="https://youtu.be/gzgyksS5pX8"><h4>Jim Keller - Making computers faster by 1,000-10,000x</h4></a>  
+    <a href="https://youtu.be/7VHG6Y2QmtM?t=770"><h4>Strager - Big O lies about performance for small n</h4></a>  
+    <a href="https://youtu.be/DMQ_HcNSOAI"><h4>Strager - All possible optimization options</h4></a>  
+    <a href="https://youtu.be/tD5NrevFtbU"><h4>Mollyrocket - Clean code horrible performance</h4></a>  
+    <a href="https://youtu.be/8uAW5FQtcvE"><h4>David Gross - Trading at light speed</h4></a>  
+    <a href="https://youtu.be/sZxjuT1kUd0"><h4>Dr Trefor Bazett - Fastest matrix multiply</h4></a>  
+    <a href="https://youtu.be/ssDBqQ5f5_0"><h4>Low Level Learning - The performance of division</h4></a>  
+    <a href="https://youtu.be/i2gWDOgg50k"><h4>UnitOfTime - Golang vs Rust physics sim performance</h4></a>  
+    <a href="https://www.tomshardware.com/news/tsmcs-morris-chang-dollar50-billion-us-chip-investment-is-just-a-good-start"><h4>TSMC - $50 Billion investment in US silicon is a good start but nowhere near whats needed to become independent from Taiwan</h4></a>  
   </details>
   <details>
     <summary>Artifical Intelligence</summary>
   
-    [Lex Fridman - Playing guitar in a self driving car](https://youtu.be/fCLI6kxFFTE)  
-    [George Hotz - The past, future and present](https://www.youtube.com/watch?v=u16msbVHNWk)  
-    [George Hotz - Lex Fridman](https://youtu.be/dNrTrx42DGQ)  
-    [George Hotz - Tiny corp Petaflops to the People](https://youtu.be/K5iDUZPx60E)  
-    [2 Minute Papers - Nvidia raytacing improvements with AI](https://youtu.be/AjkiBRNVeV8)  
-    [Sebastian Bubeck - Sparks of AGI: early experiments with GPT-4](https://youtu.be/qbIk7-JPB2c)  
-    [Ai Explained - Using reflection to improve GPT-4 Results](https://youtu.be/5SgJKZLBrmg)  
-    [Ai Explained - Reading the Sparks of AGI paper](https://youtu.be/Mqg3aTGNxZ0)  
-    [Sam Altman - Lex Fridman the future of AI](https://youtu.be/L_Guz73e6fw)  
-    [Tesla - FSD v11](https://youtu.be/ZlApnysONmQ)  
-    [Tesla - Scaling compute for the next generation of AI](https://youtu.be/ol5hwjr48Q4)  
-    [Google - Visalising higher dimensional space](https://youtu.be/wvsE8jm1GzE)  
-    [Computerphile - How Stable Diffusion Works](https://youtu.be/1CIpzeNxIhU)  
-    [Robert Miles - Inner alignment](https://youtu.be/zkbPdEHEyEI)  
-    [Neuralink - Using Artificial intelligence to analyse biological intelligence](https://youtu.be/YreDYmXTYi4?t=2160)  
+    <a href="https://youtu.be/fCLI6kxFFTE"><h4>Lex Fridman - Playing guitar in a self driving car</h4></a>  
+    <a href="https://www.youtube.com/watch?v=u16msbVHNWk"><h4>George Hotz - The past, future and present</h4></a>  
+    <a href="https://youtu.be/dNrTrx42DGQ"><h4>George Hotz - Lex Fridman</h4></a>  
+    <a href="https://youtu.be/K5iDUZPx60E"><h4>George Hotz - Tiny corp Petaflops to the People</h4></a>  
+    <a href="https://youtu.be/AjkiBRNVeV8"><h4>2 Minute Papers - Nvidia raytacing improvements with AI</h4></a>  
+    <a href="https://youtu.be/qbIk7-JPB2c"><h4>Sebastian Bubeck - Sparks of AGI: early experiments with GPT-4</h4></a>  
+    <a href="https://youtu.be/5SgJKZLBrmg"><h4>Ai Explained - Using reflection to improve GPT-4 Results</h4></a>  
+    <a href="https://youtu.be/Mqg3aTGNxZ0"><h4>Ai Explained - Reading the Sparks of AGI paper</h4></a>  
+    <a href="https://youtu.be/L_Guz73e6fw"><h4>Sam Altman - Lex Fridman the future of AI</h4></a>  
+    <a href="https://youtu.be/ZlApnysONmQ"><h4>Tesla - FSD v11</h4></a>  
+    <a href="https://youtu.be/ol5hwjr48Q4"><h4>Tesla - Scaling compute for the next generation of AI</h4></a>  
+    <a href="https://youtu.be/wvsE8jm1GzE"><h4>Google - Visalising higher dimensional space</h4></a>  
+    <a href="https://youtu.be/1CIpzeNxIhU"><h4>Computerphile - How Stable Diffusion Works</h4></a>  
+    <a href="https://youtu.be/zkbPdEHEyEI"><h4>Robert Miles - Inner alignment</h4></a>  
+    <a href="https://youtu.be/YreDYmXTYi4?t=2160"><h4>Neuralink - Using Artificial intelligence to analyse biological intelligence</h4></a>  
   </details>
   <details>
     <summary>Computer Science</summary>
   
-    [Dan Abramov - Composability in software design](https://youtu.be/17KCHwOwgms)  
-    [Computerphile - Just In Time Compilation](https://www.youtube.com/watch?v=d7KHAVaX_Rs)  
-    [Mutual Information - The Boundary of Computability](https://www.youtube.com/watch?v=kmAc1nDizu0)  
-    [Leddoo - Why my scripting language is already faster than python](https://youtu.be/14CPI1qBd7o)  
-    [Leddoo - How Python Works](https://youtu.be/kESmRMDHZZk)  
-    [Leddoo - Are stack based vms really slower?](https://youtu.be/cMMAGIefZuM)  
-    [Evolution News - Using dna to store information](https://evolutionnews.org/2017/01/the_worlds_idea/)  
-    [Steve Mould - Playing tic tac toe against dna](https://youtu.be/GgPdRKqcRTE)  
-    [Breaking Taps - How Silicon Lithography is used to make accelerometers](https://youtu.be/9X4frIQo7x0)  
-    [Code to the moon - V programming language](https://youtu.be/jr1EBaLkjfc)  
-    [The Last Theory - The reducability of the world to computation](https://youtu.be/EIyjaCwbYXQ)  
-    [Physics for the birds - James Webb Space Telescope Travelling salesman problem](https://youtu.be/Ov0EetgMws4)  
-    [Kathy Loves Physics and History - Who invented 3 phase electricity](https://youtu.be/NEkegQanD2I)  
-    [Code Aesthetic - Why you shouldn't nest your code](https://youtu.be/CFRhGnuXG-4)  
+    <a href="https://youtu.be/17KCHwOwgms"><h4>Dan Abramov - Composability in software design</h4></a>  
+    <a href="https://www.youtube.com/watch?v=d7KHAVaX_Rs"><h4>Computerphile - Just In Time Compilation</h4></a>  
+    <a href="https://www.youtube.com/watch?v=kmAc1nDizu0"><h4>Mutual Information - The Boundary of Computability</h4></a>  
+    <a href="https://youtu.be/14CPI1qBd7o"><h4>Leddoo - Why my scripting language is already faster than python</h4></a>  
+    <a href="https://youtu.be/kESmRMDHZZk"><h4>Leddoo - How Python Works</h4></a>  
+    <a href="https://youtu.be/cMMAGIefZuM"><h4>Leddoo - Are stack based vms really slower?</h4></a>  
+    <a href="https://evolutionnews.org/2017/01/the_worlds_idea/"><h4>Evolution News - Using dna to store information</h4></a>  
+    <a href="https://youtu.be/GgPdRKqcRTE"><h4>Steve Mould - Playing tic tac toe against dna</h4></a>  
+    <a href="https://youtu.be/9X4frIQo7x0"><h4>Breaking Taps - How Silicon Lithography is used to make accelerometers</h4></a>  
+    <a href="https://youtu.be/jr1EBaLkjfc"><h4>Code to the moon - V programming language</h4></a>  
+    <a href="https://youtu.be/EIyjaCwbYXQ"><h4>The Last Theory - The reducability of the world to computation</h4></a>  
+    <a href="https://youtu.be/Ov0EetgMws4"><h4>Physics for the birds - James Webb Space Telescope Travelling salesman problem</h4></a>  
+    <a href="https://youtu.be/NEkegQanD2I"><h4>Kathy Loves Physics and History - Who invented 3 phase electricity</h4></a>  
+    <a href="https://youtu.be/CFRhGnuXG-4"><h4>Code Aesthetic - Why you shouldn't nest your code</h4></a>  
   </details>
   <details>
     <summary>Simulation Science</summary>
   
-    [Jonas Tyroller - DeltaTime for dummies](https://youtu.be/yGhfUcPjXuE)  
-    [AngeTheGreat - Simulating fluid oscillators at up to 44khz](https://youtu.be/rGNUHigqUBM)  
-    [AngeTheGreat - Simulating a two stroke bike](https://youtu.be/4U41OxHiqI8)  
-    [AngeTheGreat - Simulating trusses, masses and springs](https://youtu.be/oulfRfqTxJA)  
-    [AngeTheGreat - Simulating a steam engine](https://youtu.be/dzfjwXtATJA)  
-    [blackedout - Simulating a softbody tire](https://youtu.be/T75SucBcfMo)  
-    [Worlds in Motion - Simulating different speeds of light](https://youtu.be/ge_j31Yx_yk)  
-    [Minecraft - Generating terrain](https://youtu.be/ob3VwY4JyzE)  
-    [Pezzza's Work - Many particle system](https://youtu.be/9IULfQH7E90)  
-    [monster860 - Non-square square waves](https://youtu.be/Ffka-hPzug0)  
+    <a href="https://youtu.be/yGhfUcPjXuE"><h4>Jonas Tyroller - DeltaTime for dummies</h4></a>  
+    <a href="https://youtu.be/rGNUHigqUBM"><h4>AngeTheGreat - Simulating fluid oscillators at up to 44khz</h4></a>  
+    <a href="https://youtu.be/4U41OxHiqI8"><h4>AngeTheGreat - Simulating a two stroke bike</h4></a>  
+    <a href="https://youtu.be/oulfRfqTxJA"><h4>AngeTheGreat - Simulating trusses, masses and springs</h4></a>  
+    <a href="https://youtu.be/dzfjwXtATJA"><h4>AngeTheGreat - Simulating a steam engine</h4></a>  
+    <a href="https://youtu.be/T75SucBcfMo"><h4>blackedout - Simulating a softbody tire</h4></a>  
+    <a href="https://youtu.be/ge_j31Yx_yk"><h4>Worlds in Motion - Simulating different speeds of light</h4></a>  
+    <a href="https://youtu.be/ob3VwY4JyzE"><h4>Minecraft - Generating terrain</h4></a>  
+    <a href="https://youtu.be/9IULfQH7E90"><h4>Pezzza's Work - Many particle system</h4></a>  
+    <a href="https://youtu.be/Ffka-hPzug0"><h4>monster860 - Non-square square waves</h4></a>  
   </details>
   <details>
     <summary>Computing Hardware</summary>
   
-    [Asianometry - EUV's Most Difficult Challenge: Zero defects](https://youtu.be/_hrvR_iTz_I)  
-    [Phil's lab - How to design a M.2 Accelerator](https://youtu.be/8bw80LiCl7g)  
-    [Ancient - Fitting a raspberry pi into a lego brick](https://youtu.be/6wBrOV2FJM8)  
-    [Lytro - 40k Resolution Camera](https://youtu.be/pfjYecJHMRU)  
-    [Just Have a Think - Offloading network communication to dedicated chips](https://youtu.be/oHahy_NtMDI)  
+    <a href="https://youtu.be/_hrvR_iTz_I"><h4>Asianometry - EUV's Most Difficult Challenge: Zero defects</h4></a>  
+    <a href="https://youtu.be/8bw80LiCl7g"><h4>Phil's lab - How to design a M.2 Accelerator</h4></a>  
+    <a href="https://youtu.be/6wBrOV2FJM8"><h4>Ancient - Fitting a raspberry pi into a lego brick</h4></a>  
+    <a href="https://youtu.be/pfjYecJHMRU"><h4>Lytro - 40k Resolution Camera</h4></a>  
+    <a href="https://youtu.be/oHahy_NtMDI"><h4>Just Have a Think - Offloading network communication to dedicated chips</h4></a>  
   </details>
   <details>
     <summary>Corporate Secrets</summary>
   
-    [Facebook - Down for 5 hours because of a misconfigured DNS](https://youtu.be/-wMU8vmfaYo)  
-    [Cloudflare - How an unoptimized regex crashed the internet](https://youtu.be/DDe-S3uef2w)  
-    [Google - Probabilistic counting](https://youtu.be/lJYufx0bfpw)  
-    [Github - Cross Datacentre failure](https://youtu.be/dsHyUgGMht0)  
-    [Reddit - Worst outage ever](https://youtu.be/mL4t2Jf8DUk)  
-    [Discord - Migrating from Cassandra to Scylla](https://youtu.be/xynXjChKkJc)  
-    [Goto - Migrations, the hardest problem in computer science](https://youtu.be/yJOrMDMqeoI)  
-    [Tesla - Stated expansion plans 2023](https://youtu.be/KJ_otmElnbM)  
-    [Tony Seba - The great transformation 1](https://youtu.be/z7vhMcKvHo8)  
-    [Tony Seba - The great transformation 2](https://youtu.be/Vqs0_3M-18c)  
-    [Tony Seba - The great transformation 2](https://youtu.be/fsnkPLkf1ao)  
-    [Tony Seba - The great transformation 4](https://youtu.be/g6gZHbfK8Vo)  
+    <a href="https://youtu.be/-wMU8vmfaYo"><h4>Facebook - Down for 5 hours because of a misconfigured DNS</h4></a>  
+    <a href="https://youtu.be/DDe-S3uef2w"><h4>Cloudflare - How an unoptimized regex crashed the internet</h4></a>  
+    <a href="https://youtu.be/lJYufx0bfpw"><h4>Google - Probabilistic counting</h4></a>  
+    <a href="https://youtu.be/dsHyUgGMht0"><h4>Github - Cross Datacentre failure</h4></a>  
+    <a href="https://youtu.be/mL4t2Jf8DUk"><h4>Reddit - Worst outage ever</h4></a>  
+    <a href="https://youtu.be/xynXjChKkJc"><h4>Discord - Migrating from Cassandra to Scylla</h4></a>  
+    <a href="https://youtu.be/yJOrMDMqeoI"><h4>Goto - Migrations, the hardest problem in computer science</h4></a>  
+    <a href="https://youtu.be/KJ_otmElnbM"><h4>Tesla - Stated expansion plans 2023</h4></a>  
+    <a href="https://youtu.be/z7vhMcKvHo8"><h4>Tony Seba - The great transformation 1</h4></a>  
+    <a href="https://youtu.be/Vqs0_3M-18c"><h4>Tony Seba - The great transformation 2</h4></a>  
+    <a href="https://youtu.be/fsnkPLkf1ao"><h4>Tony Seba - The great transformation 2</h4></a>  
+    <a href="https://youtu.be/g6gZHbfK8Vo"><h4>Tony Seba - The great transformation 4</h4></a>  
   </details>
   <details>
     <summary>Cybersecurity</summary>
     
-    [Chris Domas - Turing complete mov](https://www.youtube.com/watch?v=HlUe0TUHOIc)  
-    [Chris Domas - Finding backdoors in hardware instruction sets](https://www.youtube.com/watch?v=lR0nh-TdpVg)  
-    [Chris Domas - Instruction Set Agnostic Program Analysis Tool](https://youtu.be/4bM3Gut1hIk)  
-    [Liveoverflow - Google Cloud Platform 2022 Bugbounty Winners Review](https://youtu.be/uOvizKc1WZY)  
-    [Not What You Think - Using bees to smell bombs](https://youtu.be/lG-ZqO734tM)  
-    [Joseph Ravichandran - Exploiting branch prediction to bypass Apple M1 signed function pointers](https://youtu.be/WRNZhP4CVgE)  
-    [Seytonic - Exploiting github to mine crypto](https://youtu.be/GlQr4wifQuE)  
+    <a href="https://www.youtube.com/watch?v=HlUe0TUHOIc"><h4>Chris Domas - Turing complete mov</h4></a>  
+    <a href="https://www.youtube.com/watch?v=lR0nh-TdpVg"><h4>Chris Domas - Finding backdoors in hardware instruction sets</h4></a>  
+    <a href="https://youtu.be/4bM3Gut1hIk"><h4>Chris Domas - Instruction Set Agnostic Program Analysis Tool</h4></a>  
+    <a href="https://youtu.be/uOvizKc1WZY"><h4>Liveoverflow - Google Cloud Platform 2022 Bugbounty Winners Review</h4></a>  
+    <a href="https://youtu.be/lG-ZqO734tM"><h4>Not What You Think - Using bees to smell bombs</h4></a>  
+    <a href="https://youtu.be/WRNZhP4CVgE"><h4>Joseph Ravichandran - Exploiting branch prediction to bypass Apple M1 signed function pointers</h4></a>  
+    <a href="https://youtu.be/GlQr4wifQuE"><h4>Seytonic - Exploiting github to mine crypto</h4></a>  
   </details>
   <details>
     <summary>Fun computing Projects</summary>
   
-    [From Scratch - Simulating RISCV in Terraria](https://youtu.be/zXPiqk0-zDY)  
-    [The Science Elf - Running isometric minecraft on a calculator](https://youtu.be/Bj9CiMO66xk)  
-    [Inkbox - Running minecraft on the 6502](https://youtu.be/E4ydGuxSIF8)  
-    [S0lly - Raytracing in excel](https://youtu.be/m28jJ7CMp8A)  
-    [Earthcomputer - Using minecraft to compute the result of the next call to java math.rng](https://youtu.be/FPmQ0rnJjNc)  
-    [Suckerpinch - Using floating point imprecision to make something useful](https://youtu.be/Ae9EKCyI1xU)  
-    [Nerdtronic - Coding a very precise pen bot](https://youtu.be/09LlZhlcJTU)  
-    [aarthificial - Animation software for videos](https://youtu.be/WTUafAwrunE)  
-    [shounic - TF2 Huntsman bug counts any hit as headshot](https://youtu.be/nrsDklFXrpc)  
+    <a href="https://youtu.be/zXPiqk0-zDY"><h4>From Scratch - Simulating RISCV in Terraria</h4></a>  
+    <a href="https://youtu.be/Bj9CiMO66xk"><h4>The Science Elf - Running isometric minecraft on a calculator</h4></a>  
+    <a href="https://youtu.be/E4ydGuxSIF8"><h4>Inkbox - Running minecraft on the 6502</h4></a>  
+    <a href="https://youtu.be/m28jJ7CMp8A"><h4>S0lly - Raytracing in excel</h4></a>  
+    <a href="https://youtu.be/FPmQ0rnJjNc"><h4>Earthcomputer - Using minecraft to compute the result of the next call to java math.rng</h4></a>  
+    <a href="https://youtu.be/Ae9EKCyI1xU"><h4>Suckerpinch - Using floating point imprecision to make something useful</h4></a>  
+    <a href="https://youtu.be/09LlZhlcJTU"><h4>Nerdtronic - Coding a very precise pen bot</h4></a>  
+    <a href="https://youtu.be/WTUafAwrunE"><h4>aarthificial - Animation software for videos</h4></a>  
+    <a href="https://youtu.be/nrsDklFXrpc"><h4>shounic - TF2 Huntsman bug counts any hit as headshot</h4></a>  
   </details>
   <details>
     <summary>Space</summary>
   
-    [Entropian - Realistic interstellar journery](https://youtu.be/8tRZY98EGYk)  
-    [David Kipping - Alien Civilisations and Habitable Worlds](https://youtu.be/uZN5xjoS6TU)  
+    <a href="https://youtu.be/8tRZY98EGYk"><h4>Entropian - Realistic interstellar journery</h4></a>  
+    <a href="https://youtu.be/uZN5xjoS6TU"><h4>David Kipping - Alien Civilisations and Habitable Worlds</h4></a>  
   </details>
 </details>
 
