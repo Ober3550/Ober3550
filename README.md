@@ -9,6 +9,7 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
     <summary><h2>Amazing Lectures about Technology</h2></summary>
 
 ## Contents
+- [Space](#space)
 - [High Perforance Computing](#high-performance-computing)
 - [Artifical Intelligence](#artifical-intelligence)
 - [Computer Science](#computer-science)
@@ -17,10 +18,37 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
 - [Corporate Secrets](#corporate-secrets)
 - [Cybersecurity](#cybersecurity)
 - [Fun Projects](#fun-projects)
-- [Space](#space)
+
 
 | | | |
 | - | - | - |
+| <h2>Space</h2> | | |
+| <h4>SpaceX - Starship SN8 High Altitude Flight Test</h4> | <h4>Scott Manley - Starship SN8 Spectacular Flight</h4> | <h4>SpaceX - Starship SN10 High Altitude Flight Test</h4> |
+| <a href="https://youtu.be/_qwLHlVjRyw"><img src="https://img.youtube.com/vi/_qwLHlVjRyw/0.jpg"/></a> | <a href="https://youtu.be/egHxiX40eJY"><img src="https://img.youtube.com/vi/egHxiX40eJY/0.jpg"/></a> | <a href="https://youtu.be/ODY6JWzS8WU"><img src="https://img.youtube.com/vi/ODY6JWzS8WU/0.jpg"/></a> |
+| <h4>SpaceX - Starship Flight Test</h4> | <h4>Everyday Astronaut - SpaceX Tour with Elon Part 1</h4> | <h4>Everyday Astronaut - SpaceX Tour with Elon Part 2</h4> |
+| <a href="https://youtu.be/-1wcilQ58hI"><img src="https://img.youtube.com/vi/-1wcilQ58hI/0.jpg"/></a> | <a href="https://youtu.be/t705r8ICkRw"><img src="https://img.youtube.com/vi/t705r8ICkRw/0.jpg"/></a> | <a href="https://youtu.be/SA8ZBJWo73E"><img src="https://img.youtube.com/vi/SA8ZBJWo73E/0.jpg"/></a> |
+| <h4>Everyday Astronaut - SpaceX Tour with Elon Part 3</h4> | <h4>Everyday Astronaut - SpaceX Elon explains the Merlin Engine</h4> | <h4>Everyday Astronaut - SpaceX Elon explains the Raptor Engine</h4> |
+| <a href="https://youtu.be/9Zlnbs-NBUI"><img src="https://img.youtube.com/vi/9Zlnbs-NBUI/0.jpg"/></a> | <a href="https://youtu.be/hIPLmZK3C1Y"><img src="https://img.youtube.com/vi/hIPLmZK3C1Y/0.jpg"/></a> | <a href="https://youtu.be/E7MQb9Y4FAE"><img src="https://img.youtube.com/vi/E7MQb9Y4FAE/0.jpg"/></a> |
+| <h4>Everyday Astronaut - SpaceX Raptor Engine Development Upgrades</h4> | <h4>Everyday Astronaut - SpaceX Starship vs N1 Is Starship doomed to repeat history?</h4> | <h4>RocketLab - Lift Off!</h4> |
+| <a href="https://youtu.be/ALiNmzoo1_E"><img src="https://img.youtube.com/vi/ALiNmzoo1_E/0.jpg"/></a> | <a href="https://youtu.be/AgqZMK22LEk"><img src="https://img.youtube.com/vi/AgqZMK22LEk/0.jpg"/></a> | <a href="https://youtu.be/VA_8HPsua0c"><img src="https://img.youtube.com/vi/VA_8HPsua0c/0.jpg"/></a> |
+| <h4>Everyday Astronaut - A chat with Rocket Lab's CEO Peter Beck about Neutron</h4> | <h4>Everyday Astronaut - Talking about Rocket Lab's Neutron with Peter Beck</h4> | <h4>Everyday Astronaut - The Entire Soviet Rocket Engine Family Tree</h4> |
+| <a href="https://youtu.be/aXoXDp3j850"><img src="https://img.youtube.com/vi/aXoXDp3j850/0.jpg"/></a> | <a href="https://youtu.be/gcuOSXjevGs"><img src="https://img.youtube.com/vi/gcuOSXjevGs/0.jpg"/></a> | <a href="https://youtu.be/Y-xyXDiC92s"><img src="https://img.youtube.com/vi/Y-xyXDiC92s/0.jpg"/></a> |
+| <h4>Everyday Astronaut - Rocket engine cycles: How do you power a rocket engine?</h4> | <h4>Everyday Astronaut - How Stoke Space's Unique Rocket Works</h4> | <h4>Everyday Astronaut - Tour Firefly Aerospace's Factory and Test Site with their CEO Tom Markusic</h4> |
+| <a href="https://youtu.be/Owji-ukVt9M"><img src="https://img.youtube.com/vi/Owji-ukVt9M/0.jpg"/></a> | <a href="https://youtu.be/EY8nbSwjtEY"><img src="https://img.youtube.com/vi/EY8nbSwjtEY/0.jpg"/></a> | <a href="https://youtu.be/ac-V8mO0lWo"><img src="https://img.youtube.com/vi/ac-V8mO0lWo/0.jpg"/></a> |
+| <h4>Everyday Astronaut - Why Starting A Rocket Engine Is So Hard</h4> | <h4>Everyday Astronaut - Orbits vs Sub-Orbit</h4> | <h4>Entropian - Realistic interstellar journery</h4> |
+| <a href="https://youtu.be/bAUVCn_jw5I"><img src="https://img.youtube.com/vi/bAUVCn_jw5I/0.jpg"/></a> | <a href="https://youtu.be/xE1A6T1cycU"><img src="https://img.youtube.com/vi/xE1A6T1cycU/0.jpg"/></a> | <a href="https://youtu.be/8tRZY98EGYk"><img src="https://img.youtube.com/vi/8tRZY98EGYk/0.jpg"/></a> |
+| <h4>Rational Animations - How to Take Over the Universe (in Three Easy Steps)</h4> | <h4>Rational Animations - Grabby Aliens</h4> | <h4>Rational Animations - Sorting Pebbles Into Correct Heaps</h4> |
+| <a href="https://youtu.be/fVrUNuADkHI"><img src="https://img.youtube.com/vi/fVrUNuADkHI/0.jpg"/></a> | <a href="https://youtu.be/l3whaviTqqg"><img src="https://img.youtube.com/vi/l3whaviTqqg/0.jpg"/></a> | <a href="https://youtu.be/cLXQnnVWJGo"><img src="https://img.youtube.com/vi/cLXQnnVWJGo/0.jpg"/></a> |
+| <h4>Rational Animations - The Power of Intelligence</h4> | <h4>Rational Animations - Everything might change forever this century (or we'll go extinct)</h4> | <h4>Rational Animations - Longtermism: an idea that could save 100 billion trillion lives</h4> |
+| <a href="https://youtu.be/q9Figerh89g"><img src="https://img.youtube.com/vi/q9Figerh89g/0.jpg"/></a> | <a href="https://youtu.be/3K25VPdbAjU"><img src="https://img.youtube.com/vi/3K25VPdbAjU/0.jpg"/></a> | <a href="https://youtu.be/vvehj0KvzK8"><img src="https://img.youtube.com/vi/vvehj0KvzK8/0.jpg"/></a> |
+| <h4>Rational Animations - Can we make the future a million years from now go better?</h4> | <h4>David Kipping - Alien Civilisations and Habitable Worlds</h4> | <h4>David Kipping - Why Starship Could Transform Astronomy</h4> |
+| <a href="https://youtu.be/_uV3wP5z51U"><img src="https://img.youtube.com/vi/_uV3wP5z51U/0.jpg"/></a> | <a href="https://youtu.be/uZN5xjoS6TU"><img src="https://img.youtube.com/vi/uZN5xjoS6TU/0.jpg"/></a> | <a href="https://youtu.be/SSNkuqD_ZbQ"><img src="https://img.youtube.com/vi/SSNkuqD_ZbQ/0.jpg"/></a> |
+| <h4>David Kipping - How Game Theory Can Help Us Find Aliens</h4> | <h4>David Kipping - The problem with "The Rare Earth Hypothesis"</h4> | <h4>David Kipping - The First Civilization To Emerge in the Galaxy</h4> |
+| <a href="https://youtu.be/3lwlNWMl86M"><img src="https://img.youtube.com/vi/3lwlNWMl86M/0.jpg"/></a> | <a href="https://youtu.be/-CsLmoiKugE"><img src="https://img.youtube.com/vi/-CsLmoiKugE/0.jpg"/></a> | <a href="https://youtu.be/DK9LBK3FABs"><img src="https://img.youtube.com/vi/DK9LBK3FABs/0.jpg"/></a> |
+| <h4>David Kipping - What if Intelligence Re-emerges?</h4> | <h4>David Kipping - Why don't we live around a red dwarf when they're the most common type of star?</h4> | <h4>David Kipping - Why we may be surrounded by older alien civilizations</h4> |
+| <a href="https://youtu.be/4I51F8xYr44"><img src="https://img.youtube.com/vi/4I51F8xYr44/0.jpg"/></a> | <a href="https://youtu.be/uZRDONE4zng"><img src="https://img.youtube.com/vi/uZRDONE4zng/0.jpg"/></a> | <a href="https://youtu.be/LrrNu_m_9K4"><img src="https://img.youtube.com/vi/LrrNu_m_9K4/0.jpg"/></a> |
+| <h4>Dr Becky - JWST has found MASSIVE galaxies in the early Universe</h4> | <h4>Dr Becky - JWST's Successor The Carl Sagan Observatory</h4> |
+| <a href="https://youtu.be/hmkyF1tNFc4"><img src="https://img.youtube.com/vi/hmkyF1tNFc4/0.jpg"/></a> | <a href="https://youtu.be/BIgQpXObjFI"><img src="https://img.youtube.com/vi/BIgQpXObjFI/0.jpg"/></a> |
 | <h2>High Performance Computing</h2> | | |
 | <h4>Mollyrocket - Clean code horrible performance</h4> | <h4>MollyRocket - How fast should an unoptimized terminal run?</h4> | <h4>Johnathan Blow - Making Game Programming Less Terrible</h4> |
 | <a href="https://youtu.be/tD5NrevFtbU"><img src="https://img.youtube.com/vi/tD5NrevFtbU/0.jpg"/></a> | <a href="https://youtu.be/hxM8QmyZXtg"><img src="https://img.youtube.com/vi/hxM8QmyZXtg/0.jpg"/></a> | <a href="https://youtu.be/De0Am_QcZiQ"><img src="https://img.youtube.com/vi/De0Am_QcZiQ/0.jpg"/></a> |
@@ -122,7 +150,7 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
 | <a href="https://youtu.be/lJYufx0bfpw"><img src="https://img.youtube.com/vi/lJYufx0bfpw/0.jpg"/></a> | <a href="https://youtu.be/dsHyUgGMht0"><img src="https://img.youtube.com/vi/dsHyUgGMht0/0.jpg"/></a> | <a href="https://youtu.be/mL4t2Jf8DUk"><img src="https://img.youtube.com/vi/mL4t2Jf8DUk/0.jpg"/></a> |
 | <h4>Discord - Migrating from Cassandra to Scylla</h4> | <h4>Goto - Migrations, the hardest problem in computer science</h4> | <h4>Tesla - Stated expansion plans 2023</h4> |
 | <a href="https://youtu.be/xynXjChKkJc"><img src="https://img.youtube.com/vi/xynXjChKkJc/0.jpg"/></a> | <a href="https://youtu.be/yJOrMDMqeoI"><img src="https://img.youtube.com/vi/yJOrMDMqeoI/0.jpg"/></a> | <a href="https://youtu.be/KJ_otmElnbM"><img src="https://img.youtube.com/vi/KJ_otmElnbM/0.jpg"/></a> |
-| <h4>Tony Seba - The great transformation 1</h4> | <h4>Tony Seba - The great transformation 2</h4> | <h4>Tony Seba - The great transformation 3</h4> |
+| <h4>Tony Seba - The great transformation 1</h4> | <h4>Tony Seba - The great transformation 2</h4> | <h4>Tony Seba - The great transformation 2</h4> |
 | <a href="https://youtu.be/z7vhMcKvHo8"><img src="https://img.youtube.com/vi/z7vhMcKvHo8/0.jpg"/></a> | <a href="https://youtu.be/Vqs0_3M-18c"><img src="https://img.youtube.com/vi/Vqs0_3M-18c/0.jpg"/></a> | <a href="https://youtu.be/fsnkPLkf1ao"><img src="https://img.youtube.com/vi/fsnkPLkf1ao/0.jpg"/></a> |
 | <h4>Tony Seba - The great transformation 4</h4> |
 | <a href="https://youtu.be/g6gZHbfK8Vo"><img src="https://img.youtube.com/vi/g6gZHbfK8Vo/0.jpg"/></a> |
@@ -154,33 +182,6 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
 | <a href="https://youtu.be/Pt7z51TpctE"><img src="https://img.youtube.com/vi/Pt7z51TpctE/0.jpg"/></a> | <a href="https://youtu.be/BoPZIojpbmw"><img src="https://img.youtube.com/vi/BoPZIojpbmw/0.jpg"/></a> | <a href="https://youtu.be/7HNAL8ZKdyM"><img src="https://img.youtube.com/vi/7HNAL8ZKdyM/0.jpg"/></a> |
 | <h4>Voxelbee - C++ Vulcan Voxel Renderer</h4> | <h4>Tom Wildenhain - Powerpoint Turing Machine</h4> |
 | <a href="https://youtu.be/egOx4jMIaOg"><img src="https://img.youtube.com/vi/egOx4jMIaOg/0.jpg"/></a> | <a href="https://youtu.be/_3loq22TxSc?t=1405"><img src="https://img.youtube.com/vi/_3loq22TxSc/0.jpg"/></a> |
-| <h2>Space</h2> | | |
-| <h4>SpaceX - Starship SN8 High Altitude Flight Test</h4> | <h4>Scott Manley - Starship SN8 Spectacular Flight</h4> | <h4>SpaceX - Starship SN10 High Altitude Flight Test</h4> |
-| <a href="https://youtu.be/_qwLHlVjRyw"><img src="https://img.youtube.com/vi/_qwLHlVjRyw/0.jpg"/></a> | <a href="https://youtu.be/egHxiX40eJY"><img src="https://img.youtube.com/vi/egHxiX40eJY/0.jpg"/></a> | <a href="https://youtu.be/ODY6JWzS8WU"><img src="https://img.youtube.com/vi/ODY6JWzS8WU/0.jpg"/></a> |
-| <h4>SpaceX - Starship Flight Test</h4> | <h4>Everyday Astronaut - SpaceX Tour with Elon Part 1</h4> | <h4>Everyday Astronaut - SpaceX Tour with Elon Part 2</h4> |
-| <a href="https://youtu.be/-1wcilQ58hI"><img src="https://img.youtube.com/vi/-1wcilQ58hI/0.jpg"/></a> | <a href="https://youtu.be/t705r8ICkRw"><img src="https://img.youtube.com/vi/t705r8ICkRw/0.jpg"/></a> | <a href="https://youtu.be/SA8ZBJWo73E"><img src="https://img.youtube.com/vi/SA8ZBJWo73E/0.jpg"/></a> |
-| <h4>Everyday Astronaut - SpaceX Tour with Elon Part 3</h4> | <h4>Everyday Astronaut - SpaceX Elon explains the Merlin Engine</h4> | <h4>Everyday Astronaut - SpaceX Elon explains the Raptor Engine</h4> |
-| <a href="https://youtu.be/9Zlnbs-NBUI"><img src="https://img.youtube.com/vi/9Zlnbs-NBUI/0.jpg"/></a> | <a href="https://youtu.be/hIPLmZK3C1Y"><img src="https://img.youtube.com/vi/hIPLmZK3C1Y/0.jpg"/></a> | <a href="https://youtu.be/E7MQb9Y4FAE"><img src="https://img.youtube.com/vi/E7MQb9Y4FAE/0.jpg"/></a> |
-| <h4>Everyday Astronaut - SpaceX Raptor Engine Development Upgrades</h4> | <h4>Everyday Astronaut - SpaceX Starship vs N1 Is Starship doomed to repeat history?</h4> | <h4>RocketLab - Lift Off!</h4> |
-| <a href="https://youtu.be/ALiNmzoo1_E"><img src="https://img.youtube.com/vi/ALiNmzoo1_E/0.jpg"/></a> | <a href="https://youtu.be/AgqZMK22LEk"><img src="https://img.youtube.com/vi/AgqZMK22LEk/0.jpg"/></a> | <a href="https://youtu.be/VA_8HPsua0c"><img src="https://img.youtube.com/vi/VA_8HPsua0c/0.jpg"/></a> |
-| <h4>Everyday Astronaut - A chat with Rocket Lab's CEO Peter Beck about Neutron</h4> | <h4>Everyday Astronaut - Talking about Rocket Lab's Neutron with Peter Beck</h4> | <h4>Everyday Astronaut - The Entire Soviet Rocket Engine Family Tree</h4> |
-| <a href="https://youtu.be/aXoXDp3j850"><img src="https://img.youtube.com/vi/aXoXDp3j850/0.jpg"/></a> | <a href="https://youtu.be/gcuOSXjevGs"><img src="https://img.youtube.com/vi/gcuOSXjevGs/0.jpg"/></a> | <a href="https://youtu.be/Y-xyXDiC92s"><img src="https://img.youtube.com/vi/Y-xyXDiC92s/0.jpg"/></a> |
-| <h4>Everyday Astronaut - Rocket engine cycles: How do you power a rocket engine?</h4> | <h4>Everyday Astronaut - How Stoke Space's Unique Rocket Works</h4> | <h4>Everyday Astronaut - Tour Firefly Aerospace's Factory and Test Site with their CEO Tom Markusic</h4> |
-| <a href="https://youtu.be/Owji-ukVt9M"><img src="https://img.youtube.com/vi/Owji-ukVt9M/0.jpg"/></a> | <a href="https://youtu.be/EY8nbSwjtEY"><img src="https://img.youtube.com/vi/EY8nbSwjtEY/0.jpg"/></a> | <a href="https://youtu.be/ac-V8mO0lWo"><img src="https://img.youtube.com/vi/ac-V8mO0lWo/0.jpg"/></a> |
-| <h4>Everyday Astronaut - Why Starting A Rocket Engine Is So Hard</h4> | <h4>Everyday Astronaut - Orbits vs Sub-Orbit</h4> | <h4>Entropian - Realistic interstellar journery</h4> |
-| <a href="https://youtu.be/bAUVCn_jw5I"><img src="https://img.youtube.com/vi/bAUVCn_jw5I/0.jpg"/></a> | <a href="https://youtu.be/xE1A6T1cycU"><img src="https://img.youtube.com/vi/xE1A6T1cycU/0.jpg"/></a> | <a href="https://youtu.be/8tRZY98EGYk"><img src="https://img.youtube.com/vi/8tRZY98EGYk/0.jpg"/></a> |
-| <h4>Rational Animations - How to Take Over the Universe (in Three Easy Steps)</h4> | <h4>Rational Animations - Grabby Aliens</h4> | <h4>Rational Animations - Sorting Pebbles Into Correct Heaps</h4> |
-| <a href="https://youtu.be/fVrUNuADkHI"><img src="https://img.youtube.com/vi/fVrUNuADkHI/0.jpg"/></a> | <a href="https://youtu.be/l3whaviTqqg"><img src="https://img.youtube.com/vi/l3whaviTqqg/0.jpg"/></a> | <a href="https://youtu.be/cLXQnnVWJGo"><img src="https://img.youtube.com/vi/cLXQnnVWJGo/0.jpg"/></a> |
-| <h4>Rational Animations - The Power of Intelligence</h4> | <h4>Rational Animations - Everything might change forever this century (or we'll go extinct)</h4> | <h4>Rational Animations - Longtermism: an idea that could save 100 billion trillion lives</h4> |
-| <a href="https://youtu.be/q9Figerh89g"><img src="https://img.youtube.com/vi/q9Figerh89g/0.jpg"/></a> | <a href="https://youtu.be/3K25VPdbAjU"><img src="https://img.youtube.com/vi/3K25VPdbAjU/0.jpg"/></a> | <a href="https://youtu.be/vvehj0KvzK8"><img src="https://img.youtube.com/vi/vvehj0KvzK8/0.jpg"/></a> |
-| <h4>Rational Animations - Can we make the future a million years from now go better?</h4> | <h4>David Kipping - Alien Civilisations and Habitable Worlds</h4> | <h4>David Kipping - Why Starship Could Transform Astronomy</h4> |
-| <a href="https://youtu.be/_uV3wP5z51U"><img src="https://img.youtube.com/vi/_uV3wP5z51U/0.jpg"/></a> | <a href="https://youtu.be/uZN5xjoS6TU"><img src="https://img.youtube.com/vi/uZN5xjoS6TU/0.jpg"/></a> | <a href="https://youtu.be/SSNkuqD_ZbQ"><img src="https://img.youtube.com/vi/SSNkuqD_ZbQ/0.jpg"/></a> |
-| <h4>David Kipping - How Game Theory Can Help Us Find Aliens</h4> | <h4>David Kipping - The problem with "The Rare Earth Hypothesis"</h4> | <h4>David Kipping - The First Civilization To Emerge in the Galaxy</h4> |
-| <a href="https://youtu.be/3lwlNWMl86M"><img src="https://img.youtube.com/vi/3lwlNWMl86M/0.jpg"/></a> | <a href="https://youtu.be/-CsLmoiKugE"><img src="https://img.youtube.com/vi/-CsLmoiKugE/0.jpg"/></a> | <a href="https://youtu.be/DK9LBK3FABs"><img src="https://img.youtube.com/vi/DK9LBK3FABs/0.jpg"/></a> |
-| <h4>David Kipping - What if Intelligence Re-emerges?</h4> | <h4>David Kipping - Why don't we live around a red dwarf when they're the most common type of star?</h4> | <h4>David Kipping - Why we may be surrounded by older alien civilizations</h4> |
-| <a href="https://youtu.be/4I51F8xYr44"><img src="https://img.youtube.com/vi/4I51F8xYr44/0.jpg"/></a> | <a href="https://youtu.be/uZRDONE4zng"><img src="https://img.youtube.com/vi/uZRDONE4zng/0.jpg"/></a> | <a href="https://youtu.be/LrrNu_m_9K4"><img src="https://img.youtube.com/vi/LrrNu_m_9K4/0.jpg"/></a> |
-| <h4>Dr Becky - JWST has found MASSIVE galaxies in the early Universe</h4> | <h4>Dr Becky - JWST's Successor The Carl Sagan Observatory</h4> |
-| <a href="https://youtu.be/hmkyF1tNFc4"><img src="https://img.youtube.com/vi/hmkyF1tNFc4/0.jpg"/></a> | <a href="https://youtu.be/BIgQpXObjFI"><img src="https://img.youtube.com/vi/BIgQpXObjFI/0.jpg"/></a> |
 </details>
 
 <details>
