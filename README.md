@@ -8,7 +8,7 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
 ## [Stock Screener](https://finviz.com/screener.ashx?v=150&f=fa_debteq_u1,fa_pe_profitable&ft=4&o=-dividendyield)
 
 <details>
-    <summary><h2>Amazing Lectures about Technology</h2></summary>
+    <summary><h2 style="display:inline">Amazing Lectures about Technology</h2></summary>
 
 ## Contents
 - [Space](#space)
@@ -187,7 +187,7 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
 </details>
 
 <details>
-  <summary><h2>Skills/Certifications</h2></summary>
+  <summary><h2 style="display:inline">Skills/Certifications</h2></summary>
 
   ### Languages	
   C, C++ (+SIMD), Golang, Rust, C#, Java, SQL, Python, Javascript, Typescript, HTML, CSS, Groovy, Lua, MATLAB, F#, R, Bash, XSLT
