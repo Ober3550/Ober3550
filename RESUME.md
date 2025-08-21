@@ -13,7 +13,7 @@ Results-oriented Software Engineer delivering high-scale advertising, search, an
 ---
 ## Professional Experience
 ### Domino’s – Software Engineer  
-*April 2023 – Present*. 
+*April 2023 – Present*  
 **Domain:** Global Delivery and Pickup Search (from Sep 2024)
 
 - Implemented Taiwan Chinese address support and menu enhancements in React Native (Jest + Chromedriver) modernizing the address search UI.
@@ -23,7 +23,7 @@ Results-oriented Software Engineer delivering high-scale advertising, search, an
 **Key Technologies:** TypeScript, Node.js, React Native, Azure DevOps, Docker, Kubernetes, Bash, Python, Imposter.sh
 
 ### CitrusAd – Software Engineer  
-*March 2022 – April 2023*. 
+*March 2022 – April 2023*  
 **Platform Scale:** 15B ad requests/month, 3.5K active brands across >100 retailer sites
 
 - Contributed to Ad Relevancy services (Go, Postgres, BigQuery) focusing on latency optimization & ranking correctness.
@@ -33,7 +33,7 @@ Results-oriented Software Engineer delivering high-scale advertising, search, an
 **Key Technologies:** Go, Java, Node.js, PostgreSQL, BigQuery, Docker, Kubernetes, Terraform
 
 ### GBST – Graduate Software Developer  
-*Jan 2021 – March 2022*. 
+*Jan 2021 – March 2022*  
 **Domain:** Asset Management Platform (Pension Funds / Banks)
 
 - Enhanced Retail Cash Accounts module (Java, GWT, Postgres) extending transactional capabilities outside the private banking and pension sector.
