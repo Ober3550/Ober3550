@@ -38,7 +38,7 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
 | <a href="https://youtu.be/aXoXDp3j850"><img src="https://img.youtube.com/vi/aXoXDp3j850/0.jpg"/></a> | <a href="https://youtu.be/gcuOSXjevGs"><img src="https://img.youtube.com/vi/gcuOSXjevGs/0.jpg"/></a> | <a href="https://youtu.be/Y-xyXDiC92s"><img src="https://img.youtube.com/vi/Y-xyXDiC92s/0.jpg"/></a> |
 | <h4>Everyday Astronaut - Rocket engine cycles: How do you power a rocket engine?</h4> | <h4>Everyday Astronaut - How Stoke Space's Unique Rocket Works</h4> | <h4>Everyday Astronaut - Tour Firefly Aerospace's Factory and Test Site with their CEO Tom Markusic</h4> |
 | <a href="https://youtu.be/Owji-ukVt9M"><img src="https://img.youtube.com/vi/Owji-ukVt9M/0.jpg"/></a> | <a href="https://youtu.be/EY8nbSwjtEY"><img src="https://img.youtube.com/vi/EY8nbSwjtEY/0.jpg"/></a> | <a href="https://youtu.be/ac-V8mO0lWo"><img src="https://img.youtube.com/vi/ac-V8mO0lWo/0.jpg"/></a> |
-| <h4>Everyday Astronaut - Why Starting A Rocket Engine Is So Hard</h4> | <h4>Everyday Astronaut - Orbits vs Sub-Orbit</h4> | <h4>Entropian - Realistic interstellar journery</h4> |
+| <h4>Everyday Astronaut - Why Starting A Rocket Engine Is So Hard</h4> | <h4>Everyday Astronaut - Orbits vs Sub-Orbit</h4> | <h4>Entropian - Realistic interstellar journey</h4> |
 | <a href="https://youtu.be/bAUVCn_jw5I"><img src="https://img.youtube.com/vi/bAUVCn_jw5I/0.jpg"/></a> | <a href="https://youtu.be/xE1A6T1cycU"><img src="https://img.youtube.com/vi/xE1A6T1cycU/0.jpg"/></a> | <a href="https://youtu.be/8tRZY98EGYk"><img src="https://img.youtube.com/vi/8tRZY98EGYk/0.jpg"/></a> |
 | <h4>Rational Animations - How to Take Over the Universe (in Three Easy Steps)</h4> | <h4>Rational Animations - Grabby Aliens</h4> | <h4>Rational Animations - Sorting Pebbles Into Correct Heaps</h4> |
 | <a href="https://youtu.be/fVrUNuADkHI"><img src="https://img.youtube.com/vi/fVrUNuADkHI/0.jpg"/></a> | <a href="https://youtu.be/l3whaviTqqg"><img src="https://img.youtube.com/vi/l3whaviTqqg/0.jpg"/></a> | <a href="https://youtu.be/cLXQnnVWJGo"><img src="https://img.youtube.com/vi/cLXQnnVWJGo/0.jpg"/></a> |
@@ -50,8 +50,8 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
 | <a href="https://youtu.be/3lwlNWMl86M"><img src="https://img.youtube.com/vi/3lwlNWMl86M/0.jpg"/></a> | <a href="https://youtu.be/-CsLmoiKugE"><img src="https://img.youtube.com/vi/-CsLmoiKugE/0.jpg"/></a> | <a href="https://youtu.be/DK9LBK3FABs"><img src="https://img.youtube.com/vi/DK9LBK3FABs/0.jpg"/></a> |
 | <h4>David Kipping - What if Intelligence Re-emerges?</h4> | <h4>David Kipping - Why don't we live around a red dwarf when they're the most common type of star?</h4> | <h4>David Kipping - Why we may be surrounded by older alien civilizations</h4> |
 | <a href="https://youtu.be/4I51F8xYr44"><img src="https://img.youtube.com/vi/4I51F8xYr44/0.jpg"/></a> | <a href="https://youtu.be/uZRDONE4zng"><img src="https://img.youtube.com/vi/uZRDONE4zng/0.jpg"/></a> | <a href="https://youtu.be/LrrNu_m_9K4"><img src="https://img.youtube.com/vi/LrrNu_m_9K4/0.jpg"/></a> |
-| <h4>Dr Becky - JWST has found MASSIVE galaxies in the early Universe</h4> | <h4>Dr Becky - JWST's Successor The Carl Sagan Observatory</h4> |
-| <a href="https://youtu.be/hmkyF1tNFc4"><img src="https://img.youtube.com/vi/hmkyF1tNFc4/0.jpg"/></a> | <a href="https://youtu.be/BIgQpXObjFI"><img src="https://img.youtube.com/vi/BIgQpXObjFI/0.jpg"/></a> |
+| <h4>Dr Becky - JWST has found MASSIVE galaxies in the early Universe</h4> | <h4>Dr Becky - JWST's Successor The Carl Sagan Observatory</h4> |  |
+| <a href="https://youtu.be/hmkyF1tNFc4"><img src="https://img.youtube.com/vi/hmkyF1tNFc4/0.jpg"/></a> | <a href="https://youtu.be/BIgQpXObjFI"><img src="https://img.youtube.com/vi/BIgQpXObjFI/0.jpg"/></a> |  |
 | <h2>High Performance Computing</h2> | | |
 | <h4>Mollyrocket - Clean code horrible performance</h4> | <h4>MollyRocket - How fast should an unoptimized terminal run?</h4> | <h4>Johnathan Blow - Making Game Programming Less Terrible</h4> |
 | <a href="https://youtu.be/tD5NrevFtbU"><img src="https://img.youtube.com/vi/tD5NrevFtbU/0.jpg"/></a> | <a href="https://youtu.be/hxM8QmyZXtg"><img src="https://img.youtube.com/vi/hxM8QmyZXtg/0.jpg"/></a> | <a href="https://youtu.be/De0Am_QcZiQ"><img src="https://img.youtube.com/vi/De0Am_QcZiQ/0.jpg"/></a> |
@@ -79,13 +79,13 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
 | <a href="https://youtu.be/NH1Tta7purM"><img src="https://img.youtube.com/vi/NH1Tta7purM/0.jpg"/></a> | <a href="https://youtu.be/8khWb-Bhhvs"><img src="https://img.youtube.com/vi/8khWb-Bhhvs/0.jpg"/></a> | <a href="https://youtu.be/FqR5vESuKe0"><img src="https://img.youtube.com/vi/FqR5vESuKe0/0.jpg"/></a> |
 | <h4>Matt Parker - Turning a computational problem from 30 days to under 100ms</h4> | <h4>The Cherno - Optimizing a C++ Game Engine with NVIDIA pipelines</h4> | <h4>javidx9 - C++ SIMD Intrinsics</h4> |
 | <a href="https://youtu.be/Y37WiO55bxs"><img src="https://img.youtube.com/vi/Y37WiO55bxs/0.jpg"/></a> | <a href="https://youtu.be/mOSirVeP5lo"><img src="https://img.youtube.com/vi/mOSirVeP5lo/0.jpg"/></a> | <a href="https://youtu.be/x9Scb5Mku1g"><img src="https://img.youtube.com/vi/x9Scb5Mku1g/0.jpg"/></a> |
-| <h4>Creel - Branchless Programming</h4> |
-| <a href="https://youtu.be/bVJ-mWWL7cE"><img src="https://img.youtube.com/vi/bVJ-mWWL7cE/0.jpg"/></a> |
+| <h4>Creel - Branchless Programming</h4> |  |  |
+| <a href="https://youtu.be/bVJ-mWWL7cE"><img src="https://img.youtube.com/vi/bVJ-mWWL7cE/0.jpg"/></a> |  |  |
 | <h2>Low Performance Computing</h2> | | |
 | <h4>Leddoo - Why my scripting language is already faster than python</h4> | <h4>Leddoo - How Python Works</h4> | <h4>Leddoo - Are stack based vms really slower?</h4> |
 | <a href="https://youtu.be/14CPI1qBd7o"><img src="https://img.youtube.com/vi/14CPI1qBd7o/0.jpg"/></a> | <a href="https://youtu.be/kESmRMDHZZk"><img src="https://img.youtube.com/vi/kESmRMDHZZk/0.jpg"/></a> | <a href="https://youtu.be/cMMAGIefZuM"><img src="https://img.youtube.com/vi/cMMAGIefZuM/0.jpg"/></a> |
-| <h4>mCoding - The fastest way to loop in Python, an unfortunate truth</h4> |
-| <a href="https://youtu.be/Qgevy75co8c"><img src="https://img.youtube.com/vi/Qgevy75co8c/0.jpg"/></a> |
+| <h4>mCoding - The fastest way to loop in Python, an unfortunate truth</h4> |  |  |
+| <a href="https://youtu.be/Qgevy75co8c"><img src="https://img.youtube.com/vi/Qgevy75co8c/0.jpg"/></a> |  |  |
 | <h2>Artifical Intelligence</h2> | | |
 | <h4>Samson Zhang - Neural Network Fundamentals</h4> | <h4>Lex Fridman - Playing guitar in a self driving car</h4> | <h4>George Hotz - The past, future and present</h4> |
 | <a href="https://youtu.be/w8yWXqWQYmU"><img src="https://img.youtube.com/vi/w8yWXqWQYmU/0.jpg"/></a> | <a href="https://youtu.be/fCLI6kxFFTE"><img src="https://img.youtube.com/vi/fCLI6kxFFTE/0.jpg"/></a> | <a href="https://youtu.be/u16msbVHNWk"><img src="https://img.youtube.com/vi/u16msbVHNWk/0.jpg"/></a> |
@@ -144,8 +144,8 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
 | <a href="https://youtu.be/Xo7V4PPHijs"><img src="https://img.youtube.com/vi/Xo7V4PPHijs/0.jpg"/></a> | <a href="https://youtu.be/Wz_xJPN7lAY?t=700"><img src="https://img.youtube.com/vi/Wz_xJPN7lAY/0.jpg"/></a> | <a href="https://youtu.be/FNd94_XaVlY"><img src="https://img.youtube.com/vi/FNd94_XaVlY/0.jpg"/></a> |
 | <h4>TechTechPotato - The cost of TSMC 7nm</h4> | <h4>TechTechPotato - The new Era of High Performance Compute</h4> | <h4>Verge Science - Is gallium nitride the silicon of the future?</h4> |
 | <a href="https://youtu.be/tvVobTtgss0"><img src="https://img.youtube.com/vi/tvVobTtgss0/0.jpg"/></a> | <a href="https://youtu.be/w3xNLj6nRgs"><img src="https://img.youtube.com/vi/w3xNLj6nRgs/0.jpg"/></a> | <a href="https://youtu.be/AYttFnryznM"><img src="https://img.youtube.com/vi/AYttFnryznM/0.jpg"/></a> |
-| <h4>Seeker - EUV The Extreme Physics Pushing Moore's Law to the Next Level</h4> |
-| <a href="https://youtu.be/f0gMdGrVteI"><img src="https://img.youtube.com/vi/f0gMdGrVteI/0.jpg"/></a> |
+| <h4>Seeker - EUV The Extreme Physics Pushing Moore's Law to the Next Level</h4> |  |  |
+| <a href="https://youtu.be/f0gMdGrVteI"><img src="https://img.youtube.com/vi/f0gMdGrVteI/0.jpg"/></a> |  |  |
 | <h2>Corporate Secrets</h2> | | |
 | <h4>Facebook - Down for 5 hours because of a misconfigured DNS</h4> | <h4>Cloudflare - How an unoptimized regex crashed the internet</h4> | <h4>Netflix - Mastering Chaos a guide to microservices</h4> |
 | <a href="https://youtu.be/-wMU8vmfaYo"><img src="https://img.youtube.com/vi/-wMU8vmfaYo/0.jpg"/></a> | <a href="https://youtu.be/DDe-S3uef2w"><img src="https://img.youtube.com/vi/DDe-S3uef2w/0.jpg"/></a> | <a href="https://youtu.be/CZ3wIuvmHeM"><img src="https://img.youtube.com/vi/CZ3wIuvmHeM/0.jpg"/></a> |
@@ -155,8 +155,8 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
 | <a href="https://youtu.be/xynXjChKkJc"><img src="https://img.youtube.com/vi/xynXjChKkJc/0.jpg"/></a> | <a href="https://youtu.be/yJOrMDMqeoI"><img src="https://img.youtube.com/vi/yJOrMDMqeoI/0.jpg"/></a> | <a href="https://youtu.be/KJ_otmElnbM"><img src="https://img.youtube.com/vi/KJ_otmElnbM/0.jpg"/></a> |
 | <h4>Tony Seba - The great transformation 1</h4> | <h4>Tony Seba - The great transformation 2</h4> | <h4>Tony Seba - The great transformation 2</h4> |
 | <a href="https://youtu.be/z7vhMcKvHo8"><img src="https://img.youtube.com/vi/z7vhMcKvHo8/0.jpg"/></a> | <a href="https://youtu.be/Vqs0_3M-18c"><img src="https://img.youtube.com/vi/Vqs0_3M-18c/0.jpg"/></a> | <a href="https://youtu.be/fsnkPLkf1ao"><img src="https://img.youtube.com/vi/fsnkPLkf1ao/0.jpg"/></a> |
-| <h4>Tony Seba - The great transformation 4</h4> |
-| <a href="https://youtu.be/g6gZHbfK8Vo"><img src="https://img.youtube.com/vi/g6gZHbfK8Vo/0.jpg"/></a> |
+| <h4>Tony Seba - The great transformation 4</h4> |  |  |
+| <a href="https://youtu.be/g6gZHbfK8Vo"><img src="https://img.youtube.com/vi/g6gZHbfK8Vo/0.jpg"/></a> |  |  |
 | <h2>Cybersecurity</h2> | | |
 | <h4>Chris Domas - Turing complete x86 MOV</h4> | <h4>Chris Domas - Psychological Warfare in Decompilation</h4> | <h4>Chris Domas - Finding backdoors in hardware instruction sets</h4> |
 | <a href="https://youtu.be/R7EEoWg6Ekk"><img src="https://img.youtube.com/vi/R7EEoWg6Ekk/0.jpg"/></a> | <a href="https://youtu.be/HlUe0TUHOIc"><img src="https://img.youtube.com/vi/HlUe0TUHOIc/0.jpg"/></a> | <a href="https://youtu.be/lR0nh-TdpVg"><img src="https://img.youtube.com/vi/lR0nh-TdpVg/0.jpg"/></a> |
@@ -164,8 +164,8 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
 | <a href="https://youtu.be/4bM3Gut1hIk"><img src="https://img.youtube.com/vi/4bM3Gut1hIk/0.jpg"/></a> | <a href="https://youtu.be/uOvizKc1WZY"><img src="https://img.youtube.com/vi/uOvizKc1WZY/0.jpg"/></a> | <a href="https://youtu.be/lG-ZqO734tM"><img src="https://img.youtube.com/vi/lG-ZqO734tM/0.jpg"/></a> |
 | <h4>Joseph Ravichandran - Exploiting branch prediction to bypass Apple M1 signed function pointers</h4> | <h4>Seytonic - Exploiting github to mine crypto</h4> | <h4>LiveOverflow - Finding a 0day in Apache</h4> |
 | <a href="https://youtu.be/WRNZhP4CVgE"><img src="https://img.youtube.com/vi/WRNZhP4CVgE/0.jpg"/></a> | <a href="https://youtu.be/GlQr4wifQuE"><img src="https://img.youtube.com/vi/GlQr4wifQuE/0.jpg"/></a> | <a href="https://youtu.be/yrCXamnX9No"><img src="https://img.youtube.com/vi/yrCXamnX9No/0.jpg"/></a> |
-| <h4>LiveOverflow - Exploiting Java Tomcat with JSP Web Shell</h4> | <h4>Deviant Ollam - Elevator Penetration Testing</h4> |
-| <a href="https://youtu.be/qA8KB6KndrE"><img src="https://img.youtube.com/vi/qA8KB6KndrE/0.jpg"/></a> | <a href="https://youtu.be/fj-VlvoB8tw"><img src="https://img.youtube.com/vi/fj-VlvoB8tw/0.jpg"/></a> |
+| <h4>LiveOverflow - Exploiting Java Tomcat with JSP Web Shell</h4> | <h4>Deviant Ollam - Elevator Penetration Testing</h4> |  |
+| <a href="https://youtu.be/qA8KB6KndrE"><img src="https://img.youtube.com/vi/qA8KB6KndrE/0.jpg"/></a> | <a href="https://youtu.be/fj-VlvoB8tw"><img src="https://img.youtube.com/vi/fj-VlvoB8tw/0.jpg"/></a> |  |
 | <h2>Fun Projects</h2> | | |
 | <h4>From Scratch - Simulating RISCV in Terraria</h4> | <h4>The Science Elf - Running isometric minecraft on a calculator</h4> | <h4>Inkbox - Running minecraft on the 6502</h4> |
 | <a href="https://youtu.be/zXPiqk0-zDY"><img src="https://img.youtube.com/vi/zXPiqk0-zDY/0.jpg"/></a> | <a href="https://youtu.be/Bj9CiMO66xk"><img src="https://img.youtube.com/vi/Bj9CiMO66xk/0.jpg"/></a> | <a href="https://youtu.be/E4ydGuxSIF8"><img src="https://img.youtube.com/vi/E4ydGuxSIF8/0.jpg"/></a> |
@@ -183,33 +183,11 @@ I'm Oliver, a recent graduate of Information Technology majoring in Computer Sci
 | <a href="https://youtu.be/t_rzYnXEQlE"><img src="https://img.youtube.com/vi/t_rzYnXEQlE/0.jpg"/></a> | <a href="https://youtu.be/tocXaInkarE"><img src="https://img.youtube.com/vi/tocXaInkarE/0.jpg"/></a> | <a href="https://youtu.be/uQzk2BQxH_U"><img src="https://img.youtube.com/vi/uQzk2BQxH_U/0.jpg"/></a> |
 | <h4>JohnDoesStuff - Neural Networks in Desmos</h4> | <h4>John Lin - Water physics and custom voxel boats, rigid bodies and destruction</h4> | <h4>Andrej Rajnoha - Cable driven juggler robot</h4> |
 | <a href="https://youtu.be/Pt7z51TpctE"><img src="https://img.youtube.com/vi/Pt7z51TpctE/0.jpg"/></a> | <a href="https://youtu.be/BoPZIojpbmw"><img src="https://img.youtube.com/vi/BoPZIojpbmw/0.jpg"/></a> | <a href="https://youtu.be/7HNAL8ZKdyM"><img src="https://img.youtube.com/vi/7HNAL8ZKdyM/0.jpg"/></a> |
-| <h4>Voxelbee - C++ Vulcan Voxel Renderer</h4> | <h4>Tom Wildenhain - Powerpoint Turing Machine</h4> |
-| <a href="https://youtu.be/egOx4jMIaOg"><img src="https://img.youtube.com/vi/egOx4jMIaOg/0.jpg"/></a> | <a href="https://youtu.be/_3loq22TxSc?t=1405"><img src="https://img.youtube.com/vi/_3loq22TxSc/0.jpg"/></a> |
-</details>
-
-<details>
-  <summary><h2 style="display:inline">Skills/Certifications</h2></summary>
-
-  ### Languages	
-  C, C++ (+SIMD), Golang, Rust, C#, Java, SQL, Python, Javascript, Typescript, HTML, CSS, Groovy, Lua, MATLAB, F#, R, Bash, XSLT
-  ### Platforms	
-  Google Cloud Platform, Azure Devops, Amazon Web Services, Linux, WSL, Docker, Kubernetes, Git Pipeline, Nginx, Restful API, gRPC, Jenkins, Mountebank, Junit, Selenium, Cucumber
-  ### Technologies	
-  Git, SDL2, Dear ImGui, P5.js, SFML, Wordpress, Node, Angular, ActiveMQ, Docmosis, LibreOffice, JMS, Google Web Toolkit
-  ### RDBMS 	
-  PostgreSQL, MySQL, SQLite, Oracle
-  ### General	
-  Word, Excel, PowerPoint, Agile, Jira, Confluence, Bitbucket
+| <h4>Voxelbee - C++ Vulkan Voxel Renderer</h4> | <h4>Tom Wildenhain - PowerPoint Turing Machine</h4> |  |
+| <a href="https://youtu.be/egOx4jMIaOg"><img src="https://img.youtube.com/vi/egOx4jMIaOg/0.jpg"/></a> | <a href="https://youtu.be/_3loq22TxSc?t=1405"><img src="https://img.youtube.com/vi/_3loq22TxSc/0.jpg"/></a> |  |
 </details>
 
 <!-- 
-## Interested Technologies
-These are just some technologies I know a bit about and want to learn more  
-Compiler Design, OpenGL, Vulkan, Fluid Dynamics, Voxel Rendering, Cryptography, JAI
-
-## Contacts
-Email: Ober3550@gmail.com
-
 ## C++ Project Template
 When I first started learning C++ it was just so difficult. Too many things to know, too many conflicting sources and lastly too many documents without a working demo. So that's why I've made my own template that people are free to use. It's lightweight, has great libraries installed and a small amount of code for the stuff that I know I struggled with so you don't have to.  
 https://github.com/ober3550/My-Template
@@ -257,10 +235,10 @@ Fluid sim project inspired by Fluid Simulation for Dummies by Mike Ash
 ## [Traveling Salesman](https://ober3550.github.io/TravelingSalesman.html)
 <img src="assets/TravelingSalesman.gif" width="800"/>  
 
-<!-- ## [Pathfinder (P5.js)](https://github.com/Ober3550/Pathfinder)
+## [Pathfinder (P5.js)](https://github.com/Ober3550/Pathfinder)
 <img src="assets/mazeSolve.gif" width="800"/>  
 
-## Off axis bouncing (P5.js)
+<!-- ## Off axis bouncing (P5.js)
 <img src="assets/bounce.gif" width="800"/>  
 
 ## [Tetris (P5.js)](https://github.com/Ober3550/BlockGame)
