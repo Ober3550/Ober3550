@@ -1,8 +1,9 @@
 # Oliver Mainey
-| | |
-| - | - |
-| **Location:** Brisbane | **Email:** Ober3550@gmail.com |
-| **Phone:** 0407 336 755 | **LinkedIn:** https://www.linkedin.com/in/oliver-mainey-8b700a176/ |  
+
+**Location:** Brisbane  
+**Email:** Ober3550@gmail.com  
+**Phone:** 0407 336 755  
+**LinkedIn:** https://www.linkedin.com/in/oliver-mainey-8b700a176/  
 
 ## Summary
 I’m a hands‑on engineer who takes un-maintained verbose areas and turns them into lean, observable systems. I blend low‑level efficiency (C/C++/SIMD, Rust, Go) with pragmatic backend delivery (TypeScript/Node, Java, PostgreSQL) and ship developer productivity tooling — testing frameworks, transpilers and deployment visibility. Every abstraction is wrong, some are useful. Every line of code is a liability, simplicity is the ideal. There's a long history of failed IT projects because of code quantity over code quality, the AI future on the horizon seems to want to re-tread that same path.
