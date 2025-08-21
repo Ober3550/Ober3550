@@ -29,7 +29,7 @@ I’m a hands‑on engineer who takes un-maintained verbose areas and turns them
 
 - Implemented Taiwan Chinese address support and menu enhancements in React Native (Jest + Chromedriver) modernizing the address search UI.
 - Platform Foundation DevOps containerised Dotnet and Node services, standardised Azure DevOps pipelines, and refined Kubernetes deployment patterns and error reporting using Helm.
-- Solo Developed package management workflow for Imposter.sh definitions (publish, versioning, contract validation) reducing manual mock sync effort (insert metric).
+- Solo developed package management workflow for Imposter.sh definitions (publish, versioning, contract validation) reducing manual mock sync effort (insert metric).
 
 **Key Technologies:** Dotnet, C#, TypeScript, Node.js, React Native, Azure DevOps, Docker, Kubernetes, Bash, Python, Imposter.sh
 
@@ -49,7 +49,7 @@ I’m a hands‑on engineer who takes un-maintained verbose areas and turns them
 
 - Enhanced Retail Cash Accounts module (Java, GWT, Postgres) extending transactional capabilities outside the private banking and pension sector.
 - Supported CHESS to CSP integration with message-driven architecture (ActiveMQ, JMS) improving settlement data flow.
-- Solo Developed a TLE to Groovy transpiler (5k lines, Node) aswell as the groovy testing client (5k lines, Java, Spring, JUnit4) to modernize legacy scripting converting 2 million lines of code.
+- Solo developed a TLE to Groovy transpiler (5k lines, Node) aswell as the groovy testing client (5k lines, Java, Spring, JUnit4) to modernize legacy scripting converting 2 million lines of code.
 
 **Key Technologies:** Java, GWT, Spring, ActiveMQ/JMS, Postgres, Node, Groovy, XSLT
 
