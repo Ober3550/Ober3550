@@ -52,25 +52,25 @@ Focus: Physical Simulation using High Performance Computing (C++) and Data Visua
 
 ---
 ## References
-
-**Chris Van-Voorst:** Manager at Dominos
-**Phone:** 0420 411 277
-**Chris Mazur:** Software Developer at CitrusAd
-**Phone:** 0493 224 882
-**Nicho Cornish:** Software Developer/Senior Manager at GBST
-**Phone:** 0406 682 633
+| Name | Role / Relationship | Company | Phone |
+|------|---------------------|---------|-------|
+| Chris Van-Voorst | Manager | Domino's | 0420 411 277 |
+| Chris Mazur | Software Developer | CitrusAd | 0493 224 882 |
+| Nicho Cornish | Software Developer / Senior Manager | GBST | 0406 682 633 |
 
 ---
 
 ## Core Skills
-**Languages:** C, C++ (SIMD), Rust, Go, Java, C#, TypeScript/JavaScript, Python, SQL, Lua, Groovy, MATLAB, F#, R, Bash, HTML/CSS, XSLT  
-**Backend / Services:** Node.js, Bun, REST, gRPC, Messaging (ActiveMQ, JMS), High-performance data processing  
-**Frameworks & UI:** Angular, React Native, ImGui, SDL2, SFML, P5.js, Google Web Toolkit  
-**Cloud & Infra:** AWS, GCP, Azure DevOps, Docker, Kubernetes, Terraform, Nginx, Git Pipelines, Jenkins
-**Testing & Quality:** Jest, JUnit, Cucumber, Selenium, Chromedriver, Mountebank, Imposter.sh  
-**Data & Monitoring:** PostgreSQL, MySQL, SQLite, Oracle, BigQuery, Azure App Insights  
-**Tooling & Productivity:** GitHub, Bitbucket, Jira, Confluence, Docmosis, LibreOffice  
-**Strength Themes:** Systems thinking, tooling automation, developer experience, performance profiling, schema / contract governance
+| Category | Technologies |
+|----------|-------------|
+| Languages | C, C++ (SIMD), Rust, Go, Java, C#, TypeScript/JavaScript, Python, SQL, Lua, Groovy, MATLAB, F#, R, Bash, HTML/CSS, XSLT |
+| Backend / Services | Node.js, Bun, REST, gRPC, Messaging (ActiveMQ, JMS), High-performance data processing |
+| Frameworks & UI | Angular, React Native, ImGui, SDL2, SFML, P5.js, Google Web Toolkit |
+| Cloud & Infra | AWS, GCP, Azure DevOps, Docker, Kubernetes, Terraform, Nginx, Git Pipelines, Jenkins |
+| Testing & Quality | Jest, JUnit, Cucumber, Selenium, Chromedriver, Mountebank, Imposter.sh |
+| Data & Monitoring | PostgreSQL, MySQL, SQLite, Oracle, BigQuery, Azure App Insights |
+| Tooling & Productivity | GitHub, Bitbucket, Jira, Confluence, Docmosis, LibreOffice |
+| Strength Themes | Systems thinking, tooling automation, developer experience, performance profiling, schema / contract governance |
 
 ---
 *Last updated: 2025-08-21*
