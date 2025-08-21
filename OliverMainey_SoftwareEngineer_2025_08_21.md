@@ -3,7 +3,7 @@
 **Location:** Brisbane  
 **Email:** Ober3550@gmail.com  
 **Phone:** 0407 336 755  
-**LinkedIn:** https://www.linkedin.com/in/oliver-mainey-8b700a176/  
+**LinkedIn:** https://www.linkedin.com/in/oliver-mainey/  
 
 ## Summary
 I'm a hands-on engineer that's always trying to understand the bigger picture. "Show me the incentive, and I'll show you the outcome." - Charlie Munger. I'm always looking at how to make the product better for the customer, an experience 10x better will see 1000x more usage so the less latency, the better interactivity, simpler application that does what the customer <u>needs</u> will always win. My greatest strengths are mindsets aligning with these goals; data oriented design, testing, deployment and developer tooling - because a more effective application and developer the greater value proposition to the business. There's a long history of failed IT projects because of code quantity over code quality, the AI future on the horizon seems to want to re-tread that same path and I'd encourage businesses to think about quality more.  
