@@ -6,7 +6,7 @@
 **LinkedIn:** https://www.linkedin.com/in/oliver-mainey-8b700a176/  
 
 ## Summary
-I’m a hands‑on engineer who takes un-maintained verbose areas and turns them into lean, observable systems. I blend low‑level efficiency (C/C++/SIMD, Rust, Go) with pragmatic backend delivery (TypeScript/Node, Java, PostgreSQL) and ship developer productivity tooling — testing frameworks, transpilers and deployment visibility. Every abstraction is wrong, some are useful. Every line of code is a liability, simplicity is the ideal. There's a long history of failed IT projects because of code quantity over code quality, the AI future on the horizon seems to want to re-tread that same path.
+I'm a hands-on engineer that's always trying to understand the bigger picture. "Show me the incentive, and I'll show you the outcome." - Charlie Munger. I'm always looking at how to make the product better for the customer, an experience 10x better will see 1000x more usage so the less latency, the better interactivity simpler application that does what the customer <u>needs</u> will always win. My greatest strengths are mindsets aligning with these goals; data oriented design, testing, deployment and developer tooling. Every abstraction is wrong, some are useful. Every line of code is a liability, simplicity is the goal.  
 
 ## Core Skills
 ### Portfolio - https://github.com/Ober3550  
@@ -19,7 +19,7 @@ I’m a hands‑on engineer who takes un-maintained verbose areas and turns them
 | Cloud & Infra | AWS, GCP, Azure DevOps, Docker, Kubernetes, Helm, Terraform, Nginx, Git Pipelines, Jenkins |
 | Testing & Quality | Jest, JUnit, Cucumber, Selenium, Chromedriver, Mountebank, Imposter.sh |
 | Data & Monitoring | PostgreSQL, MySQL, SQLite, Oracle, BigQuery, Azure App Insights, Google Analytics, Graphana |
-| Tooling & Productivity | GitHub, Bitbucket, Jira, Confluence, Docmosis, LibreOffice, GPT-5, Agentic AI |
+| Tooling & Productivity | GitHub, Bitbucket, Jira, Confluence, Docmosis, LibreOffice, GPT-5, Agentic AI, MCP |
 | Strength Themes | Data oriented design, performance profiling, multi-scale testing, developer productivity oriented and robust design |
 
 ## Experience
@@ -27,8 +27,8 @@ I’m a hands‑on engineer who takes un-maintained verbose areas and turns them
 *April 2023 – Present*  
 **Domain:** Global Delivery and Pickup Search - Aus/NZ, Japan, Singapore, Malaysia, Taiwan, Germany, France, Netherlands and Berlin
 
-- Implemented Taiwan Chinese address support and menu enhancements in React Native (Jest + Chromedriver) modernizing the address search UI.
-- Platform Foundation DevOps containerised Dotnet and Node services, standardised Azure DevOps pipelines, and refined Kubernetes deployment patterns and error reporting using Helm.
+- Improved the Dominos Maps support for Taiwan, Japan, Germany and France (Jest + Chromedriver) modernising the address search UI.
+- Platform Foundation DevOps containerising Dotnet and Node services, standardised Azure DevOps pipelines, and refined Kubernetes deployment patterns and error reporting using Helm.
 - Solo developed package management workflow for Imposter.sh definitions (publish, versioning, contract validation) reducing manual mock sync effort (insert metric).
 
 **Key Technologies:** Dotnet, C#, TypeScript, Node.js, React Native, Azure DevOps, Docker, Kubernetes, Bash, Python, Imposter.sh
@@ -39,7 +39,8 @@ I’m a hands‑on engineer who takes un-maintained verbose areas and turns them
 
 - Contributed to Ad Relevancy services (Go, Postgres, BigQuery) focusing on latency optimization & ranking correctness.
 - Implemented Seller ID feature (Go, Java BigQuery) for allowing multiple sellers to advertise the same product and receive correct impression and click-through reporting
-- Solo developed Imposter (Node, Docker, Kubernetes, Terraform) allowing monitoring of deployed service versions and redirecting platform traffic to local application instances for debugging while interacting with the live platform
+- Solo released across all retailers with a live system and dealing with performance issues of re-indexing 20 billion ad generation events across 2 weeks of 9am-12am
+- Solo developed Imposter (Node, Docker, Kubernetes, Terraform) allowing monitoring of deployed service versions and redirecting platform traffic to local application instances for debugging
 
 **Key Technologies:** Go, Java, Node.js, PostgreSQL, BigQuery, Docker, Kubernetes, Terraform
 
