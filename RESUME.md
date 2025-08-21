@@ -3,14 +3,12 @@
 **Email:** Ober3550@gmail.com  
 **Phone:** 0407 336 755  
 **Portfolio:** https://github.com/Ober3550  
-**Location:** (Add city / timezone)  
-**LinkedIn:** (Add if available)
+**Location:** Brisbane
+**LinkedIn:** https://www.linkedin.com/in/oliver-mainey-8b700a176/
 
 ---
 ## Professional Summary
-Results-oriented Software Engineer with experience delivering high-scale advertising, search, and e-commerce platform features across ad tech, retail, and logistics. Blend of low-level performance (C/C++/SIMD, Rust, Golang) and robust backend engineering (TypeScript/Node, Java, PostgreSQL). Proven solo ownership of internal tooling (mocking, transpilation, pipeline automation) and cross-team DevOps improvements (containers, Kubernetes, observability). Passionate about developer experience, reliability, and data-driven iteration. Seeking roles solving complex distributed or performance-sensitive problems.
-
-All abstractions are wrong, some are useful. Every line of code is a liability that the company has to maintain for potentially years. In this regard simplicity of implementation is the ideal. There is a long history of IT projects that failed because of code quantity over code quality. A small team of competent developers will out perform thousands of developers every time. This is even more true today with the age of AI. It's good at writing large quantities but the quality is lacking
+Results-oriented Software Engineer delivering high-scale advertising, search, and e-commerce platform features across ad tech, retail, and logistics. Blend of low-level performance (C/C++/SIMD, Rust, Golang) and robust backend engineering (TypeScript/Node, Java, PostgreSQL) with proven solo ownership of internal tooling (mocking, transpilation, pipeline automation) and cross-team DevOps improvements (containers, Kubernetes, observability). Driven by the principle that every abstraction and line of code incurs long-term maintenance cost—favoring lean, high-quality, observable solutions over unnecessary complexity, especially in an era of abundant but uneven AI‑generated code. Passionate about developer experience, reliability, and data-driven iteration; seeking roles solving complex distributed or performance-sensitive problems.
 
 ---
 ## Professional Experience
