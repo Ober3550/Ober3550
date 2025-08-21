@@ -1,9 +1,9 @@
 # Oliver Mainey
 
-**Email:** Ober3550@gmail.com  
-**Phone:** 0407 336 755  
-**Portfolio:** https://github.com/Ober3550  
 **Location:** Brisbane  
+**Phone:** 0407 336 755  
+**Email:** Ober3550@gmail.com  
+**Portfolio:** https://github.com/Ober3550  
 **LinkedIn:** https://www.linkedin.com/in/oliver-mainey-8b700a176/  
 
 ## Professional Summary
