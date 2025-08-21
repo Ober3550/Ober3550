@@ -30,7 +30,7 @@ I’m a hands‑on engineer who takes un-maintained verbose areas and turns them
 
 **Key Technologies:** Go, Java, Node.js, PostgreSQL, BigQuery, Docker, Kubernetes, Terraform
 
-### GBST – Graduate Software Developer  
+### GBST – Graduate Software Engineer  
 *Jan 2021 – March 2022*  
 **Domain:** Asset Management Platform (Pension Funds / Banks)
 
