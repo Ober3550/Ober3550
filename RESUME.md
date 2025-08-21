@@ -6,11 +6,9 @@
 **Location:** Brisbane  
 **LinkedIn:** https://www.linkedin.com/in/oliver-mainey-8b700a176/  
 
----
 ## Professional Summary
-I’m a hands-on Software Engineer who likes taking messy performance, reliability, or “nobody owns this” platform problems and turning them into lean, observable systems. I bridge low-level efficiency work (C/C++/SIMD, Rust, Go) with practical backend product delivery (TypeScript/Node, Java, PostgreSQL), and I’ve repeatedly shipped tooling that unblocks teams testing frameworks, transpilers, pipeline automation, container standardisation, and better visibility into runtime behaviour. I care about long-term cost of code: every abstraction is a maintenance liability, so I bias toward simple, testable, well‑measured solutions over clever layers—especially as AI accelerates code quantity more than code quality. I enjoy pairing with stakeholders, instrumenting before optimising, and leaving systems, docs, and pipelines simpler than I found them. Looking to tackle complex distributed or performance‑sensitive problems where thoughtful engineering and developer experience meaningfully move the needle.
+I’m a hands‑on engineer who takes un-maintained verbose areas and turns them into lean, observable systems. I blend low‑level efficiency (C/C++/SIMD, Rust, Go) with pragmatic backend delivery (TypeScript/Node, Java, PostgreSQL) and ship developer productivity tooling — testing frameworks, transpilers and deployment visibility. Every abstraction is wrong, some are useful. Every line of code is a liability, simplicity is the ideal. There's a long history of failed IT projects because of code quantity over code quality, the AI future on the horizon seems to want to re-tread that same path.
 
----
 ## Professional Experience
 ### Domino’s – Software Engineer  
 *April 2023 – Present*  
@@ -43,14 +41,12 @@ I’m a hands-on Software Engineer who likes taking messy performance, reliabili
 
 **Key Technologies:** Java, GWT, Spring, ActiveMQ/JMS, Postgres, Groovy, XSLT
 
----
 ## Education
 **Queensland University of Technology**  
 Bachelor of Information Technology (Distinction)  
 Majors: Computer Science & Simulation Science  
 Focus: Physical Simulation using High Performance Computing (C++) and Data Visualization (Matlab, MatPlotLib, OpenGL)
 
----
 ## References
 Contact details will be given at request since this resume is public.
 
@@ -59,8 +55,6 @@ Contact details will be given at request since this resume is public.
 | Chris Van-Voorst | Manager | Domino's |
 | Chris Mazur | Software Developer | CitrusAd |
 | Nicho Cornish | Software Developer / Senior Manager | GBST |
-
----
 
 ## Core Skills
 
@@ -75,5 +69,4 @@ Contact details will be given at request since this resume is public.
 | Tooling & Productivity | GitHub, Bitbucket, Jira, Confluence, Docmosis, LibreOffice |
 | Strength Themes | Systems thinking, tooling automation, developer experience, performance profiling, schema / contract governance |
 
----
 *Last updated: 2025-08-21*
