@@ -52,11 +52,12 @@ Focus: Physical Simulation using High Performance Computing (C++) and Data Visua
 
 ---
 ## References
-| Name | Role / Relationship | Company | Phone |
-|------|---------------------|---------|-------|
-| Chris Van-Voorst | Manager | Domino's | at request |
-| Chris Mazur | Software Developer | CitrusAd | at request |
-| Nicho Cornish | Software Developer / Senior Manager | GBST | at request |
+Contact details will be given at request since this resume is public.
+| Name | Role / Relationship | Company |
+|------|---------------------|---------|
+| Chris Van-Voorst | Manager | Domino's |
+| Chris Mazur | Software Developer | CitrusAd |
+| Nicho Cornish | Software Developer / Senior Manager | GBST |
 
 ---
 
