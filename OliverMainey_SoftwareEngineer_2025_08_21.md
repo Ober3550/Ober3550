@@ -6,7 +6,7 @@
 **LinkedIn:** https://www.linkedin.com/in/oliver-mainey-8b700a176/  
 
 ## Summary
-I'm a hands-on engineer that's always trying to understand the bigger picture. "Show me the incentive, and I'll show you the outcome." - Charlie Munger. I'm always looking at how to make the product better for the customer, an experience 10x better will see 1000x more usage so the less latency, the better interactivity simpler application that does what the customer <u>needs</u> will always win. My greatest strengths are mindsets aligning with these goals; data oriented design, testing, deployment and developer tooling. Every abstraction is wrong, some are useful. Every line of code is a liability, simplicity is the goal.  
+I'm a hands-on engineer that's always trying to understand the bigger picture. "Show me the incentive, and I'll show you the outcome." - Charlie Munger. I'm always looking at how to make the product better for the customer, an experience 10x better will see 1000x more usage so the less latency, the better interactivity simpler application that does what the customer <u>needs</u> will always win. My greatest strengths are mindsets aligning with these goals; data oriented design, testing, deployment and developer tooling. Every abstraction is wrong, some are useful. Every line of code is a liability, simplicity is the goal. There's a long history of failed IT projects because of code quantity over code quality, the AI future on the horizon seems to want to re-tread that same path and I'd encourage businesses to think about quality more.  
 
 ## Core Skills
 ### Portfolio - https://github.com/Ober3550  
@@ -27,9 +27,10 @@ I'm a hands-on engineer that's always trying to understand the bigger picture. "
 *April 2023 – Present*  
 **Domain:** Global Delivery and Pickup Search - Aus/NZ, Japan, Singapore, Malaysia, Taiwan, Germany, France, Netherlands and Berlin
 
-- Improved the Dominos Maps support for Taiwan, Japan, Germany and France (Jest + Chromedriver) modernising the address search UI.
+- Improved the Dominos Maps support (React Native, Jest, Chromedriver) modernising the UI.
+- Extended various backend microservices (C#/Dotnet, Swagger)
+- Solo developed package management workflow for Imposter.sh definitions.
 - Platform Foundation DevOps containerising Dotnet and Node services, standardised Azure DevOps pipelines, and refined Kubernetes deployment patterns and error reporting using Helm.
-- Solo developed package management workflow for Imposter.sh definitions (publish, versioning, contract validation) reducing manual mock sync effort (insert metric).
 
 **Key Technologies:** Dotnet, C#, TypeScript, Node.js, React Native, Azure DevOps, Docker, Kubernetes, Bash, Python, Imposter.sh
 
@@ -49,7 +50,7 @@ I'm a hands-on engineer that's always trying to understand the bigger picture. "
 **Domain:** GBST provides asset management software for NAB, Westpack, UniSuper and more
 
 - Enhanced Retail Cash Accounts module (Java, GWT, Postgres) extending transactional capabilities outside the private banking and pension sector.
-- Supported CHESS to CSP integration with message-driven architecture (ActiveMQ, JMS) improving settlement data flow.
+- Supported CHESS to CSP integration with message-driven architecture (ActiveMQ, JMS).
 - Solo developed a TLE to Groovy transpiler (5k lines, Node) aswell as the groovy testing client (5k lines, Java, Spring, JUnit4) to modernize legacy scripting converting 2 million lines of code.
 
 **Key Technologies:** Java, GWT, Spring, ActiveMQ/JMS, Postgres, Node, Groovy, XSLT
