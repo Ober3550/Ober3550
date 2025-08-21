@@ -20,7 +20,7 @@ I’m a hands‑on engineer who takes un-maintained verbose areas and turns them
 | Testing & Quality | Jest, JUnit, Cucumber, Selenium, Chromedriver, Mountebank, Imposter.sh |
 | Data & Monitoring | PostgreSQL, MySQL, SQLite, Oracle, BigQuery, Azure App Insights, Google Analytics, Graphana |
 | Tooling & Productivity | GitHub, Bitbucket, Jira, Confluence, Docmosis, LibreOffice, GPT-5, Agentic AI |
-| Strength Themes | Systems thinking, tooling automation, developer experience, performance profiling, schema / contract governance |
+| Strength Themes | Data oriented design, performance profiling, multi-scale testing, developer productivity oriented and robust design |
 
 ## Experience
 ### Domino’s – Software Engineer  
