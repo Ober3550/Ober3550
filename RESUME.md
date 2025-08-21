@@ -54,9 +54,9 @@ Focus: Physical Simulation using High Performance Computing (C++) and Data Visua
 ## References
 | Name | Role / Relationship | Company | Phone |
 |------|---------------------|---------|-------|
-| Chris Van-Voorst | Manager | Domino's | 0420 411 277 |
-| Chris Mazur | Software Developer | CitrusAd | 0493 224 882 |
-| Nicho Cornish | Software Developer / Senior Manager | GBST | 0406 682 633 |
+| Chris Van-Voorst | Manager | Domino's | at request |
+| Chris Mazur | Software Developer | CitrusAd | at request |
+| Nicho Cornish | Software Developer / Senior Manager | GBST | at request |
 
 ---
 
