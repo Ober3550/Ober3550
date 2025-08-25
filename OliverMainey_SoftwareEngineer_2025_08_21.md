@@ -18,7 +18,7 @@ I'm a hands-on engineer that's always trying to understand the bigger picture. "
 | Frameworks & UI | Angular, React Native, ImGui, SDL2, SFML, P5.js, Google Web Toolkit |
 | Cloud & Infra | AWS, GCP, Azure DevOps, Docker, Kubernetes, Helm, Terraform, Nginx, Git Pipelines, Jenkins |
 | Testing & Quality | Jest, JUnit, Cucumber, Selenium, Chromedriver, Mountebank, Imposter.sh |
-| Data & Monitoring | PostgreSQL, MySQL, SQLite, Oracle, BigQuery, Azure App Insights, Google Analytics, Graphana |
+| Data & Monitoring | PostgreSQL, MySQL, SQLite, Oracle, BigQuery, Azure App Insights, Google Analytics, Grafana |
 | Tooling & Productivity | GitHub, Bitbucket, Jira, Confluence, Docmosis, LibreOffice, GPT-5, Agentic AI, MCP |
 | Strength Themes | Data oriented design, performance profiling, multi-scale testing, developer productivity oriented and robust design |
 
