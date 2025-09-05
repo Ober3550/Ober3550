@@ -39,8 +39,8 @@ I'm a hands-on engineer that's always trying to understand the bigger picture. "
 **Platform Scale:** 500M ad requests/day serving Coles, Woolworths, Target and 100+ others satisfying the ad campaigns of 3.5k brands
 
 - Contributed to Ad Relevancy services (Go, Postgres, BigQuery) focusing on latency optimization & ranking correctness.
-- Implemented Seller ID feature (Go, Java BigQuery) for allowing multiple sellers to advertise the same product and receive correct impression and click-through reporting
-- Solo released across all retailers with a live system and dealing with performance issues of re-indexing 20 billion ad generation events across 2 weeks of 9am-12am
+- Implemented Seller ID feature (Go, Java, BigQuery) for allowing multiple sellers to advertise the same product and receive correct impression and click-through reporting
+- Solo released across all retailers with a live system and dealt with performance issues of re-indexing 20 billion ad generation events across 2 weeks of 9am-12am
 - Solo developed Imposter (Node, Docker, Kubernetes, Terraform) allowing monitoring of deployed service versions and redirecting platform traffic to local application instances for debugging
 
 **Key Technologies:** Go, Java, Node.js, PostgreSQL, BigQuery, Docker, Kubernetes, Terraform
