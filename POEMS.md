@@ -1,7 +1,7 @@
 # Some Poems
-### Hopefully I can clean them up and make them actually rhyme eventually ':D
+## Hopefully I can clean them up and make them actually rhyme eventually ':D
 
-**Reflections**  
+### Reflections
 i try and try and try,  
 i often fool myself into thinking,  
 the person infront of me,  
@@ -15,7 +15,7 @@ then I relise,
 that's just my reflection.  
   
 
-**Attachment**  
+### Attachment
 i have this belief,  
 the more i love,  
 the more i will be loved.  
