@@ -21,7 +21,8 @@ the more i love,
 the more i will be loved.  
   
 i'm always thinking,  
-how can i do better, how can i be better,  
+how can i do better,  
+how can i be better,  
 so the next person doesn't leave me?  
   
 should i be more selfless?  
