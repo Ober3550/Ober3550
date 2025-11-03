@@ -30,7 +30,9 @@ how little,
 do i have?
 over whether i 'deserve' love?  
   
+<div align="right">
 do i have none at all?  
+</div>
 of course not.  
 are there any guarantees?  
 not at all.  
