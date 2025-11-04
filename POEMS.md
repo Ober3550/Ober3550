@@ -33,3 +33,32 @@ to overwhelm someone,
 to make them feel as though their love is inadequate?  
 like you're bringing the sun,  
 while they're bringing a candle.  
+
+
+
+### moments   
+when you're in the midst of it,  
+you don't notice them.  
+then you're at the end,  
+watching them drift off.  
+  
+a moment sparks joy in you,  
+you habitually go to share it,  
+you realise,  
+there is noone to send it to.  
+  
+nearest the end of your past,  
+many moments are filled with thoughts of them,  
+as time grows,  
+less and less moments are spent back then.  
+  
+months later,  
+a moment might strike you,  
+"this is when we planned to be together"  
+what was once a now,  
+is now a never.  
+  
+a year later you realise,  
+there have been more moments,  
+between now and then,  
+than the pasts starts and ends.  
