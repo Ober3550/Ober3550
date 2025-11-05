@@ -40,10 +40,10 @@ while they're bringing a candle.
 when you're in the midst of it,  
 you don't notice them.  
 then you're at the end,  
-watching them drift off.  
+watching now fade into then.  
   
 a moment sparks joy in you,  
-you habitually go to share it,  
+you go to share it,  
 you realise,  
 there is noone to send it to.  
   
