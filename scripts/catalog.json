@@ -1,0 +1,2904 @@
+{
+  "last_synced": "2026-10-14T12:58:02.744000+00:00",
+  "categories": [
+    "Space",
+    "High Performance Computing",
+    "Low Performance Computing",
+    "Artifical Intelligence",
+    "Computer Science",
+    "Simulation Science",
+    "Science & Engineering",
+    "Computing Hardware",
+    "Corporate Secrets",
+    "Cybersecurity",
+    "Fun Projects"
+  ],
+  "videos": [
+    {
+      "id": "_qwLHlVjRyw",
+      "t": null,
+      "title": "SpaceX - Starship SN8 High Altitude Flight Test",
+      "category": "Space"
+    },
+    {
+      "id": "egHxiX40eJY",
+      "t": null,
+      "title": "Scott Manley - Starship SN8 Spectacular Flight",
+      "category": "Space"
+    },
+    {
+      "id": "ODY6JWzS8WU",
+      "t": null,
+      "title": "SpaceX - Starship SN10 High Altitude Flight Test",
+      "category": "Space"
+    },
+    {
+      "id": "-1wcilQ58hI",
+      "t": null,
+      "title": "SpaceX - Starship Flight Test",
+      "category": "Space"
+    },
+    {
+      "id": "t705r8ICkRw",
+      "t": null,
+      "title": "Everyday Astronaut - SpaceX Tour with Elon Part 1",
+      "category": "Space"
+    },
+    {
+      "id": "SA8ZBJWo73E",
+      "t": null,
+      "title": "Everyday Astronaut - SpaceX Tour with Elon Part 2",
+      "category": "Space"
+    },
+    {
+      "id": "9Zlnbs-NBUI",
+      "t": null,
+      "title": "Everyday Astronaut - SpaceX Tour with Elon Part 3",
+      "category": "Space"
+    },
+    {
+      "id": "hIPLmZK3C1Y",
+      "t": null,
+      "title": "Everyday Astronaut - SpaceX Elon explains the Merlin Engine",
+      "category": "Space"
+    },
+    {
+      "id": "E7MQb9Y4FAE",
+      "t": null,
+      "title": "Everyday Astronaut - SpaceX Elon explains the Raptor Engine",
+      "category": "Space"
+    },
+    {
+      "id": "ALiNmzoo1_E",
+      "t": null,
+      "title": "Everyday Astronaut - SpaceX Raptor Engine Development Upgrades",
+      "category": "Space"
+    },
+    {
+      "id": "AgqZMK22LEk",
+      "t": null,
+      "title": "Everyday Astronaut - SpaceX Starship vs N1 Is Starship doomed to repeat history?",
+      "category": "Space"
+    },
+    {
+      "id": "VA_8HPsua0c",
+      "t": null,
+      "title": "RocketLab - Lift Off!",
+      "category": "Space"
+    },
+    {
+      "id": "aXoXDp3j850",
+      "t": null,
+      "title": "Everyday Astronaut - A chat with Rocket Lab's CEO Peter Beck about Neutron",
+      "category": "Space"
+    },
+    {
+      "id": "gcuOSXjevGs",
+      "t": null,
+      "title": "Everyday Astronaut - Talking about Rocket Lab's Neutron with Peter Beck",
+      "category": "Space"
+    },
+    {
+      "id": "Y-xyXDiC92s",
+      "t": null,
+      "title": "Everyday Astronaut - The Entire Soviet Rocket Engine Family Tree",
+      "category": "Space"
+    },
+    {
+      "id": "Owji-ukVt9M",
+      "t": null,
+      "title": "Everyday Astronaut - Rocket engine cycles: How do you power a rocket engine?",
+      "category": "Space"
+    },
+    {
+      "id": "EY8nbSwjtEY",
+      "t": null,
+      "title": "Everyday Astronaut - How Stoke Space's Unique Rocket Works",
+      "category": "Space"
+    },
+    {
+      "id": "ac-V8mO0lWo",
+      "t": null,
+      "title": "Everyday Astronaut - Tour Firefly Aerospace's Factory and Test Site with their CEO Tom Markusic",
+      "category": "Space"
+    },
+    {
+      "id": "bAUVCn_jw5I",
+      "t": null,
+      "title": "Everyday Astronaut - Why Starting A Rocket Engine Is So Hard",
+      "category": "Space"
+    },
+    {
+      "id": "xE1A6T1cycU",
+      "t": null,
+      "title": "Everyday Astronaut - Orbits vs Sub-Orbit",
+      "category": "Space"
+    },
+    {
+      "id": "8tRZY98EGYk",
+      "t": null,
+      "title": "Entropian - Realistic interstellar journey",
+      "category": "Space"
+    },
+    {
+      "id": "fVrUNuADkHI",
+      "t": null,
+      "title": "Rational Animations - How to Take Over the Universe (in Three Easy Steps)",
+      "category": "Space"
+    },
+    {
+      "id": "l3whaviTqqg",
+      "t": null,
+      "title": "Rational Animations - Grabby Aliens",
+      "category": "Space"
+    },
+    {
+      "id": "cLXQnnVWJGo",
+      "t": null,
+      "title": "Rational Animations - Sorting Pebbles Into Correct Heaps",
+      "category": "Space"
+    },
+    {
+      "id": "q9Figerh89g",
+      "t": null,
+      "title": "Rational Animations - The Power of Intelligence",
+      "category": "Space"
+    },
+    {
+      "id": "3K25VPdbAjU",
+      "t": null,
+      "title": "Rational Animations - Everything might change forever this century (or we'll go extinct)",
+      "category": "Space"
+    },
+    {
+      "id": "vvehj0KvzK8",
+      "t": null,
+      "title": "Rational Animations - Longtermism: an idea that could save 100 billion trillion lives",
+      "category": "Space"
+    },
+    {
+      "id": "_uV3wP5z51U",
+      "t": null,
+      "title": "Rational Animations - Can we make the future a million years from now go better?",
+      "category": "Space"
+    },
+    {
+      "id": "uZN5xjoS6TU",
+      "t": null,
+      "title": "David Kipping - Alien Civilisations and Habitable Worlds",
+      "category": "Space"
+    },
+    {
+      "id": "SSNkuqD_ZbQ",
+      "t": null,
+      "title": "David Kipping - Why Starship Could Transform Astronomy",
+      "category": "Space"
+    },
+    {
+      "id": "3lwlNWMl86M",
+      "t": null,
+      "title": "David Kipping - How Game Theory Can Help Us Find Aliens",
+      "category": "Space"
+    },
+    {
+      "id": "-CsLmoiKugE",
+      "t": null,
+      "title": "David Kipping - The problem with \"The Rare Earth Hypothesis\"",
+      "category": "Space"
+    },
+    {
+      "id": "DK9LBK3FABs",
+      "t": null,
+      "title": "David Kipping - The First Civilization To Emerge in the Galaxy",
+      "category": "Space"
+    },
+    {
+      "id": "4I51F8xYr44",
+      "t": null,
+      "title": "David Kipping - What if Intelligence Re-emerges?",
+      "category": "Space"
+    },
+    {
+      "id": "uZRDONE4zng",
+      "t": null,
+      "title": "David Kipping - Why don't we live around a red dwarf when they're the most common type of star?",
+      "category": "Space"
+    },
+    {
+      "id": "LrrNu_m_9K4",
+      "t": null,
+      "title": "David Kipping - Why we may be surrounded by older alien civilizations",
+      "category": "Space"
+    },
+    {
+      "id": "hmkyF1tNFc4",
+      "t": null,
+      "title": "Dr Becky - JWST has found MASSIVE galaxies in the early Universe",
+      "category": "Space"
+    },
+    {
+      "id": "BIgQpXObjFI",
+      "t": null,
+      "title": "Dr Becky - JWST's Successor The Carl Sagan Observatory",
+      "category": "Space"
+    },
+    {
+      "id": "tD5NrevFtbU",
+      "t": null,
+      "title": "Mollyrocket - Clean code horrible performance",
+      "category": "High Performance Computing"
+    },
+    {
+      "id": "hxM8QmyZXtg",
+      "t": null,
+      "title": "MollyRocket - How fast should an unoptimized terminal run?",
+      "category": "High Performance Computing"
+    },
+    {
+      "id": "De0Am_QcZiQ",
+      "t": null,
+      "title": "Johnathan Blow - Making Game Programming Less Terrible",
+      "category": "High Performance Computing"
+    },
+    {
+      "id": "pW-SOdj4Kkk",
+      "t": null,
+      "title": "Johnathan Blow - Preventing the Collapse of Civilization",
+      "category": "High Performance Computing"
+    },
+    {
+      "id": "OHZwYYW9koI",
+      "t": 2786,
+      "title": "Jonathan Blow - Jai Language Reflection to Define Custom Compile Time Errors",
+      "category": "High Performance Computing"
+    },
+    {
+      "id": "Nb2tebYAaOA",
+      "t": null,
+      "title": "Jim Keller - Lex Fridman 1 Moore's Law",
+      "category": "High Performance Computing"
+    },
+    {
+      "id": "G4hL5Om4IJ4",
+      "t": null,
+      "title": "Jim Keller - Lex Fridman 2 The Future of Computing",
+      "category": "High Performance Computing"
+    },
+    {
+      "id": "oIG9ztQw2Gc",
+      "t": null,
+      "title": "Jim Keller - Moore's Law is Not Dead",
+      "category": "High Performance Computing"
+    },
+    {
+      "id": "gzgyksS5pX8",
+      "t": null,
+      "title": "Jim Keller - Making computers faster by 1,000-10,000x",
+      "category": "High Performance Computing"
+    },
+    {
+      "id": "rX0ItVEVjHc",
+      "t": null,
+      "title": "Unity - CPPCon 2014 Mike Acton Data Oriented Design",
+      "category": "High Performance Computing"
+    },
+    {
+      "id": "0_Byw9UMn9g",
+      "t": null,
+      "title": "Unity - Data Oriented Design for Maximum Performance",
+      "category": "High Performance Computing"
+    },
+    {
+      "id": "eviSykqSUUw",
+      "t": null,
+      "title": "Unity - A Deep Dive into Nanite Virtualized Geometry",
+      "category": "High Performance Computing"
+    },
+    {
+      "id": "AQERQd4RreA",
+      "t": null,
+      "title": "Lingon Studios - Unity Particle Sim Assembly vs C++ vs C#",
+      "category": "High Performance Computing"
+    },
+    {
+      "id": "7VHG6Y2QmtM",
+      "t": 770,
+      "title": "Strager - Big O lies about performance for small n",
+      "category": "High Performance Computing"
+    },
+    {
+      "id": "DMQ_HcNSOAI",
+      "t": null,
+      "title": "Strager - All possible optimization options",
+      "category": "High Performance Computing"
+    },
+    {
+      "id": "4KtotxNAwME",
+      "t": null,
+      "title": "Greg Johnston - Performance differences between web frameworks",
+      "category": "High Performance Computing"
+    },
+    {
+      "id": "8uAW5FQtcvE",
+      "t": null,
+      "title": "David Gross - Trading at light speed",
+      "category": "High Performance Computing"
+    },
+    {
+      "id": "sZxjuT1kUd0",
+      "t": null,
+      "title": "Dr Trefor Bazett - Fastest matrix multiply",
+      "category": "High Performance Computing"
+    },
+    {
+      "id": "ssDBqQ5f5_0",
+      "t": null,
+      "title": "Low Level Learning - The performance of division",
+      "category": "High Performance Computing"
+    },
+    {
+      "id": "i2gWDOgg50k",
+      "t": null,
+      "title": "UnitOfTime - Golang vs Rust physics sim performance",
+      "category": "High Performance Computing"
+    },
+    {
+      "id": "CbQVR4v5PZw",
+      "t": null,
+      "title": "ThePrimeagen - Zig versus Rust",
+      "category": "High Performance Computing"
+    },
+    {
+      "id": "ip51Y5v3WLk",
+      "t": null,
+      "title": "ThePrimeagen - How to write optimized javascript",
+      "category": "High Performance Computing"
+    },
+    {
+      "id": "P8ltWIqDPzo",
+      "t": null,
+      "title": "Lars Bak & Kasper Lund - How to be a better programmer and how JavaScript V8 is Fast",
+      "category": "High Performance Computing"
+    },
+    {
+      "id": "pQPqhZRUz3U",
+      "t": null,
+      "title": "SimonDev - Optimizing javascript to be 8x faster",
+      "category": "High Performance Computing"
+    },
+    {
+      "id": "r-TLSBdHe1A",
+      "t": null,
+      "title": "Emery Berger - How to evaluate performance across microarchitectures",
+      "category": "High Performance Computing"
+    },
+    {
+      "id": "uzF4u9KgUWI",
+      "t": null,
+      "title": "CPPCon - Jason Turner Practical Performance Practices",
+      "category": "High Performance Computing"
+    },
+    {
+      "id": "zBkNBP00wJE",
+      "t": null,
+      "title": "CPPCon - Jason Turner Rich Code for Tiny Computers",
+      "category": "High Performance Computing"
+    },
+    {
+      "id": "kIoZDUd5DKw",
+      "t": null,
+      "title": "CPPCon - Matt Godbolt Compiler Explorer",
+      "category": "High Performance Computing"
+    },
+    {
+      "id": "mdPeXJ0eiGc",
+      "t": null,
+      "title": "CPPCon - Nicholas Guillemot Design Patterns for Low Level Realtime Rendering",
+      "category": "High Performance Computing"
+    },
+    {
+      "id": "JPQWQfDhICA",
+      "t": null,
+      "title": "CPPCon - Everything you ever wanted to know about dlls",
+      "category": "High Performance Computing"
+    },
+    {
+      "id": "kPR8h4-qZdk",
+      "t": null,
+      "title": "CPPCon - Facebook Nicholas Ormrod Small string optimizations",
+      "category": "High Performance Computing"
+    },
+    {
+      "id": "ncHmEUmJZf4",
+      "t": null,
+      "title": "CPPCon - Google Matt Kulukundis Designing a flat hash table",
+      "category": "High Performance Computing"
+    },
+    {
+      "id": "p9nH2vZ2mNo",
+      "t": null,
+      "title": "CPPCon - Google Teresa Johnson Thin Link Time Optimization",
+      "category": "High Performance Computing"
+    },
+    {
+      "id": "NH1Tta7purM",
+      "t": null,
+      "title": "CPPCon - High performance trading systems in C++",
+      "category": "High Performance Computing"
+    },
+    {
+      "id": "8khWb-Bhhvs",
+      "t": null,
+      "title": "CPPCon - Jefferson Amstutz Compute more in less time using SIMD",
+      "category": "High Performance Computing"
+    },
+    {
+      "id": "FqR5vESuKe0",
+      "t": null,
+      "title": "ByteByteGo - Hardware Latency Numbers Programmers should know",
+      "category": "High Performance Computing"
+    },
+    {
+      "id": "Y37WiO55bxs",
+      "t": null,
+      "title": "Matt Parker - Turning a computational problem from 30 days to under 100ms",
+      "category": "High Performance Computing"
+    },
+    {
+      "id": "mOSirVeP5lo",
+      "t": null,
+      "title": "The Cherno - Optimizing a C++ Game Engine with NVIDIA pipelines",
+      "category": "High Performance Computing"
+    },
+    {
+      "id": "x9Scb5Mku1g",
+      "t": null,
+      "title": "javidx9 - C++ SIMD Intrinsics",
+      "category": "High Performance Computing"
+    },
+    {
+      "id": "bVJ-mWWL7cE",
+      "t": null,
+      "title": "Creel - Branchless Programming",
+      "category": "High Performance Computing"
+    },
+    {
+      "id": "14CPI1qBd7o",
+      "t": null,
+      "title": "Leddoo - Why my scripting language is already faster than python",
+      "category": "Low Performance Computing"
+    },
+    {
+      "id": "kESmRMDHZZk",
+      "t": null,
+      "title": "Leddoo - How Python Works",
+      "category": "Low Performance Computing"
+    },
+    {
+      "id": "cMMAGIefZuM",
+      "t": null,
+      "title": "Leddoo - Are stack based vms really slower?",
+      "category": "Low Performance Computing"
+    },
+    {
+      "id": "Qgevy75co8c",
+      "t": null,
+      "title": "mCoding - The fastest way to loop in Python, an unfortunate truth",
+      "category": "Low Performance Computing"
+    },
+    {
+      "id": "w8yWXqWQYmU",
+      "t": null,
+      "title": "Samson Zhang - Neural Network Fundamentals",
+      "category": "Artifical Intelligence"
+    },
+    {
+      "id": "fCLI6kxFFTE",
+      "t": null,
+      "title": "Lex Fridman - Playing guitar in a self driving car",
+      "category": "Artifical Intelligence"
+    },
+    {
+      "id": "u16msbVHNWk",
+      "t": null,
+      "title": "George Hotz - The past, future and present",
+      "category": "Artifical Intelligence"
+    },
+    {
+      "id": "dNrTrx42DGQ",
+      "t": null,
+      "title": "George Hotz - Lex Fridman",
+      "category": "Artifical Intelligence"
+    },
+    {
+      "id": "K5iDUZPx60E",
+      "t": null,
+      "title": "George Hotz - Tiny corp Petaflops to the People",
+      "category": "Artifical Intelligence"
+    },
+    {
+      "id": "AjkiBRNVeV8",
+      "t": null,
+      "title": "2 Minute Papers - Nvidia raytacing improvements with AI",
+      "category": "Artifical Intelligence"
+    },
+    {
+      "id": "qbIk7-JPB2c",
+      "t": null,
+      "title": "Sebastian Bubeck - Sparks of AGI: early experiments with GPT-4",
+      "category": "Artifical Intelligence"
+    },
+    {
+      "id": "5SgJKZLBrmg",
+      "t": null,
+      "title": "Ai Explained - Using reflection to improve GPT-4 Results",
+      "category": "Artifical Intelligence"
+    },
+    {
+      "id": "Mqg3aTGNxZ0",
+      "t": null,
+      "title": "Ai Explained - Reading the Sparks of AGI paper",
+      "category": "Artifical Intelligence"
+    },
+    {
+      "id": "L_Guz73e6fw",
+      "t": null,
+      "title": "Sam Altman - Lex Fridman the future of AI",
+      "category": "Artifical Intelligence"
+    },
+    {
+      "id": "ZlApnysONmQ",
+      "t": null,
+      "title": "Tesla - FSD v11",
+      "category": "Artifical Intelligence"
+    },
+    {
+      "id": "ol5hwjr48Q4",
+      "t": null,
+      "title": "Tesla - Scaling compute for the next generation of AI",
+      "category": "Artifical Intelligence"
+    },
+    {
+      "id": "wvsE8jm1GzE",
+      "t": null,
+      "title": "Google - Visalising higher dimensional space",
+      "category": "Artifical Intelligence"
+    },
+    {
+      "id": "1CIpzeNxIhU",
+      "t": null,
+      "title": "Computerphile - How Stable Diffusion Works",
+      "category": "Artifical Intelligence"
+    },
+    {
+      "id": "gQddtTdmG_8",
+      "t": null,
+      "title": "Robert Miles - Vectorizig Words (Word Embeddings)",
+      "category": "Artifical Intelligence"
+    },
+    {
+      "id": "zkbPdEHEyEI",
+      "t": null,
+      "title": "Robert Miles - Inner alignment",
+      "category": "Artifical Intelligence"
+    },
+    {
+      "id": "YreDYmXTYi4",
+      "t": 2160,
+      "title": "Neuralink - Using Artificial intelligence to analyse biological intelligence",
+      "category": "Artifical Intelligence"
+    },
+    {
+      "id": "PqbB07n_uQ4",
+      "t": null,
+      "title": "What it's like to be a coputer: An Interview with GPT-3",
+      "category": "Artifical Intelligence"
+    },
+    {
+      "id": "17KCHwOwgms",
+      "t": null,
+      "title": "Dan Abramov - Composability in software design",
+      "category": "Computer Science"
+    },
+    {
+      "id": "d7KHAVaX_Rs",
+      "t": null,
+      "title": "Computerphile - Just In Time Compilation",
+      "category": "Computer Science"
+    },
+    {
+      "id": "1jOJl8gRPyQ",
+      "t": 510,
+      "title": "Computerphile - ARM Processor Sowing the Seeds of Success",
+      "category": "Computer Science"
+    },
+    {
+      "id": "kmAc1nDizu0",
+      "t": null,
+      "title": "Mutual Information - The Boundary of Computability",
+      "category": "Computer Science"
+    },
+    {
+      "id": "GgPdRKqcRTE",
+      "t": null,
+      "title": "Steve Mould - Playing tic tac toe against dna",
+      "category": "Computer Science"
+    },
+    {
+      "id": "9X4frIQo7x0",
+      "t": null,
+      "title": "Breaking Taps - How Silicon Lithography is used to make accelerometers",
+      "category": "Computer Science"
+    },
+    {
+      "id": "jr1EBaLkjfc",
+      "t": null,
+      "title": "Code to the moon - V programming language",
+      "category": "Computer Science"
+    },
+    {
+      "id": "EIyjaCwbYXQ",
+      "t": null,
+      "title": "The Last Theory - The reducability of the world to computation",
+      "category": "Computer Science"
+    },
+    {
+      "id": "Ov0EetgMws4",
+      "t": null,
+      "title": "Physics for the birds - James Webb Space Telescope Travelling salesman problem",
+      "category": "Computer Science"
+    },
+    {
+      "id": "NEkegQanD2I",
+      "t": null,
+      "title": "Kathy Loves Physics and History - Who invented 3 phase electricity",
+      "category": "Computer Science"
+    },
+    {
+      "id": "CFRhGnuXG-4",
+      "t": null,
+      "title": "Code Aesthetic - Why you shouldn't nest your code",
+      "category": "Computer Science"
+    },
+    {
+      "id": "aJt2POa9oCM",
+      "t": null,
+      "title": "JDH - The usefulness of C++ compile time reflection",
+      "category": "Computer Science"
+    },
+    {
+      "id": "GiDsjIBOVoA",
+      "t": null,
+      "title": "Reducible - Christofides Travelling Salesman Solution",
+      "category": "Computer Science"
+    },
+    {
+      "id": "h7apO7q16V0",
+      "t": null,
+      "title": "Reducible - The Fast Fourier Transform",
+      "category": "Computer Science"
+    },
+    {
+      "id": "r6sGWTCMz2k",
+      "t": null,
+      "title": "3Blue1Brown - Fourier: From heat flow to circle drawings",
+      "category": "Computer Science"
+    },
+    {
+      "id": "jLqTXkFtEH0",
+      "t": null,
+      "title": "Google Chrome Developers - Which key was  pressed?",
+      "category": "Computer Science"
+    },
+    {
+      "id": "EFUYNoFRHQI",
+      "t": null,
+      "title": "Reducible - How PNG Works: Compromising Speed for Quality",
+      "category": "Computer Science"
+    },
+    {
+      "id": "lxzGraohijU",
+      "t": null,
+      "title": "Two Minute Papers - 5 Crazy Simulations that were previously impossible",
+      "category": "Computer Science"
+    },
+    {
+      "id": "SxIkQt04WCo",
+      "t": null,
+      "title": "Two Minute Papers - How can we simulate water droplets?",
+      "category": "Computer Science"
+    },
+    {
+      "id": "fnFj3dOKcIQ",
+      "t": null,
+      "title": "Brian Bucklew - Dungeon Generation via Wave Function Collapse",
+      "category": "Computer Science"
+    },
+    {
+      "id": "0bcZb-SsnrA",
+      "t": null,
+      "title": "Oskar Stalberg - Wave Function Collapse in Bad North",
+      "category": "Computer Science"
+    },
+    {
+      "id": "yGhfUcPjXuE",
+      "t": null,
+      "title": "Jonas Tyroller - DeltaTime for dummies",
+      "category": "Simulation Science"
+    },
+    {
+      "id": "WPCMNnM6D0k",
+      "t": null,
+      "title": "AngeTheGreat - Engine Simulator Rotary Engine",
+      "category": "Simulation Science"
+    },
+    {
+      "id": "4U41OxHiqI8",
+      "t": null,
+      "title": "AngeTheGreat - Simulating a two stroke bike",
+      "category": "Simulation Science"
+    },
+    {
+      "id": "dzfjwXtATJA",
+      "t": null,
+      "title": "AngeTheGreat - Simulating a steam engine",
+      "category": "Simulation Science"
+    },
+    {
+      "id": "rGNUHigqUBM",
+      "t": null,
+      "title": "AngeTheGreat - Simulating fluid oscillators at up to 44khz",
+      "category": "Simulation Science"
+    },
+    {
+      "id": "oulfRfqTxJA",
+      "t": null,
+      "title": "AngeTheGreat - Simulating trusses, masses and springs",
+      "category": "Simulation Science"
+    },
+    {
+      "id": "T75SucBcfMo",
+      "t": null,
+      "title": "blackedout - Simulating a softbody tire",
+      "category": "Simulation Science"
+    },
+    {
+      "id": "ge_j31Yx_yk",
+      "t": null,
+      "title": "Worlds in Motion - Simulating different speeds of light",
+      "category": "Simulation Science"
+    },
+    {
+      "id": "ob3VwY4JyzE",
+      "t": null,
+      "title": "Minecraft - Generating terrain",
+      "category": "Simulation Science"
+    },
+    {
+      "id": "9IULfQH7E90",
+      "t": null,
+      "title": "Pezzza's Work - Many particle system",
+      "category": "Simulation Science"
+    },
+    {
+      "id": "Ffka-hPzug0",
+      "t": null,
+      "title": "monster860 - Non-square square waves",
+      "category": "Simulation Science"
+    },
+    {
+      "id": "BNZtUB7yhX4",
+      "t": null,
+      "title": "SimonDev - Raymarching",
+      "category": "Simulation Science"
+    },
+    {
+      "id": "bcdUJXKZims",
+      "t": null,
+      "title": "Game Engine Series - Mathematics of View and Projection Matrices",
+      "category": "Simulation Science"
+    },
+    {
+      "id": "KPoeNZZ6H4s",
+      "t": null,
+      "title": "T3ssel8r - The Mathematics of Simulating Animation Movements",
+      "category": "Simulation Science"
+    },
+    {
+      "id": "BFld4EBO2RE",
+      "t": null,
+      "title": "Inigo Quilez - Painting a Landscape with Maths",
+      "category": "Simulation Science"
+    },
+    {
+      "id": "lctXaT9pxA0",
+      "t": 24,
+      "title": "Sebastian Lague - Procedural Moons And Planets",
+      "category": "Simulation Science"
+    },
+    {
+      "id": "wbpMiKiSKm8",
+      "t": null,
+      "title": "Sebastian Lague - Procedural Landmass Generation",
+      "category": "Simulation Science"
+    },
+    {
+      "id": "UXD97l7ZT0w",
+      "t": null,
+      "title": "Sebastian Lague - Using real world data to simulate the whole world",
+      "category": "Simulation Science"
+    },
+    {
+      "id": "HyznrdDSSGM",
+      "t": null,
+      "title": "Ben Eater - Building an 8-bit Breadboard Computer",
+      "category": "Computing Hardware"
+    },
+    {
+      "id": "7WuRq-Wmw5o",
+      "t": null,
+      "title": "Matt Godbolt - Emulating a 6502 in JavaScript",
+      "category": "Computing Hardware"
+    },
+    {
+      "id": "fWqBmmPQP40",
+      "t": null,
+      "title": "Christiaan008 - Reverse Engineering the MOS 6502 Silicon with Xrays",
+      "category": "Computing Hardware"
+    },
+    {
+      "id": "JH2nXMv6yZI",
+      "t": null,
+      "title": "ColdFusion - Intel: From Inventors of the CPU to Laughing Stock Part 1",
+      "category": "Computing Hardware"
+    },
+    {
+      "id": "LoTx9LQIKEA",
+      "t": null,
+      "title": "ColdFusion - Intel: From Inventors of the CPU to Laughing Stock Part 2",
+      "category": "Computing Hardware"
+    },
+    {
+      "id": "eXhlDt2SD8o",
+      "t": null,
+      "title": "Coreteks - A64FX Arm Chip",
+      "category": "Computing Hardware"
+    },
+    {
+      "id": "gCLoaPJNxGU",
+      "t": 913,
+      "title": "Fujitsu - A64Fx Fugaku Supercomputer",
+      "category": "Computing Hardware"
+    },
+    {
+      "id": "RSPPTaAT2Xg",
+      "t": null,
+      "title": "Samsung - Programmable Photonics",
+      "category": "Computing Hardware"
+    },
+    {
+      "id": "t1R7ElXEyag",
+      "t": null,
+      "title": "Lightmatter - Photonic Computing",
+      "category": "Computing Hardware"
+    },
+    {
+      "id": "9fVrWDdll0g",
+      "t": null,
+      "title": "Asianometry - How Taiwan Created TSMC",
+      "category": "Computing Hardware"
+    },
+    {
+      "id": "_hrvR_iTz_I",
+      "t": null,
+      "title": "Asianometry - EUV's Most Difficult Challenge: Zero defects",
+      "category": "Computing Hardware"
+    },
+    {
+      "id": "8bw80LiCl7g",
+      "t": null,
+      "title": "Phil's lab - How to design a M.2 Accelerator",
+      "category": "Computing Hardware"
+    },
+    {
+      "id": "6wBrOV2FJM8",
+      "t": null,
+      "title": "Ancient - Fitting a raspberry pi into a lego brick",
+      "category": "Computing Hardware"
+    },
+    {
+      "id": "pfjYecJHMRU",
+      "t": null,
+      "title": "Lytro - 40k Resolution Camera",
+      "category": "Computing Hardware"
+    },
+    {
+      "id": "oHahy_NtMDI",
+      "t": null,
+      "title": "Just Have a Think - Offloading network communication to dedicated chips",
+      "category": "Computing Hardware"
+    },
+    {
+      "id": "-y3RGeaxksY",
+      "t": 294,
+      "title": "Adam Neely - Resonant Frequencies Can Break Harddrives",
+      "category": "Computing Hardware"
+    },
+    {
+      "id": "Gej9UZZAnQ4",
+      "t": null,
+      "title": "Asianometry - Solar-Grade Silicon",
+      "category": "Computing Hardware"
+    },
+    {
+      "id": "TvEk6QsNuRA",
+      "t": null,
+      "title": "Asianometry - The economics of TSMC's Gigafabs",
+      "category": "Computing Hardware"
+    },
+    {
+      "id": "Xo7V4PPHijs",
+      "t": null,
+      "title": "The Hated One - Datacentres are running out of water for cooling",
+      "category": "Computing Hardware"
+    },
+    {
+      "id": "Wz_xJPN7lAY",
+      "t": 700,
+      "title": "Creel - Top 10 Craziest x86 Instructions",
+      "category": "Computing Hardware"
+    },
+    {
+      "id": "FNd94_XaVlY",
+      "t": null,
+      "title": "TechTechPotato - Cerebras Waferscale Engine",
+      "category": "Computing Hardware"
+    },
+    {
+      "id": "tvVobTtgss0",
+      "t": null,
+      "title": "TechTechPotato - The cost of TSMC 7nm",
+      "category": "Computing Hardware"
+    },
+    {
+      "id": "w3xNLj6nRgs",
+      "t": null,
+      "title": "TechTechPotato - The new Era of High Performance Compute",
+      "category": "Computing Hardware"
+    },
+    {
+      "id": "AYttFnryznM",
+      "t": null,
+      "title": "Verge Science - Is gallium nitride the silicon of the future?",
+      "category": "Computing Hardware"
+    },
+    {
+      "id": "f0gMdGrVteI",
+      "t": null,
+      "title": "Seeker - EUV The Extreme Physics Pushing Moore's Law to the Next Level",
+      "category": "Computing Hardware"
+    },
+    {
+      "id": "-wMU8vmfaYo",
+      "t": null,
+      "title": "Facebook - Down for 5 hours because of a misconfigured DNS",
+      "category": "Corporate Secrets"
+    },
+    {
+      "id": "DDe-S3uef2w",
+      "t": null,
+      "title": "Cloudflare - How an unoptimized regex crashed the internet",
+      "category": "Corporate Secrets"
+    },
+    {
+      "id": "CZ3wIuvmHeM",
+      "t": null,
+      "title": "Netflix - Mastering Chaos a guide to microservices",
+      "category": "Corporate Secrets"
+    },
+    {
+      "id": "lJYufx0bfpw",
+      "t": null,
+      "title": "Google - Probabilistic counting",
+      "category": "Corporate Secrets"
+    },
+    {
+      "id": "dsHyUgGMht0",
+      "t": null,
+      "title": "Github - Cross Datacentre failure",
+      "category": "Corporate Secrets"
+    },
+    {
+      "id": "mL4t2Jf8DUk",
+      "t": null,
+      "title": "Reddit - Worst outage ever",
+      "category": "Corporate Secrets"
+    },
+    {
+      "id": "xynXjChKkJc",
+      "t": null,
+      "title": "Discord - Migrating from Cassandra to Scylla",
+      "category": "Corporate Secrets"
+    },
+    {
+      "id": "yJOrMDMqeoI",
+      "t": null,
+      "title": "Goto - Migrations, the hardest problem in computer science",
+      "category": "Corporate Secrets"
+    },
+    {
+      "id": "KJ_otmElnbM",
+      "t": null,
+      "title": "Tesla - Stated expansion plans 2023",
+      "category": "Corporate Secrets"
+    },
+    {
+      "id": "z7vhMcKvHo8",
+      "t": null,
+      "title": "Tony Seba - The great transformation 1",
+      "category": "Corporate Secrets"
+    },
+    {
+      "id": "Vqs0_3M-18c",
+      "t": null,
+      "title": "Tony Seba - The great transformation 2",
+      "category": "Corporate Secrets"
+    },
+    {
+      "id": "fsnkPLkf1ao",
+      "t": null,
+      "title": "Tony Seba - The great transformation 2",
+      "category": "Corporate Secrets"
+    },
+    {
+      "id": "g6gZHbfK8Vo",
+      "t": null,
+      "title": "Tony Seba - The great transformation 4",
+      "category": "Corporate Secrets"
+    },
+    {
+      "id": "R7EEoWg6Ekk",
+      "t": null,
+      "title": "Chris Domas - Turing complete x86 MOV",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "HlUe0TUHOIc",
+      "t": null,
+      "title": "Chris Domas - Psychological Warfare in Decompilation",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "lR0nh-TdpVg",
+      "t": null,
+      "title": "Chris Domas - Finding backdoors in hardware instruction sets",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "4bM3Gut1hIk",
+      "t": null,
+      "title": "Chris Domas - Instruction Set Agnostic Program Analysis Tool",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "uOvizKc1WZY",
+      "t": null,
+      "title": "Liveoverflow - Google Cloud Platform 2022 Bugbounty Winners Review",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "lG-ZqO734tM",
+      "t": null,
+      "title": "Not What You Think - Using bees to smell bombs",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "WRNZhP4CVgE",
+      "t": null,
+      "title": "Joseph Ravichandran - Exploiting branch prediction to bypass Apple M1 signed function pointers",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "GlQr4wifQuE",
+      "t": null,
+      "title": "Seytonic - Exploiting github to mine crypto",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "yrCXamnX9No",
+      "t": null,
+      "title": "LiveOverflow - Finding a 0day in Apache",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "qA8KB6KndrE",
+      "t": null,
+      "title": "LiveOverflow - Exploiting Java Tomcat with JSP Web Shell",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "fj-VlvoB8tw",
+      "t": null,
+      "title": "Deviant Ollam - Elevator Penetration Testing",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "zXPiqk0-zDY",
+      "t": null,
+      "title": "From Scratch - Simulating RISCV in Terraria",
+      "category": "Fun Projects"
+    },
+    {
+      "id": "Bj9CiMO66xk",
+      "t": null,
+      "title": "The Science Elf - Running isometric minecraft on a calculator",
+      "category": "Fun Projects"
+    },
+    {
+      "id": "E4ydGuxSIF8",
+      "t": null,
+      "title": "Inkbox - Running minecraft on the 6502",
+      "category": "Fun Projects"
+    },
+    {
+      "id": "m28jJ7CMp8A",
+      "t": null,
+      "title": "S0lly - Raytracing in excel",
+      "category": "Fun Projects"
+    },
+    {
+      "id": "FPmQ0rnJjNc",
+      "t": null,
+      "title": "Earthcomputer - Using minecraft to compute the result of the next call to java math.rng",
+      "category": "Fun Projects"
+    },
+    {
+      "id": "Ae9EKCyI1xU",
+      "t": null,
+      "title": "Suckerpinch - Using floating point imprecision to make something useful",
+      "category": "Fun Projects"
+    },
+    {
+      "id": "JcJSW7Rprio",
+      "t": null,
+      "title": "Suckerpinch - Harder Drive, Storing Data in Dumb Ways",
+      "category": "Fun Projects"
+    },
+    {
+      "id": "09LlZhlcJTU",
+      "t": null,
+      "title": "Nerdtronic - Coding a very precise pen bot",
+      "category": "Fun Projects"
+    },
+    {
+      "id": "WTUafAwrunE",
+      "t": null,
+      "title": "aarthificial - Animation software for videos",
+      "category": "Fun Projects"
+    },
+    {
+      "id": "nrsDklFXrpc",
+      "t": null,
+      "title": "shounic - TF2 Huntsman bug counts any hit as headshot",
+      "category": "Fun Projects"
+    },
+    {
+      "id": "hFRlnNci3Rs",
+      "t": null,
+      "title": "mattbatwings - Creating a 3d line renderer in minecraft",
+      "category": "Fun Projects"
+    },
+    {
+      "id": "ZWQ0591PAxM",
+      "t": null,
+      "title": "Morphcat Games - How we fit an NES game into 40kb",
+      "category": "Fun Projects"
+    },
+    {
+      "id": "bD1wWY1YD-M",
+      "t": null,
+      "title": "Nostalgia Nerd - How to write an fps in 96kb",
+      "category": "Fun Projects"
+    },
+    {
+      "id": "lJVGd7cBGuQ",
+      "t": null,
+      "title": "MattKC - Decompiling a Sonic Game",
+      "category": "Fun Projects"
+    },
+    {
+      "id": "ExwqNreocpg",
+      "t": null,
+      "title": "MattKC - Can you fit a whole game into a QR code?",
+      "category": "Fun Projects"
+    },
+    {
+      "id": "Oq_6S-X6A-I",
+      "t": null,
+      "title": "Some Kitten - Using Moire Patterns to make GIFS in Minecraft",
+      "category": "Fun Projects"
+    },
+    {
+      "id": "sRWE5tnaxlI",
+      "t": null,
+      "title": "Low Level Javascript - Obfuscating JavaScript to 8 characters",
+      "category": "Fun Projects"
+    },
+    {
+      "id": "bIj3xBmALxE",
+      "t": null,
+      "title": "James Sharman - High perforamnce 8 bit system",
+      "category": "Fun Projects"
+    },
+    {
+      "id": "t_rzYnXEQlE",
+      "t": null,
+      "title": "Kaze Emanuar - Optimizing Mario 64",
+      "category": "Fun Projects"
+    },
+    {
+      "id": "tocXaInkarE",
+      "t": null,
+      "title": "Doctor Volt - Z80 Computer from scratch",
+      "category": "Fun Projects"
+    },
+    {
+      "id": "uQzk2BQxH_U",
+      "t": null,
+      "title": "Junferno - Using Fourier to become a Vocaloid",
+      "category": "Fun Projects"
+    },
+    {
+      "id": "Pt7z51TpctE",
+      "t": null,
+      "title": "JohnDoesStuff - Neural Networks in Desmos",
+      "category": "Fun Projects"
+    },
+    {
+      "id": "BoPZIojpbmw",
+      "t": null,
+      "title": "John Lin - Water physics and custom voxel boats, rigid bodies and destruction",
+      "category": "Fun Projects"
+    },
+    {
+      "id": "7HNAL8ZKdyM",
+      "t": null,
+      "title": "Andrej Rajnoha - Cable driven juggler robot",
+      "category": "Fun Projects"
+    },
+    {
+      "id": "egOx4jMIaOg",
+      "t": null,
+      "title": "Voxelbee - C++ Vulkan Voxel Renderer",
+      "category": "Fun Projects"
+    },
+    {
+      "id": "_3loq22TxSc",
+      "t": 1405,
+      "title": "Tom Wildenhain - PowerPoint Turing Machine",
+      "category": "Fun Projects"
+    },
+    {
+      "id": "MJZvWgcxV0M",
+      "t": null,
+      "title": "Roguelike Celebration - JP LeBreton - All Possible Glyphs: Playscii, an ASCII art, animation, and game creation tool",
+      "category": "Fun Projects",
+      "posted": "2020-03-17"
+    },
+    {
+      "id": "c-NyXKbqmQc",
+      "t": null,
+      "title": "Context Free - Named Field Init in C, C++20, Zig, Rust, & D",
+      "category": "Computer Science",
+      "posted": "2020-05-16"
+    },
+    {
+      "id": "6avJHaC3C2U",
+      "t": null,
+      "title": "NDC Conferences - The Art of Code - Dylan Beattie",
+      "category": "Computer Science",
+      "posted": "2020-08-04"
+    },
+    {
+      "id": "esUb7Zy5Oio",
+      "t": null,
+      "title": "Sabin Civil Engineering - Tesla Model 3's motor - The Brilliant Engineering behind it",
+      "category": "Science & Engineering",
+      "posted": "2021-01-21"
+    },
+    {
+      "id": "6_u18uFEoN0",
+      "t": null,
+      "title": "Zach Star - The beauty of complex numbers",
+      "category": "Science & Engineering",
+      "posted": "2021-01-28"
+    },
+    {
+      "id": "L1tZWDKMYdI",
+      "t": null,
+      "title": "Avonisys AG, A Lam Research Company - Waterjet laser cutting of high-aspect honeycomb / Wasserstrahl-Laserschneiden von einem Wabenmuster",
+      "category": "Science & Engineering",
+      "posted": "2021-03-25"
+    },
+    {
+      "id": "BQvBq3K50u8",
+      "t": null,
+      "title": "Junferno - How I animate stuff on Desmos Graphing Calculator",
+      "category": "Fun Projects",
+      "posted": "2021-05-03"
+    },
+    {
+      "id": "NmWwRmvjAE8",
+      "t": null,
+      "title": "Shakacon LLC - reductio ad absurdum by Christopher Domas",
+      "category": "Cybersecurity",
+      "posted": "2021-11-23"
+    },
+    {
+      "id": "5JqzCjg4YRU",
+      "t": null,
+      "title": "Fireship - TypeScript is Literal Magic",
+      "category": "Computer Science",
+      "posted": "2022-05-26"
+    },
+    {
+      "id": "JNfgtsiqd2M",
+      "t": null,
+      "title": "Visual Studio Code - C++ arrays can be weird...",
+      "category": "High Performance Computing",
+      "posted": "2022-05-27"
+    },
+    {
+      "id": "N3bJnKmeNJY",
+      "t": null,
+      "title": "NightHawkInLight - How To Make Infrared Cooling Paint (Electricity Free Air Conditioning)",
+      "category": "Science & Engineering",
+      "posted": "2022-07-14"
+    },
+    {
+      "id": "-vxW42R47bc",
+      "t": null,
+      "title": "HexagonVideos - Numberphile's Square-Sum Problem was solved! #SoME2",
+      "category": "Science & Engineering",
+      "posted": "2022-08-05"
+    },
+    {
+      "id": "W1UDzxtrhes",
+      "t": null,
+      "title": "Two Minute Papers - NVIDIA’s Ray Tracer - Finally, Real Time! ☀️",
+      "category": "Simulation Science",
+      "posted": "2022-08-07"
+    },
+    {
+      "id": "Rb6sxy3f7VE",
+      "t": null,
+      "title": "Subject Zero Science - Would it work? RAILGUN Assisted Orbital Launcher",
+      "category": "Space",
+      "posted": "2022-08-17"
+    },
+    {
+      "id": "_lb1AxwXLaM",
+      "t": null,
+      "title": "Armando Arredondo - What is the graph of x^a when a is not an integer? An unusual look at familiar functions #some2",
+      "category": "Science & Engineering",
+      "posted": "2022-08-17"
+    },
+    {
+      "id": "KACYxrl9Mjw",
+      "t": null,
+      "title": "Ben Evans - A Single Element, 100% Pure CSS Box-Shadow, Parallax Scrolling, Pixel Art Animation!",
+      "category": "Fun Projects",
+      "posted": "2022-09-25"
+    },
+    {
+      "id": "6fEEE9PEGL8",
+      "t": null,
+      "title": "Electric Aviation - Laminar Flow Aircraft: The most promising development in Aviation",
+      "category": "Science & Engineering",
+      "posted": "2022-09-27"
+    },
+    {
+      "id": "1TmuJSbms9c",
+      "t": null,
+      "title": "Jordan B Peterson - Zeroes and Ones: Into the Depths of Computation | Jim Keller | EP 272",
+      "category": "Computing Hardware",
+      "posted": "2022-09-28"
+    },
+    {
+      "id": "8ynsN4nJxzU",
+      "t": null,
+      "title": "code_report - APL vs BQN vs J vs Q vs NumPy vs Julia vs R",
+      "category": "Computer Science",
+      "posted": "2022-10-12"
+    },
+    {
+      "id": "8Ab3ArE8W3s",
+      "t": null,
+      "title": "Strange Loop Conference - \"Stop Writing Dead Programs\" by Jack Rusher (Strange Loop 2022)",
+      "category": "Computer Science",
+      "posted": "2022-10-19"
+    },
+    {
+      "id": "cdiD-9MMpb0",
+      "t": null,
+      "title": "Lex Fridman - Andrej Karpathy: Tesla AI, Self-Driving, Optimus, Aliens, and AGI | Lex Fridman Podcast #333",
+      "category": "Artifical Intelligence",
+      "posted": "2022-10-30"
+    },
+    {
+      "id": "oLiH33dBIu4",
+      "t": null,
+      "title": "Coding with Lewis - Discord Stores BILLIONS of messages using this database",
+      "category": "Corporate Secrets",
+      "posted": "2022-11-01"
+    },
+    {
+      "id": "hS-NiaGeeVA",
+      "t": null,
+      "title": "TensorFlow - Introducing Coral Dev Board Micro",
+      "category": "Computing Hardware",
+      "posted": "2022-11-01"
+    },
+    {
+      "id": "_NMQyOu2HTo",
+      "t": null,
+      "title": "Yannic Kilcher - ROME: Locating and Editing Factual Associations in GPT (Paper Explained & Author Interview)",
+      "category": "Artifical Intelligence",
+      "posted": "2022-11-05"
+    },
+    {
+      "id": "_bDXXWQxK38",
+      "t": null,
+      "title": "Real Engineering - A New Way to Achieve Nuclear Fusion: Helion",
+      "category": "Science & Engineering",
+      "posted": "2022-12-21"
+    },
+    {
+      "id": "R5hZ2X9-TIQ",
+      "t": null,
+      "title": "DoshDoshington - How Hard is it to Beat Space Exploration | The Final Frontier",
+      "category": "Fun Projects",
+      "posted": "2022-12-22"
+    },
+    {
+      "id": "3FTjLVfQEBM",
+      "t": null,
+      "title": "FaceDev - I made a BROWSER in Discord",
+      "category": "Fun Projects",
+      "posted": "2022-12-30"
+    },
+    {
+      "id": "iydG-e1dQGA",
+      "t": null,
+      "title": "GamesWithGabe - I Coded a Video Editor (and it kind of sucks)",
+      "category": "Fun Projects",
+      "posted": "2023-01-05"
+    },
+    {
+      "id": "U16RnpV48KQ",
+      "t": null,
+      "title": "ThePrimeagen - This Algorithm is 1,606,240% FASTER",
+      "category": "High Performance Computing",
+      "posted": "2023-01-07"
+    },
+    {
+      "id": "HXP8IVUVJbg",
+      "t": null,
+      "title": "Peter Brockie - What else is an M.2 WiFi slot good for?",
+      "category": "Computing Hardware",
+      "posted": "2023-01-22"
+    },
+    {
+      "id": "3PAauAy-Fb4",
+      "t": null,
+      "title": "DEFCONConference - DEF CON 30 - Minh Duong - The Big Rick - How I Rickrolled My High School District,  Got Away With It",
+      "category": "Cybersecurity",
+      "posted": "2023-02-12"
+    },
+    {
+      "id": "qV7qknrJM_A",
+      "t": null,
+      "title": "Jack Rhysider - The New Guy at the Office Is a Secret Super Hacker🎙Darknet Diaries Ep. 36: Jeremy From Marketing",
+      "category": "Cybersecurity",
+      "posted": "2023-02-15"
+    },
+    {
+      "id": "x3hKPOlG934",
+      "t": null,
+      "title": "Zack Freedman - The Pick-and-Place: The Robots that Built the Modern World",
+      "category": "Computing Hardware",
+      "posted": "2023-03-13"
+    },
+    {
+      "id": "3G5hWM6jqPk",
+      "t": null,
+      "title": "Alexander Amini - MIT 6.S191 (2023): Deep Generative Modeling",
+      "category": "Artifical Intelligence",
+      "posted": "2023-04-01"
+    },
+    {
+      "id": "K60m6ZJtfkc",
+      "t": null,
+      "title": "Nick's Knacks - Reverse Engineering a Cold War Military Telephone",
+      "category": "Science & Engineering",
+      "posted": "2023-04-10"
+    },
+    {
+      "id": "B887D3PVYqs",
+      "t": null,
+      "title": "Yenji Jem - Six, Five, and Four Segment Displays",
+      "category": "Science & Engineering",
+      "posted": "2023-05-22"
+    },
+    {
+      "id": "De8N1zrQwRs",
+      "t": null,
+      "title": "Web Engines Hackfest - Andreas Kling - Ladybird: Building a new browser from scratch",
+      "category": "Computer Science",
+      "posted": "2023-06-18"
+    },
+    {
+      "id": "NX7GHqq28uU",
+      "t": null,
+      "title": "Carl Bugeja - Making a PCB Motor spin 30,000 RPM FASTER",
+      "category": "Science & Engineering",
+      "posted": "2023-06-25"
+    },
+    {
+      "id": "U5cqrrhq9TA",
+      "t": null,
+      "title": "GreatScott! - The Most Important Circuit for our Electrical Future?! (PFC) EB#55",
+      "category": "Science & Engineering",
+      "posted": "2023-06-28"
+    },
+    {
+      "id": "6h4oiPwtwDk",
+      "t": null,
+      "title": "The PrimeTime - Why We Left The Cloud",
+      "category": "Corporate Secrets",
+      "posted": "2023-06-30"
+    },
+    {
+      "id": "sugMWRYtYU0",
+      "t": null,
+      "title": "Suika - std::sus",
+      "category": "High Performance Computing",
+      "posted": "2023-06-30"
+    },
+    {
+      "id": "r_B0RmRlFHA",
+      "t": null,
+      "title": "Hyperspace Pirate - Joule-Thompson Cryocooler",
+      "category": "Science & Engineering",
+      "posted": "2023-07-04"
+    },
+    {
+      "id": "x2ulsZ6aGXY",
+      "t": null,
+      "title": "Alexander the ok - DSV Alvin : How to build a safe submersible",
+      "category": "Science & Engineering",
+      "posted": "2023-07-16"
+    },
+    {
+      "id": "Q319h43SHnc",
+      "t": null,
+      "title": "comma - COMMA_CON | July 29, 2023 | San Diego",
+      "category": "Artifical Intelligence",
+      "posted": "2023-07-29"
+    },
+    {
+      "id": "hYVYMzEwrBE",
+      "t": null,
+      "title": "thehackerish - Hacked and Backdoored this website in MINUTES! NEVER try this on unauthorized targets!",
+      "category": "Cybersecurity",
+      "posted": "2023-08-06"
+    },
+    {
+      "id": "ZOWakxXjotg",
+      "t": null,
+      "title": "Summit - Running the Algorithm: SpaceX’s Approach to Exponential Growth with VP of Launch Kiko Dontchev",
+      "category": "Space",
+      "posted": "2023-09-10T07:24:53.512000+00:00"
+    },
+    {
+      "id": "aoczYXJeMY4",
+      "t": null,
+      "title": "The Thought Emporium - Am I still lactose tolerant? - Lactose Gene Therapy Update",
+      "category": "Science & Engineering",
+      "posted": "2023-09-10T08:29:56.053000+00:00"
+    },
+    {
+      "id": "ao1qVi5Qp3Y",
+      "t": null,
+      "title": "James Lambert - I rewrote Portal from scratch and solved the Portal Paradox",
+      "category": "Fun Projects",
+      "posted": "2023-09-13T08:12:59.173000+00:00"
+    },
+    {
+      "id": "ulJm7_aTiQM",
+      "t": null,
+      "title": "MIT OpenCourseWare - 9. What Compilers Can and Cannot Do",
+      "category": "High Performance Computing",
+      "posted": "2023-09-14T12:07:44.054000+00:00"
+    },
+    {
+      "id": "VMkdnj698-0",
+      "t": null,
+      "title": "ElectroBOOM - Wireless Communication with a Cup of Balls, Coherer Effect",
+      "category": "Science & Engineering",
+      "posted": "2023-09-15T13:20:25.065000+00:00"
+    },
+    {
+      "id": "Ek_7tBOCcAI",
+      "t": null,
+      "title": "SunShine - it can 3D-Print onto itself?!",
+      "category": "Fun Projects",
+      "posted": "2023-09-15T13:33:04.339000+00:00"
+    },
+    {
+      "id": "F9cO3-MLHOM",
+      "t": null,
+      "title": "All-In Podcast - All-In Summit: Bill Gurley presents 2,851 Miles",
+      "category": "Corporate Secrets",
+      "posted": "2023-09-16T02:28:06.235000+00:00"
+    },
+    {
+      "id": "d_R8i0dVBsQ",
+      "t": null,
+      "title": "Sébastien Duquette - REcon 2016 - Movfuscator Be Gone (Julian Kirsch, Clemens Jonischkeit)",
+      "category": "Cybersecurity",
+      "posted": "2023-09-16T02:34:19.338000+00:00"
+    },
+    {
+      "id": "HVv_IQKlafQ",
+      "t": null,
+      "title": "IndividualKex - 3D Gaussian Splatting - Why Graphics Will Never Be The Same",
+      "category": "Simulation Science",
+      "posted": "2023-09-18T06:51:34.355000+00:00"
+    },
+    {
+      "id": "rimtaSgGz_4",
+      "t": null,
+      "title": "DEFCONConference - DEF CON 31 - An Audacious Plan to Halt the Internet's Ensh*ttification  - Cory Doctorow",
+      "category": "Corporate Secrets",
+      "posted": "2023-09-18T10:39:55+00:00"
+    },
+    {
+      "id": "u8V4ofWpHZk",
+      "t": null,
+      "title": "DEFCONConference - DEF CON 31 - Ringhopper - How We Almost Zero day’d the World - Benny Zeltser, Jonathan Lusky",
+      "category": "Cybersecurity",
+      "posted": "2023-09-21T13:32:05.249000+00:00"
+    },
+    {
+      "id": "IS5ycm7VfXg",
+      "t": null,
+      "title": "Sam Zeloof - \"Z2\" - Upgraded Homemade Silicon Chips",
+      "category": "Computing Hardware",
+      "posted": "2023-10-06T05:55:17.360000+00:00"
+    },
+    {
+      "id": "9_n6CBoEZwg",
+      "t": null,
+      "title": "Nathan Baggs - Can you fit a whole game on a stamp?",
+      "category": "Fun Projects",
+      "posted": "2023-10-09T13:15:43.051000+00:00"
+    },
+    {
+      "id": "80j7L1H61Hw",
+      "t": null,
+      "title": "Neumi - What happend to Ethersweep? Project Update!",
+      "category": "Fun Projects",
+      "posted": "2023-10-09T14:17:35.716000+00:00"
+    },
+    {
+      "id": "WgV6M1LyfNY",
+      "t": null,
+      "title": "No Boilerplate - The Unreasonable Effectiveness Of Plain Text",
+      "category": "Computer Science",
+      "posted": "2023-10-16T09:37:12.688000+00:00"
+    },
+    {
+      "id": "zGWj7Qo_POY",
+      "t": null,
+      "title": "cpponsea - C++ Features You Might Not Know - Jonathan Müller - C++ on Sea 2023",
+      "category": "High Performance Computing",
+      "posted": "2023-10-24T10:42:34.846000+00:00"
+    },
+    {
+      "id": "9dr-tRQzij4",
+      "t": null,
+      "title": "Acerola - How Do Games Render Fur?",
+      "category": "Simulation Science",
+      "posted": "2023-10-31T06:02:17.805000+00:00"
+    },
+    {
+      "id": "bO-DWWFolPw",
+      "t": null,
+      "title": "Thomas Burns - The coolest robot I've ever built!",
+      "category": "Fun Projects",
+      "posted": "2023-11-06T11:41:52.109000+00:00"
+    },
+    {
+      "id": "OMB1JLIdwNA",
+      "t": null,
+      "title": "NanoRooms - The recursion formula behind life itself?",
+      "category": "Science & Engineering",
+      "posted": "2023-11-17T01:13:43.333000+00:00"
+    },
+    {
+      "id": "hCC1C5KIeUA",
+      "t": null,
+      "title": "Dan Foisy - A Volumetric Display using an Acoustically Trapped Particle",
+      "category": "Fun Projects",
+      "posted": "2023-11-27T04:08:09.790000+00:00"
+    },
+    {
+      "id": "v_z2HkVfcEA",
+      "t": null,
+      "title": "Crumb - This Nerdy Teen Wouldn't Stop Hacking Companies",
+      "category": "Cybersecurity",
+      "posted": "2023-12-22T05:50:47.571000+00:00"
+    },
+    {
+      "id": "9qljpi5jiMQ",
+      "t": null,
+      "title": "fasterthanlime - GitHub Actions Feels Bad",
+      "category": "Computer Science",
+      "posted": "2023-12-24T07:47:15.417000+00:00"
+    },
+    {
+      "id": "VMpSYJ_7aYM",
+      "t": null,
+      "title": "fasterthanlime - C++ vs Rust: which is faster?",
+      "category": "High Performance Computing",
+      "posted": "2024-01-01T14:11:45.788000+00:00"
+    },
+    {
+      "id": "BDEIPa9b3OU",
+      "t": null,
+      "title": "HitReg - Anime: A $28,000,000,000 Slave Industry",
+      "category": "Corporate Secrets",
+      "posted": "2024-01-04T13:30:00+00:00"
+    },
+    {
+      "id": "LriHRa9t1fQ",
+      "t": null,
+      "title": "The PrimeTime - Creator of HTMX Talks HTMX",
+      "category": "Computer Science",
+      "posted": "2024-01-18T14:18:46.692000+00:00"
+    },
+    {
+      "id": "Pdt7V8aImCQ",
+      "t": null,
+      "title": "Atomic Frontier - The Satellite Orbit Tier List",
+      "category": "Space",
+      "posted": "2024-01-19T06:44:04.365000+00:00"
+    },
+    {
+      "id": "R7VVwfh0Wpo",
+      "t": null,
+      "title": "Kevin Fang - How This SQL Command Blew Up a Billion Dollar Company",
+      "category": "Corporate Secrets",
+      "posted": "2024-01-24T12:26:10.892000+00:00"
+    },
+    {
+      "id": "bMTeCqNkId8",
+      "t": null,
+      "title": "Barney Codes - Realtime shadow casting on 2D terrain",
+      "category": "Simulation Science",
+      "posted": "2024-01-24T15:51:56.328000+00:00"
+    },
+    {
+      "id": "BqTACh3Wj80",
+      "t": null,
+      "title": "Know Art - Why Small Airplanes Have Angled Motors",
+      "category": "Science & Engineering",
+      "posted": "2024-01-28T07:41:06.881000+00:00"
+    },
+    {
+      "id": "Smc-6qfZ2JU",
+      "t": null,
+      "title": "Dreams of Code - One of the most common mistakes in Go is about to be fixed",
+      "category": "Computer Science",
+      "posted": "2024-02-04T16:14:22.357000+00:00"
+    },
+    {
+      "id": "0r2x7G0hwCw",
+      "t": null,
+      "title": "The Overview Effekt - The Real Stars and Scale of Sci-fi",
+      "category": "Space",
+      "posted": "2024-02-05T02:51:07.373000+00:00"
+    },
+    {
+      "id": "MJrXUh0eZjw",
+      "t": null,
+      "title": "Air Zoo - The Pratt & Whitney J58 - The Engine of the SR-71 Blackbird",
+      "category": "Science & Engineering",
+      "posted": "2024-02-07T14:51:22.111000+00:00"
+    },
+    {
+      "id": "4Wa5DivljOM",
+      "t": null,
+      "title": "Fireship - Why you're addicted to cloud computing",
+      "category": "Corporate Secrets",
+      "posted": "2024-02-15T04:14:56.315000+00:00"
+    },
+    {
+      "id": "slV0zdUEYJw",
+      "t": null,
+      "title": "Code to the Moon - Larger Scale Software Development (and a Big Trap)",
+      "category": "Computer Science",
+      "posted": "2024-02-15T12:21:30.232000+00:00"
+    },
+    {
+      "id": "fhNc0q5N3p0",
+      "t": null,
+      "title": "TheRandomCoder - Evil Regex Hacking in Codewars - An Outrageous Solution to Find if a King is in Check",
+      "category": "Fun Projects",
+      "posted": "2024-02-18T09:02:54.224000+00:00"
+    },
+    {
+      "id": "QRlP6BI1PFA",
+      "t": null,
+      "title": "Kiki's Bytes - How Pinterest Scaled to 11 Million Users With Only 6 Engineers",
+      "category": "Corporate Secrets",
+      "posted": "2024-02-21T13:36:23.543000+00:00"
+    },
+    {
+      "id": "peH4ic7g5yc",
+      "t": null,
+      "title": "ServeTheHome - VMware GUTS Customers with 10x Price Increases",
+      "category": "Corporate Secrets",
+      "posted": "2024-02-22T11:34:57.862000+00:00"
+    },
+    {
+      "id": "n7EWexck8NE",
+      "t": null,
+      "title": "CNC Kitchen - Solid-State Dehumidifier: The Ultimate Filament Dry Box",
+      "category": "Fun Projects",
+      "posted": "2024-02-25T12:54:10.997000+00:00"
+    },
+    {
+      "id": "EhXpJo3YbKg",
+      "t": null,
+      "title": "Tom Delalande - The better alternative to Markdown",
+      "category": "Computer Science",
+      "posted": "2024-03-02T07:44:34.640000+00:00"
+    },
+    {
+      "id": "40JzyaOYJeY",
+      "t": null,
+      "title": "Vercidium - I Optimised My Game Engine Up To 12000 FPS",
+      "category": "High Performance Computing",
+      "posted": "2024-04-02T10:52:56.091000+00:00"
+    },
+    {
+      "id": "ONywOoJC4TQ",
+      "t": null,
+      "title": "javidx9 - Embedding Lua in C++ Part 3: Meh... Just use Sol...",
+      "category": "Computer Science",
+      "posted": "2024-04-02T13:10:10.696000+00:00"
+    },
+    {
+      "id": "acUH4lWe2NQ",
+      "t": null,
+      "title": "The 8-Bit Guy - The 6502 CPU Powered a Whole Generation!",
+      "category": "Computing Hardware",
+      "posted": "2024-04-02T14:44:15.836000+00:00"
+    },
+    {
+      "id": "d0gS5TXarXc",
+      "t": null,
+      "title": "kimylamp - Linux Signals. I Spent 2 Years to Understand This Part.",
+      "category": "Computer Science",
+      "posted": "2024-04-13T01:10:00.543000+00:00"
+    },
+    {
+      "id": "vuvckBQ1bME",
+      "t": null,
+      "title": "RobertElderSoftware - How To Make A CPU",
+      "category": "Computing Hardware",
+      "posted": "2024-04-17T08:14:56.727000+00:00"
+    },
+    {
+      "id": "Cd9aRtwj9xA",
+      "t": null,
+      "title": "Tom Delalande - The cloud is over-engineered and overpriced",
+      "category": "Corporate Secrets",
+      "posted": "2024-04-25T11:23:49.331000+00:00"
+    },
+    {
+      "id": "hyZlQY2xmWQ",
+      "t": null,
+      "title": "High Yield - Why next-gen chips separate Data & Power",
+      "category": "Computing Hardware",
+      "posted": "2024-04-27T15:39:21.108000+00:00"
+    },
+    {
+      "id": "nsm7tiyA3TA",
+      "t": null,
+      "title": "Brodie Robertson - Github's Hilariously Simple Malware Exploit",
+      "category": "Cybersecurity",
+      "posted": "2024-04-28T08:18:50.954000+00:00"
+    },
+    {
+      "id": "CTUMNtKQLl8",
+      "t": null,
+      "title": "MattKC - I ported THOUSANDS of apps to Windows 95",
+      "category": "Fun Projects",
+      "posted": "2024-04-30T09:51:57.845000+00:00"
+    },
+    {
+      "id": "6e9IgKQE2tk",
+      "t": null,
+      "title": "Nir Lichtman - Making a Very Minimal Windows Executable in C",
+      "category": "Computer Science",
+      "posted": "2024-05-05T06:01:34.693000+00:00"
+    },
+    {
+      "id": "e0HM_vfSuDw",
+      "t": null,
+      "title": "Gneiss Name - How to average color",
+      "category": "Simulation Science",
+      "posted": "2024-05-11T04:56:22.099000+00:00"
+    },
+    {
+      "id": "444dOWm5uuw",
+      "t": null,
+      "title": "Elmfer - How I Made A 6502 Processor Run in Minecraft",
+      "category": "Fun Projects",
+      "posted": "2024-05-12T07:28:29.002000+00:00"
+    },
+    {
+      "id": "1TE_UcC_I0U",
+      "t": null,
+      "title": "John Dodd - 2024 Vision Demo - Minecraft Materials Identification",
+      "category": "Fun Projects",
+      "posted": "2024-05-13T05:02:59.029000+00:00"
+    },
+    {
+      "id": "ywWwUuWRgsM",
+      "t": null,
+      "title": "Nerrel - Recompilation: An Incredible New Way to Keep N64 Games Alive",
+      "category": "Fun Projects",
+      "posted": "2024-05-13T10:41:46.135000+00:00"
+    },
+    {
+      "id": "9B1MsXXYhcw",
+      "t": null,
+      "title": "Omar Sherif - ScriptenApp using Web assembly and imgui docking demo",
+      "category": "Computer Science",
+      "posted": "2024-05-13T13:56:18.712000+00:00"
+    },
+    {
+      "id": "_ZSFRWJCUY4",
+      "t": null,
+      "title": "WHY2025 - 2022 -  Non-Euclidean Doom: what happens to a game when pi is not 3.14159…",
+      "category": "Fun Projects",
+      "posted": "2024-05-17T07:21:17.954000+00:00"
+    },
+    {
+      "id": "tHcUDvCUsjs",
+      "t": null,
+      "title": "Dr. Know-it-all Knows it all - EXCLUSIVE: Torture Testing GPT-4o w/ SHOCKING Results!",
+      "category": "Artifical Intelligence",
+      "posted": "2024-05-19T05:23:10.866000+00:00"
+    },
+    {
+      "id": "Wa0u1CjGtEQ",
+      "t": null,
+      "title": "100th Coin - How Bad Apple was played inside Super Mario Bros.",
+      "category": "Fun Projects",
+      "posted": "2024-05-19T13:46:01.774000+00:00"
+    },
+    {
+      "id": "wB_jiigRq-c",
+      "t": null,
+      "title": "Ringway Manchester - Russian Woodpecker - The Radio Signal That Wreaked Havoc Around The World",
+      "category": "Science & Engineering",
+      "posted": "2024-05-24T08:38:36.235000+00:00"
+    },
+    {
+      "id": "mzwwofB5_Nc",
+      "t": null,
+      "title": "Primal Space - The Longest Solar Eclipse Ever",
+      "category": "Space",
+      "posted": "2024-05-24T08:47:09.534000+00:00"
+    },
+    {
+      "id": "qkbuII4txGI",
+      "t": null,
+      "title": "Edan Meyer - This is What Limits Current LLMs",
+      "category": "Artifical Intelligence",
+      "posted": "2024-05-26T06:57:15.661000+00:00"
+    },
+    {
+      "id": "Ozj_xU0rSyY",
+      "t": null,
+      "title": "LaurieWired - The Magic of RISC-V Vector Processing",
+      "category": "Computing Hardware",
+      "posted": "2024-05-31T14:37:39.141000+00:00"
+    },
+    {
+      "id": "SDLMhGtPG4c",
+      "t": null,
+      "title": "Epictronics - Sound Blaster 1.0 MCV Replica build + CPLD programming",
+      "category": "Computing Hardware",
+      "posted": "2024-06-10T13:22:23.269000+00:00"
+    },
+    {
+      "id": "eEtawNgwSC8",
+      "t": null,
+      "title": "fasterthanlime - I ported h2spec to Rust (also: codegen!)",
+      "category": "Computer Science",
+      "posted": "2024-06-11T06:19:13.935000+00:00"
+    },
+    {
+      "id": "YpruA5mC7wg",
+      "t": null,
+      "title": "Alexander the ok - The World's First Microprocessor: F-14 Central Air Data Computer",
+      "category": "Computing Hardware",
+      "posted": "2024-06-11T14:07:30.864000+00:00"
+    },
+    {
+      "id": "TFolQUeWoog",
+      "t": null,
+      "title": "Low Level - researcher accidentally finds 0-day affecting his entire internet service provider",
+      "category": "Cybersecurity",
+      "posted": "2024-06-12T06:08:38.607000+00:00"
+    },
+    {
+      "id": "vc79sJ9VOqk",
+      "t": null,
+      "title": "LaurieWired - How a Clever 1960s Memory Trick Changed Computing",
+      "category": "Computing Hardware",
+      "posted": "2024-06-20T04:00:22.944000+00:00"
+    },
+    {
+      "id": "oNFdR-UpZS8",
+      "t": null,
+      "title": "Eager Space - Why is starship so late",
+      "category": "Space",
+      "posted": "2024-06-27T05:06:00.386000+00:00"
+    },
+    {
+      "id": "o-xwmTODTUI",
+      "t": null,
+      "title": "Miolith - Quick Understanding of Homogeneous Coordinates for Computer Graphics",
+      "category": "Simulation Science",
+      "posted": "2024-07-07T13:41:13.757000+00:00"
+    },
+    {
+      "id": "VjR8OJtGQLM",
+      "t": null,
+      "title": "Kevin Fang - How Roblox Went Down For 73 Hours",
+      "category": "Corporate Secrets",
+      "posted": "2024-07-10T06:05:47.361000+00:00"
+    },
+    {
+      "id": "HbQ6q3skZgw",
+      "t": null,
+      "title": "Sine Lab - Add USB To Your Electronics Projects! - The USB Protocol Explained",
+      "category": "Science & Engineering",
+      "posted": "2024-07-11T14:44:01.417000+00:00"
+    },
+    {
+      "id": "YCMtaTi6kMQ",
+      "t": null,
+      "title": "The PrimeTime - I Accidentally Saved HALF A MILLION $ | Prime Reacts",
+      "category": "Corporate Secrets",
+      "posted": "2024-07-13T06:46:30.861000+00:00"
+    },
+    {
+      "id": "TRIrr3Aar44",
+      "t": null,
+      "title": "AI Search - Hollywood is so over: The INSANE progress of AI videos",
+      "category": "Artifical Intelligence",
+      "posted": "2024-07-23T09:18:04.390000+00:00"
+    },
+    {
+      "id": "3GOAUyipnM4",
+      "t": null,
+      "title": "Kevin Fang - Google Accidentally Deletes $135 Billion Pension Fund, Chaos Ensues",
+      "category": "Corporate Secrets",
+      "posted": "2024-08-10T03:50:50.217000+00:00"
+    },
+    {
+      "id": "dShtlMl69kY",
+      "t": null,
+      "title": "Phanimations - Why Runge-Kutta is SO Much Better Than Euler's Method #somepi",
+      "category": "Simulation Science",
+      "posted": "2024-08-22T08:11:30.272000+00:00"
+    },
+    {
+      "id": "2kMdA6vBtj4",
+      "t": null,
+      "title": "Relativity Space - Since You Asked: The G in GNC",
+      "category": "Space",
+      "posted": "2024-08-24T09:37:31.700000+00:00"
+    },
+    {
+      "id": "rLWeHpzAYhg",
+      "t": null,
+      "title": "The PrimeTime - Zen 5 And AI Doom w/ Casey Muratori",
+      "category": "Computing Hardware",
+      "posted": "2024-09-06T13:49:20.758000+00:00"
+    },
+    {
+      "id": "5eqRuVp65eY",
+      "t": null,
+      "title": "Welch Labs - AI can't cross this line and we don't know why.",
+      "category": "Artifical Intelligence",
+      "posted": "2024-09-14T06:04:02.339000+00:00"
+    },
+    {
+      "id": "8Tf18MMZ-5U",
+      "t": null,
+      "title": "Yusef28 - I Made Falling Sand Games in a Fragment Shader",
+      "category": "Simulation Science",
+      "posted": "2024-09-16T10:32:48.125000+00:00"
+    },
+    {
+      "id": "LcJKxPXYudE",
+      "t": null,
+      "title": "NeetCodeIO - Microservices are Technical Debt",
+      "category": "Computer Science",
+      "posted": "2024-09-23T01:28:24.716000+00:00"
+    },
+    {
+      "id": "b_WGoPaNPMY",
+      "t": null,
+      "title": "icitry - I Remade YouTube From Scratch Using Just Bash",
+      "category": "Fun Projects",
+      "posted": "2024-10-07T08:13:32.326000+00:00"
+    },
+    {
+      "id": "3lEN6hEGUmE",
+      "t": null,
+      "title": "PKAE Electronics - How a 555 Works as a Timer.",
+      "category": "Science & Engineering",
+      "posted": "2024-10-17T12:53:04.928000+00:00"
+    },
+    {
+      "id": "REfYQh4-9lU",
+      "t": null,
+      "title": "Marcus Hutchins - I Vulnerability Scanned The Entire Internet And Accidentally Made A Botnet",
+      "category": "Cybersecurity",
+      "posted": "2024-10-29T11:10:16.334000+00:00"
+    },
+    {
+      "id": "wx1OWhZJkRw",
+      "t": null,
+      "title": "Kiki's Bytes - How Discord Reduced Traffic Bandwidth by 40%",
+      "category": "Corporate Secrets",
+      "posted": "2024-11-04T13:47:00.420000+00:00"
+    },
+    {
+      "id": "IaXdSGkh8Ww",
+      "t": null,
+      "title": "AlphaPhoenix - I built a 1,000,000,000 fps video camera to watch light move",
+      "category": "Fun Projects",
+      "posted": "2024-12-21T07:45:38.534000+00:00"
+    },
+    {
+      "id": "JfZxOuc9Qwk",
+      "t": null,
+      "title": "Shank Mods - What Happened to the World's Largest Tube TV?",
+      "category": "Fun Projects",
+      "posted": "2024-12-23T05:11:33.196000+00:00"
+    },
+    {
+      "id": "Iax0q2WvGpI",
+      "t": null,
+      "title": "Two Bit da Vinci - This Tech Can Make ANY Train a MAGLEV!",
+      "category": "Science & Engineering",
+      "posted": "2025-01-22T08:55:41.893000+00:00"
+    },
+    {
+      "id": "eP_P4KOjwhs",
+      "t": null,
+      "title": "Core Dumped - Why Applications Are Operating-System Specific",
+      "category": "Computer Science",
+      "posted": "2025-01-26T11:49:55.635000+00:00"
+    },
+    {
+      "id": "czzAVuVz7u4",
+      "t": null,
+      "title": "Handmade Cities - Why Can't We Make Simple Software? - Peter van Hardenberg",
+      "category": "Computer Science",
+      "posted": "2025-01-27T00:54:05.614000+00:00"
+    },
+    {
+      "id": "7xL0udlhnqI",
+      "t": null,
+      "title": "Fractal Philosophy - Maps: Fractals, Tectonics and the Fourth Dimension",
+      "category": "Science & Engineering",
+      "posted": "2025-01-30T01:44:41.667000+00:00"
+    },
+    {
+      "id": "-raK5VyB5xw",
+      "t": null,
+      "title": "Crumb - This Trader Found Wall Street's Free Money Hack",
+      "category": "Corporate Secrets",
+      "posted": "2025-02-07T16:03:23.021000+00:00"
+    },
+    {
+      "id": "bxX76HMgx98",
+      "t": null,
+      "title": "Kenadian - The Simplest World That Can Farm Every Item",
+      "category": "Fun Projects",
+      "posted": "2025-02-10T06:04:25.880000+00:00"
+    },
+    {
+      "id": "F5m2JxplnXk",
+      "t": null,
+      "title": "Bryce Bostwick - Modding the Gulf of Mexico Back",
+      "category": "Fun Projects",
+      "posted": "2025-02-20T01:13:04.469000+00:00"
+    },
+    {
+      "id": "ZQZt4MO2eD4",
+      "t": null,
+      "title": "Computing: the Details - This image fits in 241 bytes",
+      "category": "Computer Science",
+      "posted": "2025-02-21T10:50:20.757000+00:00"
+    },
+    {
+      "id": "_VEUioLmyPI",
+      "t": null,
+      "title": "Yusef28 - I Tried Making a Painterly Shader Based on Claude Monet",
+      "category": "Simulation Science",
+      "posted": "2025-03-02T09:28:32.057000+00:00"
+    },
+    {
+      "id": "iEda8_Mvvo4",
+      "t": null,
+      "title": "LaurieWired - Analyzing Deepseek's \"undefined\" NVIDIA PTX optimizations (with benchmarks!)",
+      "category": "High Performance Computing",
+      "posted": "2025-03-03T03:38:54.417000+00:00"
+    },
+    {
+      "id": "3JW732GrMdg",
+      "t": null,
+      "title": "Fireship - I replaced my entire tech stack with Postgres...",
+      "category": "Computer Science",
+      "posted": "2025-03-05T02:30:03.422000+00:00"
+    },
+    {
+      "id": "0VLAoVGf_74",
+      "t": null,
+      "title": "Welch Labs - How DeepSeek Rewrote the Transformer [MLA]",
+      "category": "Artifical Intelligence",
+      "posted": "2025-03-06T01:35:46.186000+00:00"
+    },
+    {
+      "id": "AojKy1iDloQ",
+      "t": null,
+      "title": "The Overview Effekt - The Speed of Constant-Thrust Space Travel",
+      "category": "Space",
+      "posted": "2025-03-09T12:27:25.015000+00:00"
+    },
+    {
+      "id": "RcVA8Nj6HEo",
+      "t": null,
+      "title": "2swap - What is PLUS times PLUS?",
+      "category": "Science & Engineering",
+      "posted": "2025-03-24T11:29:56.719000+00:00"
+    },
+    {
+      "id": "F4KQ8wBt1Qg",
+      "t": null,
+      "title": "Fractal Philosophy - Things AI Will Never Understand",
+      "category": "Artifical Intelligence",
+      "posted": "2025-04-03T09:51:42.182000+00:00"
+    },
+    {
+      "id": "sLftwVwqPQE",
+      "t": null,
+      "title": "iPlayGames - Minecraft Update Order & Tiletick Scheduling",
+      "category": "Fun Projects",
+      "posted": "2025-04-12T15:19:01.013000+00:00"
+    },
+    {
+      "id": "ip0IKGwx49M",
+      "t": null,
+      "title": "CodeJar - Creating Fully Destructible Planets in Godot!",
+      "category": "Fun Projects",
+      "posted": "2025-04-16T08:10:09.667000+00:00"
+    },
+    {
+      "id": "4cBom2lAx-g",
+      "t": null,
+      "title": "Evan Zhou - This PDF runs AI",
+      "category": "Fun Projects",
+      "posted": "2025-04-21T04:56:10.035000+00:00"
+    },
+    {
+      "id": "WQQrFOgRjDg",
+      "t": null,
+      "title": "Deckard - Let's turn Gerrymandering into a puzzle genre!",
+      "category": "Fun Projects",
+      "posted": "2025-04-23T14:04:29.557000+00:00"
+    },
+    {
+      "id": "yctM7oTLurA",
+      "t": null,
+      "title": "SpacetimeDB - Database-Oriented Design: Why We Built Our MMORPG Inside a Database",
+      "category": "Computer Science",
+      "posted": "2025-04-30T07:18:27.041000+00:00"
+    },
+    {
+      "id": "vgmqUhvQlww",
+      "t": null,
+      "title": "ElectrArc240 - Everything is Better: GaN vs Silicon Power Supplies",
+      "category": "Computing Hardware",
+      "posted": "2025-05-02T02:16:15.847000+00:00"
+    },
+    {
+      "id": "Imj4ROIiMw0",
+      "t": null,
+      "title": "Keifer - 4x Code Performance with SIMD",
+      "category": "High Performance Computing",
+      "posted": "2025-05-29T13:36:02.190000+00:00"
+    },
+    {
+      "id": "v8_JmK906fw",
+      "t": null,
+      "title": "MARKitekta - 03.3- How Lumen Fakes the Light That Is NOT There using Screen-space Radiance Caching in Real-time",
+      "category": "Simulation Science",
+      "posted": "2025-06-06T09:43:12.275000+00:00"
+    },
+    {
+      "id": "uq0pJmd7GAA",
+      "t": null,
+      "title": "f4mi - There's a COMPUTER inside my DS flashcart",
+      "category": "Fun Projects",
+      "posted": "2025-06-09T11:59:03.508000+00:00"
+    },
+    {
+      "id": "wxdn30G2LE8",
+      "t": null,
+      "title": "MattKC Bytes - You can now use DISCORD on Windows 95! (and more...)",
+      "category": "Fun Projects",
+      "posted": "2025-06-10T06:01:05.459000+00:00"
+    },
+    {
+      "id": "7hMoz9q4zv0",
+      "t": null,
+      "title": "bycloud - 1-Bit LLM: The Most Efficient LLM Possible?",
+      "category": "Artifical Intelligence",
+      "posted": "2025-06-22T12:28:28.856000+00:00"
+    },
+    {
+      "id": "j1MeM2BMUsA",
+      "t": null,
+      "title": "Myren Eario - End Portal Frame Items are now much easier to get [1.8]",
+      "category": "Fun Projects",
+      "posted": "2025-07-05T10:49:24.709000+00:00"
+    },
+    {
+      "id": "dtjb2OhEQcU",
+      "t": null,
+      "title": "2swap - Double Pendulums are Chaoticn't",
+      "category": "Simulation Science",
+      "posted": "2025-07-12T02:27:00.275000+00:00"
+    },
+    {
+      "id": "to032deYr-Q",
+      "t": null,
+      "title": "iercan - Making Counter Strike in JavaScript because why not",
+      "category": "Fun Projects",
+      "posted": "2025-07-12T09:33:42.934000+00:00"
+    },
+    {
+      "id": "IdpD5QIVOKQ",
+      "t": null,
+      "title": "LambdaConf - Jonathan Blow - Jai Demo and Design Explanation (KEYNOTE) - Updated",
+      "category": "High Performance Computing",
+      "posted": "2025-07-16T10:37:31.682000+00:00"
+    },
+    {
+      "id": "YpY83-kA7Bo",
+      "t": null,
+      "title": "AI Engineer - 2025 in LLMs so far, illustrated by Pelicans on Bicycles — Simon Willison",
+      "category": "Artifical Intelligence",
+      "posted": "2025-07-17T08:22:26.947000+00:00"
+    },
+    {
+      "id": "wo84LFzx5nI",
+      "t": null,
+      "title": "Better Software Conference - Casey Muratori – The Big OOPs: Anatomy of a Thirty-five-year Mistake – BSC 2025",
+      "category": "High Performance Computing",
+      "posted": "2025-07-18T02:41:24.176000+00:00"
+    },
+    {
+      "id": "uQtJs-AwKng",
+      "t": null,
+      "title": "TheTxT - The anatomy of a Minecraft world",
+      "category": "Fun Projects",
+      "posted": "2025-07-23T06:34:03.377000+00:00"
+    },
+    {
+      "id": "XQufXEjCYhY",
+      "t": null,
+      "title": "mrkogamedev - I released my game... Now what? | Metro Gravity Retrospective",
+      "category": "Fun Projects",
+      "posted": "2025-07-25T02:54:44.903000+00:00"
+    },
+    {
+      "id": "iv-5mZ_9CPY",
+      "t": null,
+      "title": "3Blue1Brown - But how do AI images and videos actually work? | Guest video by Welch Labs",
+      "category": "Artifical Intelligence",
+      "posted": "2025-07-25T14:44:14.710000+00:00"
+    },
+    {
+      "id": "o7qx-wgl3jo",
+      "t": null,
+      "title": "PortalRunner - Renaming This File Changes what it Does",
+      "category": "Fun Projects",
+      "posted": "2025-08-03T11:56:52.884000+00:00"
+    },
+    {
+      "id": "-rsVgA3SrxE",
+      "t": null,
+      "title": "AnalyzingEverything - What time is it on Mercury?",
+      "category": "Space",
+      "posted": "2025-11-03T13:55:23.243000+00:00"
+    },
+    {
+      "id": "cqL3jvlU61c",
+      "t": null,
+      "title": "Tariq10x - How DOOM Will Teach You What CS Degrees Miss",
+      "category": "Computer Science",
+      "posted": "2025-12-30T13:32:31.636000+00:00"
+    },
+    {
+      "id": "W2xZxYaGlfs",
+      "t": null,
+      "title": "Siliconversations - Why Does The Seahorse Emoji Drive ChatGPT Insane?",
+      "category": "Artifical Intelligence",
+      "posted": "2026-01-01T07:41:02.377000+00:00"
+    },
+    {
+      "id": "NQesrVuraUc",
+      "t": null,
+      "title": "Coding with Tom - The C++ Compiler Is A Nightmare!",
+      "category": "High Performance Computing",
+      "posted": "2026-01-12T03:51:58.802000+00:00"
+    },
+    {
+      "id": "c1zssAsg9ZY",
+      "t": null,
+      "title": "Art of the Problem - The Profit Paradox",
+      "category": "Corporate Secrets",
+      "posted": "2026-01-23T14:00:20.871000+00:00"
+    },
+    {
+      "id": "7z9NNrRDHQU",
+      "t": null,
+      "title": "CppCon - Reflection: C++’s Decade-Defining Rocket Engine - Herb Sutter - CppCon 2025",
+      "category": "High Performance Computing",
+      "posted": "2026-01-24T10:51:15.963000+00:00"
+    },
+    {
+      "id": "IdV5TEIsJhs",
+      "t": null,
+      "title": "bycloud - The RL Irony in LLMs (and its insane new meta)",
+      "category": "Artifical Intelligence",
+      "posted": "2026-01-24T12:22:27.743000+00:00"
+    },
+    {
+      "id": "SKTsNV41DYg",
+      "t": null,
+      "title": "Mo Bitar - After two years of vibecoding, I’m back to writing by hand",
+      "category": "Artifical Intelligence",
+      "posted": "2026-01-26T04:23:46.330000+00:00"
+    },
+    {
+      "id": "2lLFBun1qR0",
+      "t": null,
+      "title": "Asianometry - Silicon Valley Thinks TSMC is Braking the AI Boom",
+      "category": "Computing Hardware",
+      "posted": "2026-02-02T02:43:36.776000+00:00"
+    },
+    {
+      "id": "e6crOMC9WCE",
+      "t": null,
+      "title": "Software Unscripted Podcast - Jonathan Blow on Programming Language Design",
+      "category": "High Performance Computing",
+      "posted": "2026-02-11T08:05:43.830000+00:00"
+    },
+    {
+      "id": "pey9u_ANXZM",
+      "t": null,
+      "title": "NDC Conferences - How I Tamed Claude - Emmz Rendle - NDC London 2026",
+      "category": "Artifical Intelligence",
+      "posted": "2026-02-22T13:31:38.826000+00:00"
+    },
+    {
+      "id": "gtk3RZHwJUA",
+      "t": null,
+      "title": "Tsoding - Insane Shadow Data Trick in C",
+      "category": "Computer Science",
+      "posted": "2026-02-26T14:14:14.500000+00:00"
+    },
+    {
+      "id": "W2c54mO4F7g",
+      "t": null,
+      "title": "NDC Conferences - The 1 Trillion Pixel Maze: My Decade-Long Obsession with C# Optimization - Davy Davidse",
+      "category": "High Performance Computing",
+      "posted": "2026-03-08T09:37:03.989000+00:00"
+    },
+    {
+      "id": "ZmPIxfCggFw",
+      "t": null,
+      "title": "Core Dumped - The Question Nobody Ever Explains: Where Does the Kernel End?",
+      "category": "Computer Science",
+      "posted": "2026-03-08T11:16:02.860000+00:00"
+    },
+    {
+      "id": "DUgzXX2_aDQ",
+      "t": null,
+      "title": "LearnThatStack - Containers Don't Exist  - Your Kernel Is Lying to You",
+      "category": "Computer Science",
+      "posted": "2026-03-08T11:31:05.521000+00:00"
+    },
+    {
+      "id": "Qu-00j9XuF0",
+      "t": null,
+      "title": "HGModernism - When lying is the best strategy for AI",
+      "category": "Artifical Intelligence",
+      "posted": "2026-03-26T09:56:23.206000+00:00"
+    },
+    {
+      "id": "xUlX6jvwVfM",
+      "t": null,
+      "title": "bycloud - DeepSeek's Insane Architecture Breakthrough [Engram Explained]",
+      "category": "Artifical Intelligence",
+      "posted": "2026-03-26T13:24:04.463000+00:00"
+    },
+    {
+      "id": "_jmQVH9L8vI",
+      "t": null,
+      "title": "Fraser Cain - Everything You Need to Know About Gravitational Waves in 2026",
+      "category": "Space",
+      "posted": "2026-03-27T15:22:29.976000+00:00"
+    },
+    {
+      "id": "r4V21_uUK8Y",
+      "t": null,
+      "title": "runevision - Fast & Gorgeous Erosion Filter Explained",
+      "category": "Simulation Science",
+      "posted": "2026-04-03T12:20:35.591000+00:00"
+    },
+    {
+      "id": "-QL42dGHsmY",
+      "t": null,
+      "title": "Incandescent Games - I Spent 5 Years Building a Voxel Survival Game Where the World Is a Planet",
+      "category": "Fun Projects",
+      "posted": "2026-04-03T14:14:00.982000+00:00"
+    },
+    {
+      "id": "t992ul_IKtc",
+      "t": null,
+      "title": "Dave's Garage - Why your NEW computer is SLOWER than your OLD computer!  By a Retired Microsoft Engineer.",
+      "category": "High Performance Computing",
+      "posted": "2026-04-08T05:56:32.148000+00:00"
+    },
+    {
+      "id": "KKbgulTp3FE",
+      "t": null,
+      "title": "LaurieWired - Your RAM Has a 60 Year Old Design Flaw. I Bypassed It.",
+      "category": "Computing Hardware",
+      "posted": "2026-04-08T06:33:55.047000+00:00"
+    },
+    {
+      "id": "IMceN4_rieo",
+      "t": null,
+      "title": "Core Dumped - How Hardware Makes Threads Less of a Nightmare",
+      "category": "Computing Hardware",
+      "posted": "2026-04-08T08:01:18.350000+00:00"
+    },
+    {
+      "id": "tLz2BHofZPY",
+      "t": null,
+      "title": "Plumify - Every Major Windows F*ckup Explained in 8 Minutes",
+      "category": "Corporate Secrets",
+      "posted": "2026-04-10T13:19:24.445000+00:00"
+    },
+    {
+      "id": "Le3g9V-BJIA",
+      "t": null,
+      "title": "Kosmic 2 - Super Mario Bros. \"ACE\" TAS Showcase and Console Verification",
+      "category": "Fun Projects",
+      "posted": "2026-04-11T17:45:58.130000+00:00"
+    },
+    {
+      "id": "cltnlks2-uU",
+      "t": null,
+      "title": "Adrian's Digital Basement - We ran Doom on a 40 year old printer controller (Agfa Compugraphic 9000PS)",
+      "category": "Fun Projects",
+      "posted": "2026-04-16T12:50:43.021000+00:00"
+    },
+    {
+      "id": "YPObBOwIrHk",
+      "t": null,
+      "title": "Ryan Peterman - Turing Award Winner: Disagreeing with Google, Postgres, Future Problems | Mike Stonebraker",
+      "category": "Computer Science",
+      "posted": "2026-04-21T12:18:36.242000+00:00"
+    },
+    {
+      "id": "OsyKxWxGtiI",
+      "t": null,
+      "title": "Neural Download - Protobuf: Why Google's Servers Don't Speak JSON",
+      "category": "Computer Science",
+      "posted": "2026-04-25T16:04:33.043000+00:00"
+    },
+    {
+      "id": "eWUDoms2iJo",
+      "t": null,
+      "title": "Photosounder - How I do pixel math properly and dither colours nicely",
+      "category": "Simulation Science",
+      "posted": "2026-04-29T14:20:42.497000+00:00"
+    },
+    {
+      "id": "b_KxiTPBIb0",
+      "t": null,
+      "title": "Caleb Writes Code - Google TPU 8t and 8i is here..",
+      "category": "Computing Hardware",
+      "posted": "2026-04-30T06:41:53.821000+00:00"
+    },
+    {
+      "id": "i_eU16X67qU",
+      "t": null,
+      "title": "Artful Bytes - I kept coding until an RTOS was inevitable",
+      "category": "Computer Science",
+      "posted": "2026-05-21T07:00:09.823000+00:00"
+    },
+    {
+      "id": "uJkoI5TnKzA",
+      "t": null,
+      "title": "Sheafification of G - One second to find the BILLIONth PRIME",
+      "category": "High Performance Computing",
+      "posted": "2026-05-23T02:19:16.550000+00:00"
+    },
+    {
+      "id": "LpXhy2iiaQE",
+      "t": null,
+      "title": "Two Minute Papers - DeepSeek’s New AI Is A Game Changer",
+      "category": "Artifical Intelligence",
+      "posted": "2026-05-25T07:29:27.893000+00:00"
+    },
+    {
+      "id": "lAwb6fFmfA8",
+      "t": null,
+      "title": "Devsplainers - Why Your AI Coding Bill Is About to Explode",
+      "category": "Artifical Intelligence",
+      "posted": "2026-06-03T07:52:23.288000+00:00"
+    },
+    {
+      "id": "vy7o1g2iHY8",
+      "t": null,
+      "title": "AI Engineer - How I deleted 95% of my agent skills and got better results — Nick Nisi, WorkOS",
+      "category": "Artifical Intelligence",
+      "posted": "2026-06-03T10:08:46.193000+00:00"
+    },
+    {
+      "id": "l6DKRf-fAAM",
+      "t": null,
+      "title": "3Blue1Brown - Reinventing Entropy | Compression is Intelligence Part 1",
+      "category": "Artifical Intelligence",
+      "posted": "2026-06-07T14:15:17.546000+00:00"
+    },
+    {
+      "id": "9gHcmhUDJfw",
+      "t": null,
+      "title": "Prompt Engineering - Run a 284B Model in 128 GB: DwarfStar Selective Quantization Explained",
+      "category": "Artifical Intelligence",
+      "posted": "2026-06-20T08:20:36.905000+00:00"
+    },
+    {
+      "id": "m1xBW56j4yA",
+      "t": null,
+      "title": "Nexus Institute - The Wild West of digital technology in a capitalist system",
+      "category": "Corporate Secrets",
+      "posted": "2026-06-20T10:53:34.911000+00:00"
+    },
+    {
+      "id": "EP1mYq8hLIY",
+      "t": null,
+      "title": "Steve Mould - The Anti Trampoline Effect",
+      "category": "Science & Engineering",
+      "posted": "2026-06-26T09:06:48.997000+00:00"
+    },
+    {
+      "id": "3HeyZIqlGpo",
+      "t": null,
+      "title": "TheStandupPodClips - Symptoms of AI Psychosis",
+      "category": "Artifical Intelligence",
+      "posted": "2026-06-26T09:26:37.329000+00:00"
+    },
+    {
+      "id": "eOvRXW5rQDU",
+      "t": null,
+      "title": "Akhil Sharma - How Datadog Lost 40,000 Servers in 13 Hours",
+      "category": "Corporate Secrets",
+      "posted": "2026-07-08T11:54:32.689000+00:00"
+    },
+    {
+      "id": "5F-2Y1LPRek",
+      "t": null,
+      "title": "Software Should Work - Fil-C: Garbage In, Memory Safety Out! - Filip Pizlo | SSW 2026",
+      "category": "Computer Science",
+      "posted": "2026-07-25T08:31:59.617000+00:00"
+    },
+    {
+      "id": "PHYCRubnmSM",
+      "t": null,
+      "title": "Software Should Work - Saturation: How Your Software Will Fail at Scale - Lorin Hochstein | SSW 2026",
+      "category": "Computer Science",
+      "posted": "2026-07-31T08:19:33.487000+00:00"
+    },
+    {
+      "id": "V_qzqY1bb7I",
+      "t": null,
+      "title": "Software Should Work - Reliability Lessons From SQLite - Richard Hipp | SSW 2026",
+      "category": "Computer Science",
+      "posted": "2026-08-04T06:06:07.917000+00:00"
+    },
+    {
+      "id": "3MKRjt59hh4",
+      "t": null,
+      "title": "TechTechPotato - Why did AMD just buy this REALLY WEIRD chip company?",
+      "category": "Computing Hardware",
+      "posted": "2026-08-07T01:35:26.517000+00:00"
+    },
+    {
+      "id": "6_QXSyIhqB4",
+      "t": null,
+      "title": "TechTechPotato - What do we actually think about Hyperscale Silicon?? // The AI Hardware Podcast S2E9",
+      "category": "Computing Hardware",
+      "posted": "2026-08-11T12:53:56.151000+00:00"
+    },
+    {
+      "id": "5FcHP22u0zs",
+      "t": null,
+      "title": "Jan-Niklas Wortmann - What Actually Gets You 2-3x With AI Coding (ft. Dex Horthy)",
+      "category": "Artifical Intelligence",
+      "posted": "2026-08-14T02:33:36.896000+00:00"
+    },
+    {
+      "id": "qg9EyGOZd9U",
+      "t": null,
+      "title": "NeuralNine - DeepSeek Harness: The End of Claude Code?",
+      "category": "Artifical Intelligence",
+      "posted": "2026-08-16T03:55:23.364000+00:00"
+    },
+    {
+      "id": "UJ_W0O3sFnY",
+      "t": null,
+      "title": "Nathan Baggs - Why Its So Hard To Write A Fast grep",
+      "category": "High Performance Computing",
+      "posted": "2026-08-19T04:04:11.678000+00:00"
+    },
+    {
+      "id": "ezbLa-c2MBM",
+      "t": null,
+      "title": "TechTechPotato - GPT-5.6 Sol Ultrafast.... Just Got UltraFaster (Cerebras 4th Gen)",
+      "category": "Computing Hardware",
+      "posted": "2026-08-19T16:03:00.725000+00:00"
+    },
+    {
+      "id": "pRf8_40EDtM",
+      "t": null,
+      "title": "Tom Delalande - How to beat a monopoly - Linear Case Study",
+      "category": "Corporate Secrets",
+      "posted": "2026-08-25T00:56:49.294000+00:00"
+    },
+    {
+      "id": "cqwKceUSZ5Q",
+      "t": null,
+      "title": "bycloud - Robots Just Had Their GPT-3 Moment",
+      "category": "Artifical Intelligence",
+      "posted": "2026-09-04T14:31:16.670000+00:00"
+    },
+    {
+      "id": "ONxwjqFjP3A",
+      "t": null,
+      "title": "Molly Rocket - High-performance Database Architecture - An Interview with Tyler Cloutier",
+      "category": "High Performance Computing",
+      "posted": "2026-09-10T12:08:56.796000+00:00"
+    },
+    {
+      "id": "BUkLWjcoBc0",
+      "t": null,
+      "title": "Ro0oney - I Put A Fly's Conscious Brain into Minecraft",
+      "category": "Fun Projects",
+      "posted": "2026-09-11T05:23:46.236000+00:00"
+    },
+    {
+      "id": "eZ8WWZzoaR0",
+      "t": null,
+      "title": "AI Engineer - Homa: The End of TCP for AI Clusters — John Ousterhout, Stanford",
+      "category": "Computer Science",
+      "posted": "2026-09-23T14:54:23.653000+00:00"
+    },
+    {
+      "id": "W39hBPOk9Hk",
+      "t": null,
+      "title": "Tastemaker Design - The Theoretical Limit of Image Compression",
+      "category": "Computer Science",
+      "posted": "2026-09-23T15:30:32.482000+00:00"
+    },
+    {
+      "id": "LiDUg_uylyM",
+      "t": null,
+      "title": "The Tech Report - This is how the AI bubble pops | Cory Doctorow",
+      "category": "Artifical Intelligence",
+      "posted": "2026-09-29T04:07:28.672000+00:00"
+    },
+    {
+      "id": "xP1kjDOisVw",
+      "t": null,
+      "title": "bycloud - The Strange Economics of LLM Inference-as-a-Service",
+      "category": "Artifical Intelligence",
+      "posted": "2026-09-30T01:02:55.005000+00:00"
+    },
+    {
+      "id": "_rtp1XzaP6Q",
+      "t": null,
+      "title": "AI Explained - OpenAI Security: Controlling Models is Now ‘Hell’",
+      "category": "Artifical Intelligence",
+      "posted": "2026-10-02T00:55:02.430000+00:00"
+    },
+    {
+      "id": "QGWKCaglSBI",
+      "t": null,
+      "title": "Arjay McCandless - I Asked Expert Programmers to Max Out a $12 Server",
+      "category": "High Performance Computing",
+      "posted": "2026-10-13T15:52:38.151000+00:00"
+    },
+    {
+      "id": "f1wETGXJ2Fw",
+      "t": null,
+      "title": "Zigtoberfest - Pushing CSV to the Limits - Peyman Mortazavi - Zigtoberfest 2026",
+      "category": "High Performance Computing",
+      "posted": "2026-10-14T12:58:02.744000+00:00"
+    }
+  ],
+  "ignored": [
+    "zc9qEEap2GE",
+    "4epAfU1FCuQ",
+    "gPrQNN0Qq5o",
+    "kQkyouPOrD4",
+    "NIg2mG699Q8",
+    "2hRlEBCBuQg",
+    "QuvmpaJQzuk",
+    "SM_2D3lDim8",
+    "sQrtbg3zOTE",
+    "Npf-B5Av7aQ",
+    "OQOkRrdxWyM"
+  ]
+}
