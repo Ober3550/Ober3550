@@ -6,59 +6,81 @@
 **LinkedIn:** https://www.linkedin.com/in/oliver-mainey/  
 
 ## Summary
-I'm a hands-on engineer that's always trying to understand the bigger picture. "Show me the incentive, and I'll show you the outcome." - Charlie Munger. I'm always looking at how to make the product better for the customer, an experience 10x better will see 1000x more usage so the less latency, the better interactivity, simpler application that does what the customer <u>needs</u> will always win. My greatest strengths are mindsets aligning with these goals; data oriented design, testing, deployment and developer tooling - because a more effective application and developer the greater value proposition to the business. There's a long history of failed IT projects because of code quantity over code quality, the AI future on the horizon seems to want to re-tread that same path and I'd encourage businesses to think about quality more.  
+
+I'm a Software Engineer with 5+ years building production systems in ad-tech, fintech, e-commerce and aged care. I focus on performance, testing and developer tooling. Outside work I'm passionate about high-performance computing and simulation science. I've built fluid and gravity simulations, and I keep up with new language features and optimisation techniques. Most recently I built a tool that searches all 4.3 billion Factorio seeds for the ideal Space Exploration playthrough and can generate the surface of any planet or moon on demand, using multi-core CPU and GPU compute.
 
 ## Core Skills
-### Portfolio - https://github.com/Ober3550  
 
-| Category | Technologies |
-|----------|-------------|
-| Languages | C, C++ (SIMD), Rust, Go, Java, C#, TypeScript/JavaScript, Python, SQL, Lua, Groovy, MATLAB, F#, R, Bash, HTML/CSS, XSLT |
-| Backend / Services | Dotnet, Node.js, Bun, REST, gRPC, JMS, ActiveMQ |
-| Frameworks & UI | Angular, React Native, ImGui, SDL2, SFML, P5.js, Google Web Toolkit |
-| Cloud & Infra | AWS, GCP, Azure DevOps, Docker, Kubernetes, Helm, Terraform, Nginx, Git Pipelines, Jenkins |
-| Testing & Quality | Jest, JUnit, Cucumber, Selenium, Chromedriver, Mountebank, Imposter.sh |
-| Data & Monitoring | PostgreSQL, MySQL, SQLite, Oracle, BigQuery, Azure App Insights, Google Analytics, Grafana |
-| Tooling & Productivity | GitHub, Bitbucket, Jira, Confluence, Docmosis, LibreOffice, GPT-5, Agentic AI, MCP |
-| Strength Themes | Data oriented design, performance profiling, multi-scale testing, developer productivity oriented and robust design |
+| Category               | Technologies                                                                                                                                                         |
+| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Languages              | C++ (SIMD), C, Rust, Zig, Golang, C#, Java, Python, TypeScript/JavaScript, MATLAB, SQL, Bash, Kotlin, Swift, F#, Lua, Groovy, PHP, R, XSLT, HTML/CSS                 |
+| Backend / Services     | .NET, Node.js, Bun, JMS, ActiveMQ, Laravel                                                                                                                           |
+| Frameworks & UI        | React Native, Next.js, Vue, HTMX, Angular, DearImGui, SDL2, SFML, OpenGL, P5.js, Google Web Toolkit                                                                  |
+| Cloud & Infra          | AWS, GCP, Azure DevOps, GitHub Actions, Docker, Kubernetes, Helm, Terraform, Nginx, Jenkins, Linux                                                                   |
+| Testing & Quality      | Jest, JUnit, Cucumber, Selenium, Chromedriver, WebdriverIO, Appium, Mountebank, Imposter.sh                                                                          |
+| Data & Monitoring      | PostgreSQL, MySQL, SQLite, Oracle, BigQuery, RESTful, gRPC, Protobuf, Azure App Insights, Google Analytics, Grafana                                                  |
+| Tooling & Productivity | Claude Code, GPT-5.6 Sol, Deepseek V4 pro, Deepseek Harness, Pi Agent, OpenClaw, GitHub, Bitbucket, Jira, Confluence, Docmosis, LibreOffice, Agentic AI, Custom MCPs |
+| Strength Themes        | Data oriented design, performance profiling, multi-scale testing, developer productivity oriented and robust design                                                  |
 
 ## Experience
-### Domino’s – Software Engineer  
-*April 2023 – Present*  
-**Domain:** Global Delivery and Pickup Search - Aus/NZ, Japan, Singapore, Malaysia, Taiwan, Germany, France, Netherlands and Berlin
 
-- Improved the Dominos Maps support (React Native, Jest, Chromedriver) modernising the UI.
-- Extended various backend microservices (C#/Dotnet, Swagger)
-- Solo developed package management workflow for Imposter.sh definitions.
-- Platform Foundation DevOps containerising Dotnet and Node services, standardised Azure DevOps pipelines, and refined Kubernetes deployment patterns and error reporting using Helm.
+### Trilogy Care – Software Engineer
 
-**Key Technologies:** Dotnet, C#, TypeScript, Node.js, React Native, Azure DevOps, Docker, Kubernetes, Bash, Python, Imposter.sh
+_October 2025 – August 2026_  
+_Home care provider: nursing, cleaning, gardening, meals and home modifications_
 
-### CitrusAd – Software Engineer  
-*March 2022 – April 2023*  
-**Platform Scale:** 500M ad requests/day serving Coles, Woolworths, Target and 100+ others satisfying the ad campaigns of 3.5k brands
+- Built features for the new client mobile and web app (React Native, PHP/Laravel): incident reporting, service leave requests, contact management, profile updates and document sign-off.
+- Built and maintained internal systems (PHP/Laravel, Vue) supporting operations, care coordination and billing.
+- Developed a claims classification app (Next.js) that maps invoice line items to government funding categories, so each claim is billed against the right budget.
 
-- Contributed to Ad Relevancy services (Go, Postgres, BigQuery) focusing on latency optimization & ranking correctness.
-- Implemented Seller ID feature (Go, Java, BigQuery) for allowing multiple sellers to advertise the same product and receive correct impression and click-through reporting
-- Solo released across all retailers with a live system and dealt with performance issues of re-indexing 20 billion ad generation events across 2 weeks of 9am-12am
-- Solo developed Imposter (Node, Docker, Kubernetes, Terraform) allowing monitoring of deployed service versions and redirecting platform traffic to local application instances for debugging
+### Domino’s – Software Engineer
 
-**Key Technologies:** Go, Java, Node.js, PostgreSQL, BigQuery, Docker, Kubernetes, Terraform
+_April 2023 – September 2025_  
+_Global delivery and pickup search across 9 markets: Australia/NZ, Japan, Singapore, Malaysia, Taiwan, Germany, France and the Netherlands_
 
-### GBST – Graduate Software Engineer  
-*Jan 2021 – March 2022*  
-**Domain:** GBST provides asset management software for NAB, Westpack, UniSuper and more
+- Extended Google Maps store search and address lookup to Germany, France, Taiwan, Japan and Malaysia (React Native, Jest, Chromedriver), handling local address formats and modernising the UI.
+- Extended various backend search microservices for internal business operations (C#/.NET, Swagger).
+- Designed and built a package management workflow for Imposter.sh mock definitions, letting teams share and version API mocks.
+- Containerised .NET and Node services, standardised Azure DevOps pipelines, and refined Kubernetes deployment patterns and error reporting with Helm.
 
-- Enhanced Retail Cash Accounts module (Java, GWT, Postgres) extending transactional capabilities outside the private banking and pension sector.
-- Supported CHESS to CSP integration with message-driven architecture (ActiveMQ, JMS).
-- Solo developed a TLE to Groovy transpiler (5k lines, Node) aswell as the groovy testing client (5k lines, Java, Spring, JUnit4) to modernize legacy scripting converting 2 million lines of code.
+### CitrusAd – Software Engineer
 
-**Key Technologies:** Java, GWT, Spring, ActiveMQ/JMS, Postgres, Node, Groovy, XSLT
+_March 2022 – April 2023_  
+_Retail media platform: 500M ad requests a day for Coles, Woolworths, Target and 100+ retailers, serving 3.5k brands_
+
+- Worked on ad relevancy services (Go, PostgreSQL, BigQuery), focusing on latency and ranking correctness.
+- Delivered the Seller ID feature (Go, Java, BigQuery), letting multiple sellers advertise the same product with correct impression and click-through reporting.
+- Owned the rollout to all retailers on the live system, managing the re-index of 20 billion ad events over two weeks of 9am–12am shifts.
+- Built a debugging tool (Node, Docker, Kubernetes, Terraform) that tracked deployed service versions and redirected platform traffic to local instances.
+
+### GBST – Graduate Software Engineer
+
+_Jan 2021 – March 2022_  
+_Wealth management software for NAB, Westpac, UniSuper and others_
+
+- Wrote a TLE-to-Groovy transpiler (5k lines, Node) and a Groovy test client (5k lines, Java, Spring, JUnit), modernising 2 million lines of legacy scripts.
+- Enhanced the Retail Cash Accounts module (Java, GWT, PostgreSQL), extending transactions beyond private banking and pensions.
+- Supported the CHESS-to-CSP integration with message-driven architecture (ActiveMQ, JMS).
+
+## Projects
+
+### [SolarSim: N-body gravity simulation](https://github.com/ober3550/SolarSim) (C++, SIMD, multithreading, OpenGL, DearImGui)
+
+- Real-time gravitational simulation of 20,000+ bodies, computing every pairwise interaction (O(n²)) and kept fast with SIMD and multithreading.
+- 2D and 3D versions with orbital path tracing, collisions that merge bodies, and shaded rendering.
+
+### [seed-search: procedural universe and planet generator](https://github.com/ober3550/seed-search) (Zig, WebGPU, WebAssembly)
+
+- Rebuilt a game's Lua generator for star systems, planets and terrain in Zig, matching the original output exactly. It's checked against the Lua by an automated comparison harness.
+- Scanned all ~2.15 billion distinct universes using multi-core CPU and WebGPU compute kernels. Any planet surface can be generated in the browser via WebAssembly: [live surface demo](https://ober3550.github.io/seed-search/surface.html?mod=se&target=Nauvis&seed=2606936850).
+
+### [factorio-ai: MCP server for AI agents](https://github.com/ober3550/factorio-ai) (TypeScript, Lua, MCP)
+
+- Lets AI agents such as Claude play Factorio. A TypeScript bridge talks to an in-game Lua mod over RCON, exposing 56 tools for observing the world, building, and planning blueprints.
 
 ## Education
+
 **Queensland University of Technology**  
 Bachelor of Information Technology (Distinction)  
-Majors: Computer Science & Simulation Science  
-Focus: Physical Simulation using High Performance Computing (C++) and Data Visualization (Matlab, MatPlotLib, OpenGL)
-
-*Last updated: 2025-08-21*
+Majors: Computer Science and Simulation Science  
+Focus: physical simulation with high-performance C++ and data visualisation (MATLAB, Matplotlib, OpenGL)
